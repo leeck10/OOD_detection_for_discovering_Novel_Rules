@@ -1,0 +1,1046 @@
+entailment	A man and a woman sitting by the water	Two people are sitting by the water
+entailment	two young children walking on a tiled floor	Two young people are walking on a tiled floor
+entailment	A young child in a yellow shirt and shorts frolics at a park with birds in the background	A young person in a yellow shirt and shorts frolics at a park with birds in the background
+entailment	A little boy in red walks and eats a snack while a little boy in green walks behind	A little child in red walks and eats a snack while a little child in green walks behind
+entailment	Two blond women serve themselves from a platter while sitting at a banquet table with glasses of red wine	Two blond people serve themselves from a platter while sitting at a banquet table with glasses of red wine
+entailment	A blond woman offers a platter of food to another blond woman while sitting at a white table	A blond person offers a platter of food to another blond person while sitting at a white table
+entailment	Two women dressed professionally and wearing name tags eating a meal at an event	Two people dressed professionally and wearing name tags are eating a meal at an event
+entailment	A woman with a blue shawl is holding a plate of food for another woman	A person with a blue shawl is holding a plate of food for another person
+entailment	two women at a table eating	Two people at a table are eating
+entailment	A man sitting in front of a metal sculpture in front of a building	A person sitting in front of a metal sculpture in front of a building
+entailment	A person carrying a metaldetector walking down a busy sandy beach	An individual carrying a metaldetector is walking down a busy sandy beach
+entailment	A young boy holding a broom or mop in a laundry room	A young person holding a broom or mop in a laundry room
+entailment	A little girl in a blue dress hides behind an electric pole	A little child in a blue dress hides behind an electric pole
+entailment	A group of four friends are drinking alcohol at a party	A group of four people are drinking alcohol at a party
+entailment	infant boy with blondhair in blue clog sandals blue jumper touching an orange traffic cone	An infant child with blond hair in blue clog sandals and a blue jumper is touching an orange traffic cone
+entailment	A boy with a blue plaid shirt and shorts looks into an orange construction cone	A child with a blue plaid shirt and shorts looks into an orange construction cone
+entailment	Fair haired child peers into the top of an orange road traffic cone	A fair-haired person peers into the top of an orange road traffic cone
+entailment	Blondhaired toddler boy explores a traffic cone	A blond-haired child explores a traffic cone
+entailment	People fill their plates with food in the buffet line	People fill their plates with food in the buffet line
+entailment	People serving themselves food at a buffet at night	People are serving themselves food at a buffet at night
+entailment	A group of people are lined up at a dinner buffet	A gathering of people are lined up at a dinner buffet
+entailment	A group of people gets food from a buffet line	A group of individuals gets food from a buffet line
+entailment	A man and woman sit in wicker furniture	Two people sit in wicker furniture
+entailment	A young woman in a print and black colored top is utilizing flour and other ingredients to bake in the kitchen	A young person in a print and black colored top is utilizing flour and other ingredients to bake in the kitchen
+entailment	Two AfricanAmerican people are sitting on a couch and chair looking at something	Two people are sitting on a couch and chair looking at something
+entailment	Two people are sitting on furniture and looking at the camera	Two people are sitting on furniture and looking at the camera
+entailment	A man and a woman sit on wicker couches in a large white room	Two people sit on wicker couches in a large white room
+entailment	Two Black people are sitting on separate couches	Two individuals are sitting on separate couches
+entailment	A group of four friends meets outdoors	A group of four people meets outdoors
+entailment	Four distant figures walking through a cultivated field	Four distant people are walking through a cultivated field
+entailment	Young people standing around smiling	Young people are standing around smiling
+entailment	Four friends engaged in conversation	Four people are engaged in conversation
+entailment	An elderly lady in a colorful scarf is smiling while holding a hammer and nails	An elderly person in a colorful scarf is smiling while holding a hammer and nails
+entailment	An older woman in a blue shirt and colorful scarf admires a halfwrapped claw hammer	An older person in a blue shirt and colorful scarf admires a half-wrapped claw hammer
+entailment	An elderly woman in a blue shirt unwraps a hammer	An elderly person in a blue shirt unwraps a hammer
+entailment	An old woman is holding a hammer wrapped in bubble wrap	An old person is holding a hammer wrapped in bubble wrap
+entailment	A rock band performs in a dark venue	A group performs in a dark venue
+entailment	A man wearing a blue shirt and gray pants working on a florescent light fixture	A person wearing a blue shirt and gray pants is working on a florescent light fixture
+entailment	A man wearing a blue shirt is connecting a wire to a light	A person wearing a blue shirt is connecting a wire to a light
+entailment	The man in the blue shirt is working on the light	The person in the blue shirt is working on the light
+entailment	A five member band dressed in a variety of different colored clothing and using a wide variety of instruments perform a song for an audience on a stage	A five-member group dressed in a variety of different colored clothing and using a wide variety of instruments performs a song for an audience on a stage
+entailment	A man in a white shirt and red tie presents at a meeting	A person in a white shirt and red tie presents at a meeting
+entailment	A man in a white button up shirt and red tie talks to people in a restaurant	A person in a white button-up shirt and red tie talks to people in a restaurant
+entailment	A rocking band entertaining a crowd	A rocking group is entertaining a crowd
+entailment	A man in a blue suit holding a bottle	A person in a blue suit is holding a bottle
+entailment	A man with a soda walking by a red and green brick building	A person with a soda is walking by a red and green brick building
+entailment	A man in a blue suit walks by a red brick building with a drink in his hand	A person in a blue suit walks by a red brick building with a drink in their hand
+entailment	A man in a blue suit is walking down the street	A person in a blue suit is walking down the street
+entailment	A man is walking in a dark suit holding a green bottle	A person is walking in a dark suit holding a green bottle
+entailment	Two boys are doing tricks on their skateboards at a skateboard park	Two people are doing tricks on their skateboards at a skateboard park
+entailment	A blueshirted skateboarder grinds on a rail and another flips his board in the air while other people roll in the background of the park	An individual in a blue shirt grinds on a rail and another flips his board in the air while other people roll in the background of the park
+entailment	Some very talented skateboarders having a great ride	Some very talented people are having a great ride
+entailment	Two males skateboarding at a park and performing tricks	Two people are skateboarding at a park and performing tricks
+entailment	Two boys skateboarding at a park	Two people are skateboarding at a park
+entailment	Hockey players waiting for the referee to drop the puck	People are waiting for the referee to drop the puck
+entailment	A man in a black shirt and hat holding a sleeping baby with a yellow afghan	A person in a black shirt and hat is holding a sleeping baby with a yellow afghan
+entailment	Two players from opposing hockey teams face off for control of the hockey puck while their teammates look on	Two people from opposing hockey teams face off for control of the hockey puck while their teammates look on
+entailment	A man in a red plaid shirt stops to inspect the colorful balloon stand in the busy downtown walkway while may tourists continue to walk by	A person in a red plaid shirt stops to inspect the colorful balloon stand in the busy downtown walkway while many tourists continue to walk by
+entailment	Several Asian woman performing in dance routine	Several Asian people are performing in a dance routine
+entailment	Hockey players fighting over a puck	Individuals are fighting over a puck
+entailment	A young girl in a pink coat throwing leaves into the air	A young person in a pink coat is throwing leaves into the air
+entailment	An event takes place at a Japanese temple	An event takes place at a temple
+entailment	A man in a restaurant tends to the lamb meat	A person in a restaurant tends to the lamb meat
+entailment	Many spectators in suits are gathered for a temple ceremony	Many people in suits are gathered for a temple ceremony
+entailment	Japanese people in traditional and formal dress attending a ceremony	Japanese individuals in traditional and formal dress are attending a ceremony
+entailment	A Japanese crowded is gathered for an event	A group of people is gathered for an event
+entailment	A crowd of people standing at an Asian gathering	A crowd of individuals standing at an Asian gathering
+entailment	A young man in a small motor boat is emptying out a container of water into the lake	A young person in a small motor boat is emptying out a container of water into the lake
+entailment	A person climbing a large mountainside	An individual is climbing a large mountainside
+entailment	A man stands barefoot in jeans with his shoes in his hand and watches the sunset on a snowcovered hill	A person stands barefoot in jeans with their shoes in their hand and watches the sunset on a snowcovered hill
+entailment	A young child wearing black soccer cleats and white shirt who just kicked a soccer ball	A young person wearing black soccer cleats and a white shirt who just kicked a soccer ball
+entailment	A woman in a pink shirt is holding an upset looking baby over her shoulder	A person in a pink shirt is holding an upset looking baby over their shoulder
+entailment	A man in a field wearing a backpack and there are sheep and mountains behind him	A person in a field wearing a backpack and there are sheep and mountains behind them
+entailment	Three street performers play and sing in the streets one is playing an accordion and the other two sing as people walk past	Three people play and sing in the streets; one is playing an accordion and the other two sing as people walk past
+entailment	A woman wearing a bright green dress with an old belt is crossing the street with a young girl and another woman	A person wearing a bright green dress with an old belt is crossing the street with a young person and another person
+entailment	A man wearing a hiking backpack is leaning on a wooden pole	A person wearing a hiking backpack is leaning on a wooden pole
+entailment	A dog runs on the beach with a red dog toy with a yellow rope attached	An animal runs on the beach with a red object with a yellow rope attached
+entailment	An old man hauling his wares in the back of a tricycle	An old person hauling his wares in the back of a tricycle
+entailment	A couple sits on a floral couch while an older woman in the background smiles	A group of people sits on a floral couch while an older person in the background smiles
+entailment	The man in the gray shirt and sandals is pulling the large tricycle	The person in the gray shirt and sandals is pulling the large tricycle
+entailment	A man carrying a backpack on his back walks in a large field of grass	A person carrying a backpack on their back walks in a large field of grass
+entailment	Small roadside kiosk with attendant sitting in a green shirt and pale yellow hat	Small roadside kiosk with a person sitting in a green shirt and pale yellow hat
+entailment	A closeup of a man skateboarding in a skate park	A closeup of a person skateboarding in a skate park
+entailment	Man and woman standing in the desert with a homemade cart	People are standing in the desert with a homemade cart
+entailment	An older man in a purple shirt sitting on a bench with his foot on a pole	An older person in a purple shirt is sitting on a bench with their foot on a pole
+entailment	An elderly man is sitting on a bench with his foot propped up on a tree	An elderly person is sitting on a bench with their foot propped up on a tree
+entailment	A man sits on a part bench with his foot up against a tree	A person sits on a part bench with their foot up against a tree
+entailment	A group of elderly men sitting on a bench indoors	A group of elderly people is sitting on a bench indoors
+entailment	People sitting next to trees on a bench	People sitting next to trees on a bench
+entailment	A red rally car taking a slippery turn in a race	A red rally vehicle is taking a slippery turn in a race
+entailment	Four people hanging out on a park bench listening to one of the four play the guitar	Four people are hanging out on a park bench listening to one of the four play the guitar
+entailment	The woman covers her face when speaking to the man	A person covers their face when speaking to another person
+entailment	The women is holding a baby	The people are holding a baby
+entailment	A mother sits against a shabby wall nursing her baby with a bottle of milk	A parent sits against a shabby wall nursing their baby with a bottle of milk
+entailment	The woman sits leaned against the wall on the cobblestone path feeding her baby from a bottle	A person sits leaned against the wall on the cobblestone path feeding their baby from a bottle
+entailment	A mother sitting on a cobblestone street giving her baby a drink	A parent sitting on a cobblestone street giving their baby a drink
+entailment	A woman holding a baby sits on the ground and leans up against a wall	A person holding a baby sits on the ground and leans up against a wall
+entailment	A baby is holding a cup and playing with a toy watering can	A child is holding a cup and playing with a toy watering can
+entailment	A woman in black stand in a train station as a train pulls up on the other side	A person in black stands in a train station as a train pulls up on the other side
+entailment	Young male child pouring water from watering can	A young person is pouring water from a watering can
+entailment	Woman in a black outfit standing outside at a train station	A person in a black outfit is standing outside at a train station
+entailment	A woman waiting by the train tracks	A person waiting by the train tracks
+entailment	A BMX cyclist is doing a stunt on a riverbank across the river from a factory	A person is doing a stunt on a riverbank across the river from a factory
+entailment	A girl blows a bubble in the water	A person blows a bubble in the water
+entailment	A man with sunglasses on top of his head is playing a slot machine	A person with sunglasses on top of their head is playing a slot machine
+entailment	A man in a black sweatshirt with blue trim playing a slot machine	A person in a black sweatshirt with blue trim is playing a slot machine
+entailment	A man in a sweatshirt playing on a slot machine or arcade game	A person in a sweatshirt is playing on a slot machine or arcade game
+entailment	A man in a black and blue jacket is playing a slot machine	A person in a black and blue jacket is playing a slot machine
+entailment	A person wearing skis looking at framed pictures set up in the snow	An individual wearing skis is looking at framed pictures set up in the snow
+entailment	A man in a hat is displaying pictures next to a skier in a blue hat	A person in a hat is displaying pictures next to another person in a blue hat
+entailment	A man skis past another man displaying paintings in the snow	A person skis past another person displaying paintings in the snow
+entailment	A woman in a red outfit is playing a electric guitar	A person in a red outfit is playing an electric guitar
+entailment	Man on skis looking at artwork for sale in the snow	A person on skis is looking at artwork for sale in the snow
+entailment	Several Japanese motorcycles are lined up	Several Japanese vehicles are lined up
+entailment	Two dogs wearing shirts play in the green grass	Two animals wearing shirts are playing in the green grass
+entailment	two dogs play together	Two animals are playing together
+entailment	A group of men are having their pictures taken on steps	A group of people are having their pictures taken on steps
+entailment	A shower of water is falling on a little girl in a striped shirt	A shower of water is falling on a little child in a striped shirt
+entailment	A young child playing in a fountain	A young person is playing in a fountain
+entailment	A child enjoys splashing water	A person enjoys splashing water
+entailment	A girl in a intricate dress swings high on a swing with ropes from another swing in the foreground	A person in an intricate dress swings high on a swing with ropes from another swing in the foreground
+entailment	A barefooted girl is swinging high on a swing on a spring afternoon	A barefooted child is swinging high on a swing on a spring afternoon
+entailment	A girl wearing a floral black dress is motioning through the air while sitting on the swing	A person wearing a floral black dress is motioning through the air while sitting on the swing
+entailment	Two girls in stockings and skirts sip soda in front of a group of bicycles	Two people in stockings and skirts are sipping soda in front of a group of bicycles
+entailment	Two fashionable girls stand on a sidewalk in front of some bikes	Two fashionable people stand on a sidewalk in front of some bikes
+entailment	Two young girls stand on a city sidewalk in front of several bikes while one drinks a canned drink	Two young people stand on a city sidewalk in front of several bikes while one drinks a canned drink
+entailment	Concert goers watch as a guitarist performs on stage	Concert goers watch as a musician performs on stage
+entailment	Two pretty women in the street	Two pretty people are in the street
+entailment	Men and women in canoes are pressed together on a calm looking body of water	People in canoes are pressed together on a calm looking body of water
+entailment	a man in a leather jacket is looking down at a bunch of bananas and a light made out of a can	A person in a leather jacket is looking down at a bunch of bananas and a light made out of a can
+entailment	There is a man standing in the dark with a lamp light shining on a huge batch of bananas	There is a person standing in the dark with a lamp light shining on a huge batch of bananas
+entailment	One man and a boy standing next to a large amount of bananas	One person and a child are standing next to a large amount of bananas
+entailment	A ballerina is doing a grande pa de chat	A dancer is doing a grande pa de chat
+entailment	A man is looking at bananas on a table	A person is looking at bananas on a table
+entailment	Three people from Vietnam on boats in a river	Three individuals from Vietnam on boats in a river
+entailment	A rodeo clown is falling over as a bull is near kicking him	A performer is falling over as a bull is near kicking him
+entailment	Four Asian people are canoeing in three canoes	Four people are canoeing in three canoes
+entailment	A clown is running towards a man who has fallen off a bull at a rodeo	A performer is running towards a person who has fallen off a bull at a rodeo
+entailment	A rider is bucked off of his bull as the rodeo clown runs to assist	A person is bucked off of their bull as another person runs to assist
+entailment	A cowboy fall off a bull during a bull riding event and theclown has to quickly run and distract the bull from trampling the cowboy	A person falls off a bull during a bull riding event and another person has to quickly run and distract the bull from trampling the first person
+entailment	A guy is on the ground in a bullring near a half airborne white bull while another guy steps toward him	A person is on the ground in a bullring near a half airborne white bull while another person steps toward him
+entailment	A golden retriever puppy stands in front of two people looking over a railing	A golden retriever puppy stands in front of two people looking over a railing
+entailment	Two women walking and talking	Two people are walking and talking
+entailment	Two young women walk next to each other and talk	Two young people walk next to each other and talk
+entailment	A woman in a green shirt and a woman in a plaid shirt walking down the sidewalk	A person in a green shirt and a person in a plaid shirt is walking down the sidewalk
+entailment	Two women one wearing a greenblue sweater and the other wearing plaid walk outside and clutch something in their hands	Two people, one wearing a greenblue sweater and the other wearing plaid, walk outside and clutch something in their hands
+entailment	a crowd of people in a subway	A group of individuals is in a subway
+entailment	A young man in a wife beater tshirt is playing the drums	A young person in a wife beater tshirt is playing the drums
+entailment	A young boy seems to be enjoying himself in a park	A young child seems to be enjoying himself in a park
+entailment	an elephant wearing a colorful drap carrying foliage in his trunk	An animal wearing a colorful drap is carrying foliage in its trunk
+entailment	An elephant wearing a red and blue scarf walks along the brick road	An animal wearing a red and blue scarf walks along the brick road
+entailment	An elephant draped in red blue and gold fabric walking on a stone path	An animal draped in red, blue, and gold fabric is walking on a stone path
+entailment	An elephant is carrying something in its trunk and is covered by some brightcolored fabric	An animal is carrying something in its trunk and is covered by some bright-colored fabric
+entailment	The pitcher is winding up for a pitch	The player is winding up for a pitch
+entailment	An elephant wearing red and blue fabric holds grass in his trunk	An animal wearing red and blue fabric holds grass in its trunk
+entailment	A man in a stone street painting a picture while children are milling about	A person in a stone street is painting a picture while children are milling about
+entailment	A doctor checking on a girl	A healthcare provider is checking on a girl
+entailment	People outside of an Outdoor World shop	Individuals outside of an Outdoor World shop
+entailment	A closeup of a young boy with a green shirt and brown hair looking down and to his right against a blurred grassy backdrop	A closeup of a young child with a green shirt and brown hair looking down and to his right against a blurred grassy backdrop
+entailment	A man in a blue coat grabbing a young boys shoulder	A person in a blue coat is grabbing a young child's shoulder
+entailment	A young boy in a green shirt is looking down and slightly smiling	A young child in a green shirt is looking down and slightly smiling
+entailment	a woman shows a small animal to a smiling young boy	A person shows a small animal to a smiling child
+entailment	A girl in a red dress plays a red cello	A person in a red dress plays a red cello
+entailment	An older woman shows a younger male child a reptilian animal while a young girl sits in the background	An older person shows a younger child a reptilian animal while a young child sits in the background
+entailment	A woman with glasses in a black shirt shows something to a smiling boy in a giraffe with sunglasses shirt	A person with glasses in a black shirt shows something to a smiling person in a giraffe with sunglasses shirt
+entailment	A blond boy in a blue shirt is sitting with a woman wearing glasses	A blond person in a blue shirt is sitting with another person wearing glasses
+entailment	A woman with a red helmet is skating	A person with a red helmet is skating
+entailment	A boy and girl playing with buckets in a lawn sprinkler	Children are playing with buckets in a lawn sprinkler
+entailment	People are busy inside the hall	People are busy inside the hall
+entailment	Many people milling around at a trade show	Many people are milling around at a trade show
+entailment	A lot of people in suits attend a convention	A lot of individuals in formal attire attend a convention
+entailment	Some kind of convention with booths set up and many people wearing tuxedos	Some kind of convention with booths set up and many people wearing formal attire
+entailment	A large group of people attending an event with vendors and food	A large group of people attending an event with individuals and food
+entailment	A man stares out across a rail yard	A person stares out across a rail yard
+entailment	Someone with a blue hat on standing at a overlook looking at a bridge and train tracks	A person with a blue hat on is standing at an overlook looking at a bridge and train tracks
+entailment	A person in a blue hat is on a bridge overlooking train tracks	An individual in a blue hat is on a bridge overlooking train tracks
+entailment	A man wearing a blue hat is peering out at train tracks	A person wearing a blue hat is peering out at train tracks
+entailment	Man on overpass looking at the railroad tracks	A person on the overpass is looking at the railroad tracks
+entailment	Dog jumps over a man and catches a Frisbee in his mouth	Dog jumps over a person and catches a Frisbee in its mouth
+entailment	a dog with a Frisbee in its mouth jumps over a man	A dog with a Frisbee in its mouth jumps over a person
+entailment	A brown and white dog with a pink Frisbee in its mouth leaps through the air next to a young man in a knit cap	A brown and white dog with a pink Frisbee in its mouth leaps through the air next to a young person in a knit cap
+entailment	A brown and white dog with a pink Frisbee in its mouth is humping over a mans back	A brown and white dog with a pink Frisbee in its mouth is humping over a person's back
+entailment	Trolley cars and bus stopped at pedestrian crosswalk	Vehicles stopped at a pedestrian crosswalk
+entailment	A large light blue van advertises beach gear on its side with dark clouds in the background	A large light blue vehicle advertises beach equipment on its side with dark clouds in the background
+entailment	A dog catches a pink Frisbee	An animal catches a pink Frisbee
+entailment	A man sitting on a boat with a flag and the sunset in the background	A person sitting on a boat with a flag and the sunset in the background
+entailment	A man sits on a sailboat with the sun setting behind him	A person sits on a sailboat with the sun setting behind them
+entailment	A man in a gray shirt is on a boat with a flag	A person in a gray shirt is on a boat with a flag
+entailment	A statue of a big pink pig	A statue of a big pink pig
+entailment	A man in a boat in front of a sunset	A person in a boat in front of a sunset
+entailment	Interracial couple stand together looking at a display on street	A group of people stand together looking at a display on the street
+entailment	a man and women looking at magazines in a window	A person and people are looking at magazines in a window
+entailment	A man not wearing a shirt is pouring something out a can while sitting on sand in front of a orange and red tent	A person not wearing a shirt is pouring something out of a can while sitting on sand in front of an orange and red tent
+entailment	Two hispanic women and one man unpacking their cart at the grocery store	Two Hispanic people and one person are unpacking their cart at the grocery store
+entailment	A crowd of people at the start of a running race	A crowd of individuals at the start of a running race
+entailment	A shirtless man making a meal while camping on the beach	A shirtless person is making a meal while camping on the beach
+entailment	A man cooking food at his campsite	A person cooking food at their campsite
+entailment	A large crowd participates in a running event	A large group of people participates in a running event
+entailment	Here are three people unloading their groceries at the supermarket	Here are three people unloading their groceries at the supermarket
+entailment	A man with a hat on walking in the sand	A person with a hat on is walking in the sand
+entailment	Native Americans are dressed up in native clothing and are participating in an activity together	People are dressed up in native clothing and are participating in an activity together
+entailment	A tribal performance of dance and song of three individuals	A tribal performance of dance and song of three people
+entailment	People riding the escalator rather than taking the stairs	People are riding the escalator rather than taking the stairs
+entailment	A group of females in white suits are in a petting zoo with two goats	A group of people in white suits are in a petting zoo with two goats
+entailment	A basketball player tries to aim for the goal while being blocked by other players	An athlete tries to aim for the goal while being blocked by other people
+entailment	Olympian female performing floor routine	An Olympian individual is performing a floor routine
+entailment	A man wearing a light red shirt is riding a bike and right behind him is a small child wearing a green shirt	A person wearing a light red shirt is riding a bike and right behind them is a small person wearing a green shirt
+entailment	A little boy wearing a green shirt is riding on the back of a bicycle built for two with a man in a red shirt	A little child wearing a green shirt is riding on the back of a bicycle built for two with a person in a red shirt
+entailment	Young boy riding a bicycle with an older man	A young child is riding a bicycle with an older adult
+entailment	The child is sharing a strangelooking bicycle with the man	A person is sharing a strangelooking bicycle with another person
+entailment	Man and boy biking down sidewalk	People biking down the sidewalk
+entailment	A snow covered street with people walking	A snow-covered street with individuals walking
+entailment	A person climbing down a sheer rock cliff using a rope	An individual is climbing down a sheer rock cliff using a rope
+entailment	A young shaved head man is tuning his guitar	A young shaved head person is tuning his guitar
+entailment	Commuter reads the paper while riding on a boat	A person reads the paper while riding on a boat
+entailment	A man and two women are sitting in the grass	A person and two people are sitting in the grass
+entailment	A car drives through a muddy area on a dirt track spraying water and mud everywhere	A vehicle drives through a muddy area on a dirt track spraying water and mud everywhere
+entailment	Toyota Rally car plows through a deep puddle of mud on the race course	A Toyota rally vehicle plows through a deep puddle of mud on the race course
+entailment	An old woman and a young girl are standing on the deck of a boat	An old person and a young person are standing on the deck of a boat
+entailment	The grandmother and her granddaughter are looking at the sea	A family and their child are looking at the sea
+entailment	Two little kids blowing bubbles on the stoop	Two little children are blowing bubbles on the stoop
+entailment	A woman in a red dress is standing next to a girl looking at water	A person in a red dress is standing next to another person looking at water
+entailment	A little boy playing with a yellow bubble blowing toy	A little child is playing with a yellow bubble blowing toy
+entailment	A man in a banana custom is carrying four children on his back	A person in a banana costume is carrying four children on his back
+entailment	Two people look off the side of the boat	Two people look off the side of the boat
+entailment	A little boy being amazed by a giant bubble he just created	A little child is amazed by a giant bubble he just created
+entailment	A car is driving down a road with people watching	A vehicle is driving down a road with onlookers watching
+entailment	An elderly man sitting outside on a chair with a guitar next to him	An elderly person is sitting outside on a chair with a guitar next to them
+entailment	soccer players stand on the field	Soccer players are standing on the field
+entailment	The number  soccer player in a red jersey holding a yellow ball at the side line	The number of athletes in a red jersey is holding a yellow ball at the side line
+entailment	Number  at a soccer game is looking to see where to put the ball back into play from the sideline	An individual at a soccer game is looking to see where to put the ball back into play from the sideline
+entailment	A man preparing dinner with a female companion	A person preparing dinner with another person
+entailment	A band in concert performing	A group in concert is performing
+entailment	A soccer match being played	A game is being played
+entailment	Two women writing on a banner in marker	Two people are writing on a banner in marker
+entailment	Several motorcycle riders drive down the street led by a lady in on a red motorcycle and a pink jacket	Several people drive down the street led by a person on a red motorcycle and a pink jacket
+entailment	A group of people ride scooters and motorcycles on a street	A group of individuals ride scooters and motorcycles on a street
+entailment	People are riding small motorcycles or mopeds on a street	People are riding small motorcycles or mopeds on a street
+entailment	Many people wearing helmets are driving mopeds	Many people wearing helmets are driving mopeds
+entailment	Some people are driving motorcycles	Some people are riding vehicles
+entailment	A brown dog sits outside next to a large snowbank	A brown animal sits outside next to a large snowbank
+entailment	Three boys in rollerblades sitting by a brown wall while the other boy skates on the wall	Three people in rollerblades are sitting by a brown wall while the other person skates on the wall
+entailment	Two tan dogs smell each others faces	Two tan animals smell each other's faces
+entailment	Two dogs touching noses near another dog	Two animals are touching noses near another animal
+entailment	Three brown dogs on the patchy grass	Three brown animals are on the patchy grass
+entailment	Two dogs are nose to nose while a third dog stands next to them	Two animals are nose to nose while a third animal stands next to them
+entailment	Three tan dogs are outside one licks the others nose	Three tan animals are outside; one licks the other's nose
+entailment	A man with glasses is holding a baby	A person with glasses is holding a baby
+entailment	An old woman is sitting in a chair on a sidewalk with her foot up on a walker	An old person is sitting in a chair on a sidewalk with their foot up on a walker
+entailment	An elderly woman sits contently in a chair as she rests her foot on her walker	An elderly person sits contently in a chair as they rest their foot on their walker
+entailment	Injured lady sitting and resting her leg on a walker	Injured person sitting and resting their leg on a walker
+entailment	An older lady sitting on a black chair with her leg up on a walker	An older person is sitting on a black chair with their leg up on a walker
+entailment	A lady is eating in a restaurant and a man is downstairs kneeling in the restaurants kitchen	A person is eating in a restaurant and another person is downstairs kneeling in the restaurant's kitchen
+entailment	Old women resting her leg on her walker	Old people are resting their leg on a walker
+entailment	Upstairs in a cafe one man is eating and at a separate table another speaks on a cellphone while downstairs a man sits among cardboard boxes	Upstairs in a cafe one person is eating and at a separate table another person speaks on a cellphone while downstairs a person sits among cardboard boxes
+entailment	A policeman standing outside a gate	A person is standing outside a gate
+entailment	Four children on stools in a diner	Four people on stools in a diner
+entailment	A man with gray hair and a bear sits in a chair on the street with a guitar by his side	A person with gray hair and a bear sits in a chair on the street with a guitar by their side
+entailment	Four children sit on tall bar stools at a yellow and gray bar	Four young people sit on tall bar stools at a yellow and gray bar
+entailment	Four small children sit on tall stools at a restaurant bar	Four small young people sit on tall stools at a restaurant bar
+entailment	Four young kids are sitting on large stools at a bar waiting for drinks	Four young people are sitting on large stools at a bar waiting for drinks
+entailment	An officer is standing by an important building	A person is standing by an important building
+entailment	A brown dog in a pink shirt runs through a field	An animal in a pink shirt runs through a field
+entailment	A longhaired dog wearing a pink vest and running	A longhaired animal wearing a pink vest and running
+entailment	A hairy dog with a pink shirt running through a field	A hairy animal with a pink shirt is running through a field
+entailment	Brown dog in a pink sweater runs on yellow grass	A brown animal in a pink sweater runs on yellow grass
+entailment	A man is pulling a cart on wheels loaded with nets and is in front of the Ocean Blue Company	A person is pulling a cart on wheels loaded with nets and is in front of the Ocean Blue Company
+entailment	Two young women knitting clothing	Two young people are knitting clothing
+entailment	A girl in a petterned shirt is talking to a guy with a hat in a billiards room	A person in a patterned shirt is talking to another person with a hat in a billiards room
+entailment	A little redhaired girl wearing a blue life jacket is fishing from a boat	A little redhaired child wearing a blue life jacket is fishing from a boat
+entailment	A redhaired girl in a boat wearing a blue life vest is holding a fishing pole	A redhaired person in a boat wearing a blue life vest is holding a fishing pole
+entailment	a Little redheaded girl just caught a small fish on her fishing rod	A little redheaded child just caught a small fish on her fishing rod
+entailment	A band member jumps in the air	An individual jumps in the air
+entailment	People talk near stereo equipment outdoors	People talk near stereo equipment outdoors
+entailment	A man in blue pants is jumping while band plays music	A person in blue pants is jumping while a band plays music
+entailment	Several people in a band jumping up and down to the music	Several people in a group are jumping up and down to the music
+entailment	A group of people jump in the air while playing music in the street	A group of people jump in the air while playing music in the street
+entailment	A team in white and gold on the sidelines of a football field	A group in white and gold is on the sidelines of a football field
+entailment	A football game is going on with player on the field squatting on the sidelines and standing watching the game	A football game is going on with individuals on the field squatting on the sidelines and standing watching the game
+entailment	A football coach and his team on the sidelines	A person and their group are on the sidelines
+entailment	Fans of a football team look out onto the field	People of a football team look out onto the field
+entailment	This picture depicts looking up at a rock climber	This picture depicts looking up at a person
+entailment	A man standing in the door of a plane wearing a white shortsleeved shirt with stripes	A person standing in the door of a plane wearing a white shortsleeved shirt with stripes
+entailment	A group of athletic young men are racing outside on a track	A group of athletic young people are racing outside on a track
+entailment	Man with poultry on a table	A person with poultry on a table
+entailment	A merchant in a brown jacket selling poultry	A person in a brown jacket is selling poultry
+entailment	A man outside weighing poultry	A person outside is weighing poultry
+entailment	A middle eastern man sells chicken from a street market booth	A middle eastern person sells chicken from a street market booth
+entailment	A middle eastern looking man weighing meat outdoors	A middle eastern looking person is weighing meat outdoors
+entailment	Two smiling little blond girls in pink pants swing from a metal bar	Two smiling little blond children in pink pants are swinging from a metal bar
+entailment	Two little girls are hanging by their arms from a metal bar	Two little children are hanging by their arms from a metal bar
+entailment	Two little girls hang on a bar in front of a wooden fence	Two little children hang on a bar in front of a wooden fence
+entailment	Two children hang from a metal bar close to the ground	Two young people hang from a metal bar close to the ground
+entailment	A man wearing a black shirt is sitting by himself at a deli or restaurant	A person wearing a black shirt is sitting by themselves at a deli or restaurant
+entailment	A young man dunks a basketball	A young person dunks a basketball
+entailment	Happy family taking pictures	Happy group taking pictures
+entailment	A brown dog is jumping in the air whilst trying to catch a purple Frisbee	A brown animal is jumping in the air whilst trying to catch a purple Frisbee
+entailment	People are sitting in the couch and laughing	People are sitting on the couch and laughing
+entailment	A woman in a pink shirt smiling and holding a camera while sitting on a couch with three people sitting on another couch smiling	A person in a pink shirt is smiling and holding a camera while sitting on a couch with three people sitting on another couch smiling
+entailment	Family having fun in their living room	A group of people is having fun in their living room
+entailment	A dog and cow standing at a fence	An animal and another animal are standing at a fence
+entailment	Four men who are wearing colorful clothing are dancing barefoot on wood floors	Four people who are wearing colorful clothing are dancing barefoot on wood floors
+entailment	A man holding a rod with a paintbrush attached painting a billboard	A person holding a rod with a paintbrush attached is painting a billboard
+entailment	A brown dog digs in the sand happily	A brown animal digs in the sand happily
+entailment	A dog jumps to catch a flying disc	An animal jumps to catch a flying disc
+entailment	A young man in a park setting has just made a slam dunk on a basketball hoop	A young person in a park setting has just made a slam dunk on a basketball hoop
+entailment	Kids watching a man skating	Kids watching a person skating
+entailment	A large brown dog is digging in the sand	A large brown animal is digging in the sand
+entailment	A boy is diving through the air into a swimming pool	A person is diving through the air into a swimming pool
+entailment	An old woman is sitting next to a brick building painting	An old person is sitting next to a brick building painting
+entailment	A white dog sniffing sheep through a fence	A white animal is sniffing sheep through a fence
+entailment	White fluffy dog kissing sheep through a fence	A white fluffy animal is kissing sheep through a fence
+entailment	A white dog is sniffing a sheep through a fence	A white animal is sniffing another animal through a fence
+entailment	A lady in a skirt photographs one of several very large photographs of wild animals	A person in a skirt photographs one of several very large photographs of wild animals
+entailment	A woman is taking a picture of a monkey	A person is taking a picture of a monkey
+entailment	A man in a suit passes a woman in dress clothes in a grassy area	A person in a suit passes another person in dress clothes in a grassy area
+entailment	A woman in a skirt strolls past a man wearing a business suit	A person in a skirt strolls past another person wearing a business suit
+entailment	An Indian man climbing a tree	An Indian person is climbing a tree
+entailment	Two women walk down a busy street together	Two people walk down a busy street together
+entailment	Man wearing headscarf grasping a tree in the jungle	A person wearing a headscarf is grasping a tree in the jungle
+entailment	Female friends are walking down the street one of them smoking a cigarette	People are walking down the street, one of them smoking a cigarette
+entailment	Several women wearing white shoes and sandals walk through a street festival	Several people wearing white shoes and sandals are walking through a street festival
+entailment	A little league football game is underway in a suburban neighborhood	A little league sporting event is underway in a suburban neighborhood
+entailment	A young boy and a young girl standing near a window on a firetruck the young girl holding an American flag	Two children are standing near a window on a firetruck, one holding an American flag
+entailment	Children playing football on a grassy field	Young people are playing football on a grassy field
+entailment	Two kids standing in a firetruck	Two children are standing in a firetruck
+entailment	A man in a white shirt is handling long loaves of bread in a cluttered restaurant kitchen	A person in a white shirt is handling long loaves of bread in a cluttered restaurant kitchen
+entailment	The brown dog is running in the water	The brown animal is running in the water
+entailment	A man in all bright blue against a subway sign in new york city	A person in all bright blue is against a subway sign in New York City
+entailment	A man in a blue shirt and blue jeans standing behind a Subway sign	A person in a blue shirt and blue jeans is standing behind a Subway sign
+entailment	A swimmer doing a flip in the air	A person is doing a flip in the air
+entailment	Crowded street with a man holding a subway sign pointing customers to a subway sandwich shop	Crowded street with a person holding a subway sign pointing customers to a subway sandwich shop
+entailment	A person is doing what looks to be a flip in midair in front rows of seats	An individual is doing what looks to be a flip in midair in front rows of seats
+entailment	A man is spinning in the air above a pool in front of an empty stadium	A person is spinning in the air above a pool in front of an empty stadium
+entailment	A man is in midair after leaping from a diving board as no one looks on from the seats behind him	A person is in midair after leaping from a diving board as no one looks on from the seats behind them
+entailment	man holding a sign promoting subway restaurant	A person holding a sign promoting a subway restaurant
+entailment	Two child soccer players wrestle for the ball	Two child players wrestle for the ball
+entailment	Two men together one watching one resting	Two people are together, one watching and one resting
+entailment	One man is sleeping on a couch and the other is smiling	One person is sleeping on a couch and the other is smiling
+entailment	A man doing a trick on skis	A person doing a trick on skis
+entailment	Three individuals two men and one woman on a stage in front of a crowd	Three people on a stage in front of a crowd
+entailment	Three speakers two men and one women stand on stage and address an audience	Three people, two individuals and one individual, stand on stage and address an audience
+entailment	A man giving a speech in front of a crowd	A person giving a speech in front of a crowd
+entailment	Two men and one woman are performing on stage for a small audience	Two people and one person are performing on stage for a small audience
+entailment	Three men seated looking through glass accented by green light	Three people seated are looking through glass accented by green light
+entailment	Kids out on a river touch the ends of their oars	Children out on a river touch the ends of their oars
+entailment	A man stands on the shore of a beach	A person stands on the shore of a beach
+entailment	A group of young people are boating and wearing life jackets	A group of individuals are boating and wearing life jackets
+entailment	Group of people in life jackets watch two you boys play with two sticks like swords	A group of people in life jackets watch two children play with two sticks like swords
+entailment	A pair of kids wearing life jackets raise their canoe paddles	A pair of children wearing life jackets are raising their canoe paddles
+entailment	A woman wearing a raincoat is standing under a purple awning with white letters saying next to normal	A person wearing a raincoat is standing under a purple awning with white letters saying next to normal
+entailment	A group of santas are walking in the city	A group of people are walking in the city
+entailment	A woman in an overcoat is using her phone while standing outside of a building	A person in an overcoat is using their phone while standing outside of a building
+entailment	A woman in a tan coat stands near an awning that says next to normal	A person in a tan coat stands near an awning that says next to normal
+entailment	A chef preparing hamburgers outside on a grill for patrons walking by	A person preparing hamburgers outside on a grill for people walking by
+entailment	A man with a multicolored shirt is standing beside a white party tent	A person with a multicolored shirt is standing beside a white party tent
+entailment	A man in a colorful tshirt is standing at an outside food stall	A person in a colorful tshirt is standing at an outside food stall
+entailment	A guy in a green and pink shirt stands near a grill by a boat	A person in a green and pink shirt stands near a grill by a boat
+entailment	A man painting a building red with a paintbrush at the end of a stick	A person painting a building red with a paintbrush at the end of a stick
+entailment	A young woman and her friend waiting for the court hearing in the city of Portland Oregon	A young person and another person are waiting for the court hearing in the city of Portland, Oregon
+entailment	Two divers in diving suites retrieving big white object in water	Two people in diving suits are retrieving a big white object in water
+entailment	Two scuba divers are in the water holding onto a large piece of equipment	Two people are in the water holding onto a large piece of equipment
+entailment	Two people in diving equipment examine mechanical equipment in a body of water	Two people in diving equipment are examining mechanical equipment in a body of water
+entailment	Two divers in water looking at large bolts on a piece of equipment above the waterline	Two people in water are looking at large bolts on a piece of equipment above the waterline
+entailment	A man wearing a hat and gloves is using a tool to chisel wood	A person wearing a hat and gloves is using a tool to chisel wood
+entailment	A man and a child play near a fountain	A person and a young person are playing near a fountain
+entailment	A young man operating a tractor	A young person operating a tractor
+entailment	A football team doing excercises	A group doing exercises
+entailment	A man wearing winter clothes and a hard hat is climbing over a snowy ledge using a rope attached to his waist	A person wearing winter clothes and a hard hat is climbing over a snowy ledge using a rope attached to their waist
+entailment	Runners some in costume in a St Paddys day Marathon run in the streets as people watch	Participants some in costume in a St Paddys day Marathon run in the streets as people watch
+entailment	A large group of people led by a man in a white tank shirt and blue shorts have numbers pinned on their clothing and are running in a race	A large group of people led by a person in a white tank shirt and blue shorts have numbers pinned on their clothing and are running in a race
+entailment	A football team doing their stretches before the game starts	A group of people is doing their stretches before the game starts
+entailment	this is a group of people participating in a race	This is a group of individuals participating in a race
+entailment	A construction worker bulldozes dirt clear	A worker bulldozes dirt clear
+entailment	Two women talking in a city street	Two people are talking in a city street
+entailment	Two nurses laughing over a container	Two people are laughing over a container
+entailment	A nurse in a blue shirt and a purple shirt talking	A person in a blue shirt and a purple shirt is talking
+entailment	Two women nurses looking at a circular purple object together in a hospital	Two people looking at a circular purple object together in a hospital
+entailment	A crowd is gathering in a town square	A group of people is gathering in a town square
+entailment	Several people standing and looking over a ledge	Several people are standing and looking over a ledge
+entailment	A small group of people looking out over the rail of a parking garage	A small group of individuals is looking out over the rail of a parking garage
+entailment	A crowd of people looking at something	A group of individuals is looking at something
+entailment	A crowded city street	A crowded public space
+entailment	Crowd of people standing outside	A group of people is standing outside
+entailment	A blondhaired female singer with long boots kneels on stage	A blondhaired female performer with long boots kneels on stage
+entailment	A woman dressed in winter wear walks outdoors	A person dressed in winter wear walks outdoors
+entailment	A small girl is sitting on stairs drinking water and eating a snack	A small child is sitting on stairs drinking water and eating a snack
+entailment	A boy being fitted in a brown robe by a man in a white shirt and red cap another man in a light blue shirt is twirling a ball	A child is being fitted in a brown robe by a person in a white shirt and red cap, while another person in a light blue shirt is twirling a ball.
+entailment	A little boy playing on lines that have been drawn on the street	A little child is playing on lines that have been drawn on the street
+entailment	A young boy with black hair and sneakers is skipping over painted figures on an asphalt surface	A young child with black hair and sneakers is skipping over painted figures on an asphalt surface
+entailment	A child is running on a chalk covered pavement	A person is running on a chalk covered pavement
+entailment	A young boy with a painted face plays on the pavement	A young child with a painted face plays on the pavement
+entailment	A guy and girl on rocks fishing in a body of water	A person and a person on rocks are fishing in a body of water
+entailment	A man and a woman are fishing from shore	Two people are fishing from shore
+entailment	Two people both wearing jeans are standing by the edge of water with fishing poles	Two people both wearing jeans are standing by the edge of water with fishing poles
+entailment	A couple fishing on the waters edge standing on the rocks	A group of people fishing on the water's edge standing on the rocks
+entailment	Two men fight in a ring while spectators look on	Two people fight in a ring while others look on
+entailment	An Arabic man in a white hat	An Arabic person in a white hat
+entailment	The man with the white head piece looks left down the street	The person with the white head piece looks left down the street
+entailment	A man with a white hat and plaid shirt behind a woman with a red headdress	A person with a white hat and plaid shirt is behind a person with a red headdress
+entailment	A man in a white hat is standing behind a woman with a red shawl over her head	A person in a white hat is standing behind another person with a red shawl over their head
+entailment	A man with a white hat and brown shirt behind a woman in red looks to the left	A person with a white hat and brown shirt behind another person in red looks to the left
+entailment	A girl in a wheelchair with a red and white shirt has red dots all over her face	A person in a wheelchair with a red and white shirt has red dots all over their face
+entailment	A billboard advertising a vacation in on a rundown street	An advertisement for a vacation is on a rundown street
+entailment	People in mainly business attire hurry along a city sidewalk	People in mainly formal clothing hurry along a city sidewalk
+entailment	A smiling young girl is sitting in a wheelchair with a red polkadot painted face surrounded by other young females in red tops	A smiling young person is sitting in a wheelchair with a red polkadot painted face surrounded by other young people in red tops
+entailment	Women and handicap girls sitting in wheelchairs are wearing red shirts and have their faces painted	People and individuals with disabilities sitting in wheelchairs are wearing red shirts and have their faces painted
+entailment	A group of people are walking on the sidewalk of a busy street	A group of people are walking on the sidewalk of a busy street
+entailment	A man using an electric razor shaves someones head	A person using an electric razor shaves someone's head
+entailment	A woman is looking at her phone near the water	A person is looking at their phone near the water
+entailment	A middleaged man is getting his head completely shaved by another middleaged man with hair	A middle-aged person is getting his head completely shaved by another middle-aged person with hair
+entailment	A snowboarder clears the air over a snowcovered cliff	A person clears the air over a snowcovered cliff
+entailment	A skier wearing red flies off the edge of a snow covered rock	A person wearing red flies off the edge of a snow covered rock
+entailment	This person is snowboarding off a hill	This individual is snowboarding off a hill
+entailment	Three girls are sitting in a car and smiling back at the camera which is in the backseat looking towards the front of the car	Three people are sitting in a car and smiling back at the camera which is in the backseat looking towards the front of the car
+entailment	A group of four people walking on a dirt road through a stream	A group of four people is walking on a dirt road through a stream
+entailment	A woman sitting at a desk staring at a computer screen	A person sitting at a desk staring at a computer screen
+entailment	One man standing alone on a sidewalk adjusting his hat	One person is standing alone on a sidewalk adjusting their hat
+entailment	A man in a white shirt is standing next to another man	A person in a white shirt is standing next to another person
+entailment	Two men in red shirts appear to be walking on the exterior walls of a decorative building	Two people in red shirts appear to be walking on the exterior walls of a decorative building
+entailment	A black woman and a white woman sitting at a bus stop	A black person and a white person are sitting at a bus stop
+entailment	a woman sits next to a harbor where boats are docked near people shopping	A person sits next to a harbor where boats are docked near people shopping
+entailment	A man sits on the grass and drinks from a water bottle	A person sits on the grass and drinks from a water bottle
+entailment	A musician sitting cross legged in front of a microphone	A person sitting cross legged in front of a microphone
+entailment	A man wearing a green shirt and orange safety hat walking in front of a brush shredding machine	A person wearing a green shirt and orange safety hat is walking in front of a brush shredding machine
+entailment	An older man sits wearing a red green and yellow hat smiling for the camera	An older person sits wearing a red, green, and yellow hat smiling for the camera
+entailment	A white male wears a hat that features Jamaican colors blue and white striped shirt black jeans and brown shoes sits in front of a microphone	A white person wears a hat that features Jamaican colors, a blue and white striped shirt, black jeans, and brown shoes, and sits in front of a microphone
+entailment	Two teenagers sit on a dock and check their cellphones	Two people sit on a dock and check their cellphones
+entailment	A man in brown shoes sits against a gray wall	A person in brown shoes is sitting against a gray wall
+entailment	Two dogs nussle one another in the grass near a lake	Two animals nuzzle one another in the grass near a lake
+entailment	Two adults and two children sit on a park bench	Two people and two people sit on a park bench
+entailment	Two men sitting and talking to each other	Two people are sitting and talking to each other
+entailment	A young boy wearing a red shirt stands in the street with his arms open wide	A young child wearing a red shirt stands in the street with their arms open wide
+entailment	Two adults and two children pose on a park bench	Two people and two others pose on a park bench
+entailment	An electrician in a orange jumpsuit tests several circuits	A worker in an orange jumpsuit is testing several circuits
+entailment	Man with glasses in an orange jumpsuit holding something in his hand	A person with glasses in an orange jumpsuit is holding something in their hand
+entailment	Naked people riding bikes	Naked people are riding bikes
+entailment	Two dogs in a rocky field face to face with a stick between them	Two animals in a rocky field are facing each other with a stick between them
+entailment	Two women wearing medical scrubs sit sidebyside at a bus stop	Two people wearing medical scrubs are sitting side by side at a bus stop
+entailment	A woman is adjusting her daughters clothes	A person is adjusting their child's clothes
+entailment	A group of children in the ocean	A group of young people in the ocean
+entailment	Avril Lavigne singing during a concert	A performer is singing during a concert
+entailment	A little boy in a white shirt and jeans sticks his fingers in his mouth	A little child in a white shirt and jeans sticks their fingers in their mouth
+entailment	Many children are playing and swimming in the water	Many young people are playing and swimming in the water
+entailment	A woman in a red shirt with dark hair is sitting in a chair smiling at a girl wearing a Hello Kitty tshirt	A person in a red shirt with dark hair is sitting in a chair smiling at another person wearing a Hello Kitty tshirt
+entailment	A boat is just off the beach with three people standing on it and the two people loading something on the boat	A boat is just off the beach with three people standing on it and two people loading something on the boat.
+entailment	A bunch of people swimming in water	A bunch of people are swimming in water
+entailment	Two young boys wrestling while an adult male looks on	Two young children are wrestling while an adult looks on
+entailment	Three people playing with a red ball in a large sandy area with a tree in the background	Three people are playing with a red ball in a large sandy area with a tree in the background
+entailment	A woman wearing blue begins a golf swing	A person wearing blue begins a golf swing
+entailment	many people gather outside	Many people gather outside
+entailment	People stand outside watching something	Individuals stand outside watching something
+entailment	The back of a woman in costume little girl looks at her	The back of a person in costume looks at another person
+entailment	People with costumes are gathered in a wooded area looking the same direction	People with costumes are gathered in a wooded area looking the same direction
+entailment	A girl with a black dress and big white bow stands with her back to the camera	A person with a black dress and big white bow stands with their back to the camera
+entailment	A man strikes a pose on a dock with a cruise ship in the background	A person strikes a pose on a dock with a cruise ship in the background
+entailment	Man dressed in black dancing on a pier while passengers on a boat watch	A person dressed in black is dancing on a pier while passengers on a boat watch
+entailment	A guy wearing a black attire is doing ballet in front of the pier where you can see a cruise ship	A person wearing black attire is doing ballet in front of the pier where you can see a cruise ship
+entailment	One man dressed in black is stretching his leg up in the air behind him is a massive cruise ship in the water	One person dressed in black is stretching their leg up in the air behind them is a massive cruise ship in the water
+entailment	Two fireman standing next to each other in front of a large bush	Two people are standing next to each other in front of a large bush
+entailment	Female musician pauses her guitar playing to enjoy a moment during a performance	A female performer pauses her guitar playing to enjoy a moment during a performance
+entailment	A man dancing in front of a docked cruise ship	A person is dancing in front of a docked cruise ship
+entailment	Two people in brown uniforms playing in a soccer match	Two individuals in brown uniforms are playing in a soccer match
+entailment	Man in vest making cookies	A person in a vest is making cookies
+entailment	three people play soccer in the sand	Three people play soccer in the sand
+entailment	One soccer player is laying on the ground with his arms in the air whilst the other runs towards the ball	One individual is laying on the ground with his arms in the air whilst the other runs towards the ball
+entailment	Two men playing soccer one sliding one running towards the ball	Two people are playing soccer, one sliding and one running towards the ball
+entailment	A man helps up a woman who has fallen after kicking a soccer ball	A person helps up another person who has fallen after kicking a soccer ball
+entailment	A dog catches a toy outside of a brick house	An animal catches a toy outside of a brick house
+entailment	A man in a white shirt pushing a concession stand around	A person in a white shirt is pushing a concession stand around
+entailment	A couple in old fashioned clothes sitting at a table outside	A group of people in old fashioned clothes is sitting at a table outside
+entailment	A vendor is seen in this picture pushing a cart containing sodas on the street	A person is seen in this picture pushing a cart containing sodas on the street
+entailment	A man and woman dressed in old fashion clothing sit outside at a table	A person and another person dressed in old fashion clothing sit outside at a table
+entailment	A couple in old clothing at an outdoor table	A group of people in old clothing at an outdoor table
+entailment	A man in a dark hat shoots a handgun	A person in a dark hat shoots a handgun
+entailment	A man shoots a gun that emits a bright light	A person shoots a gun that emits a bright light
+entailment	A man with long sleeves is firing a flare pistol at night	A person with long sleeves is firing a flare pistol at night
+entailment	Policeman taping off an area by a group of firemen	A person is taping off an area by a group of people
+entailment	A police officer blocks off an area from spectators with yellow tape	A person blocks off an area from spectators with yellow tape
+entailment	A policeman is roping off an area with police tape while onlookers watch	A person is roping off an area with police tape while onlookers watch
+entailment	A police officer is using yellow tape to section off an area from a crowd of people	A person is using yellow tape to section off an area from a crowd of people
+entailment	A crew team rows quickly down the river	A group of people rows quickly down the river
+entailment	There are two men in yellow vests working in a large green filed	There are two people in yellow vests working in a large green field
+entailment	A couple of officers on a scene	A couple of people on a scene
+entailment	An Asian woman sitting on a bench going through a pink laptop bag	An Asian person sitting on a bench going through a pink laptop bag
+entailment	Young African American girl stares curiously at the camera while wearing a pink and brown winter coat with multi color hair accessories	A young African American child stares curiously at the camera while wearing a pink and brown winter coat with multi-color hair accessories
+entailment	Three young girls pose together outside	Three young people are posing together outside
+entailment	Three children are pulling faces on a purple bench	Three people are pulling faces on a purple bench
+entailment	Two men are wearing hard hats and safety vests	Two people are wearing hard hats and safety vests
+entailment	Three little girls are sitting on a purple bench and making funny faces	Three little children are sitting on a purple bench and making funny faces
+entailment	Three little girls make silly faces on a wooden swing in an over saturated photo	Three little children make silly faces on a wooden swing in an over saturated photo
+entailment	A girl is making soap bubbles in a busy mall	A person is making soap bubbles in a busy mall
+entailment	Soap bubbles are blown in a square where people chase them	Soap bubbles are blown in a square where people chase them
+entailment	Preteen girl with blondhair plays with bubbles near a vendor stall in a mall courtyard	A preteen child with blond hair is playing with bubbles near a vendor stall in a mall courtyard
+entailment	Some people are watching a little girl and a owner of a stand making bubbles with some the items he is selling	Some people are watching a little child and a person of a stand making bubbles with some of the items they are selling
+entailment	Two men and one woman are playing bagpipes in a kitchen	Two people and one person are playing bagpipes in a kitchen
+entailment	People playing bagpipes in a kitchen	People are playing bagpipes in a kitchen
+entailment	Several individuals getting together to play the bagpipes and eat some cuisine	Several people are getting together to play the bagpipes and eat some cuisine
+entailment	A room with four people playing bagpipes with a couple other people watching	A room with four people playing music with a couple other people watching
+entailment	A group of people playing bagpipes	A group of people is playing bagpipes
+entailment	Two city workers working on something outside	Two people are working on something outside
+entailment	A man doing a trick on a wakeboard	A person doing a trick on a wakeboard
+entailment	A wakeboarder soars through the air	A person soars through the air
+entailment	Male performing water sports acrobatics while being pulled by a boat	A person is performing water sports acrobatics while being pulled by a boat
+entailment	A bald man in a black wetsuit flips leaps in the air on a surfboard holds on to a waterskiing handle	A bald person in a black wetsuit flips and leaps in the air on a surfboard while holding on to a waterskiing handle
+entailment	Sitting in an arc of computers a blueshirted man focuses on the dark colored screen and keyboard	Sitting in an arc of computers, a blueshirted person focuses on the dark colored screen and keyboard
+entailment	One technician in a blue shirt sits down at his station to begin work	One worker in a blue shirt sits down at their station to begin work
+entailment	Man with a blue shirt on sitting in a computer room with at least  monitors in front of him with several keyboards and phones with one microphone directly in front of his face	A person with a blue shirt on is sitting in a computer room with at least monitors in front of them, with several keyboards and phones, and one microphone directly in front of their face
+entailment	A blondhaired man in a blue shirt surrounded by screens sitting at a desk and talking into a microphone	A blondhaired person in a blue shirt surrounded by screens is sitting at a desk and talking into a microphone
+entailment	A man working in the surveillance room	A person working in the surveillance room
+entailment	This men performs in front of people while dancing and having mask on face	These people perform in front of others while dancing and having masks on their faces
+entailment	The two people are next to a brown house	The two people are next to a brown house
+entailment	An old man wearing a hat stands outside a shop door	An old person wearing a hat stands outside a shop door
+entailment	A child sits in the large bucket of a machine	A person sits in the large bucket of a machine
+entailment	A man in a blue shirt is throwing a dart while a soccer game is being aired on a large screen behind him	A person in a blue shirt is throwing a dart while a soccer game is being aired on a large screen behind them
+entailment	The man with the big drum is marching next to a boy with a small drum	A person with a big drum is marching next to a person with a small drum
+entailment	A male with glasses is tossing a dart	A person with glasses is tossing a dart
+entailment	A dart tournament is taking place	An event is taking place
+entailment	A man is throwing the arrow	A person is throwing the arrow
+entailment	A man in a white jacket and helmet does tricks on his bike	A person in a white jacket and helmet does tricks on their bike
+entailment	Two men carrying an item together	Two people are carrying an item together
+entailment	Random people standing on a ferry looking out over the water	Random people are standing on a ferry looking out over the water
+entailment	Older men and females stand around as men carry at hot object with coals in it	Older people stand around as others carry a hot object with coals in it
+entailment	Two men lifting a basket together while other people watch them	Two people are lifting a basket together while other people watch them
+entailment	Two men carrying a hot basket while a couple and a man look on	Two people carrying a hot basket while a couple and another person look on
+entailment	Two men dressed with gloves carry a hot grill away	Two people dressed with gloves are carrying a hot grill away
+entailment	A girl swinging hard enough to get herself vertical	A person is swinging hard enough to get themselves vertical
+entailment	A man is performing a midair stunt on a dirt bike while people in the background watch	A person is performing a midair stunt on a dirt bike while people in the background watch
+entailment	Two dogs play on the wooden floor inside	Two animals are playing on the wooden floor inside
+entailment	Two dogs play with each other on a wood floor	Two animals play with each other on a wood floor
+entailment	A dogs mouth opens to expose its sharp teeth	An animal's mouth opens to expose its sharp teeth
+entailment	two black and white dogs fighting with each other	Two black and white animals are fighting with each other
+entailment	A woman in an apron standing in front of shelves of bread in a bakery	A person in an apron is standing in front of shelves of bread in a bakery
+entailment	A woman in a black dress and apron looks upon the shelves on bread	A person in a black dress and apron looks upon the shelves of bread
+entailment	A young woman picks up bread at a bakery in which she works	A young person picks up bread at a bakery in which they work
+entailment	a dog tries to bite another dog	An animal tries to bite another animal
+entailment	a small dog steps onto a log	A small animal steps onto a log
+entailment	A woman paints a picture of a large building which can be seen in the background	A person paints a picture of a large building which can be seen in the background
+entailment	A woman standing outside painting a picture of the view	A person standing outside is painting a picture of the view
+entailment	A woman in overalls is painting a landscape on the roof	A person in overalls is painting a landscape on the roof
+entailment	A small white dog with a blue collar is climbing over a large log	A small white animal with a blue collar is climbing over a large log
+entailment	A white terrior is jumping over a log	A white dog is jumping over a log
+entailment	A white dog jumps over a log outside	A white animal jumps over a log outside
+entailment	A small white dog climbs over a log	A small white animal climbs over a log
+entailment	A boy in blue shows a girl in denim the water fountain in a hallway	A child in blue shows another child in denim the water fountain in a hallway
+entailment	Two children a boy in a blue shorts suit and a girl in a blue jumper have a conversation in the hallway of a church	Two young people, one in a blue shorts suit and the other in a blue jumper, have a conversation in the hallway of a church
+entailment	Little girl and buy inside of a church	Little child and buy inside of a church
+entailment	Two young children are standing in hall	Two young people are standing in a hall
+entailment	Two children playing in a church	Two young people are playing in a church
+entailment	A little girl with a white shirt and brown hair is swinging almost completely upside down in a park	A little child with a white shirt and brown hair is swinging almost completely upside down in a park
+entailment	A young man is walking past a storefront that says C E on it in giant lettering	A young person is walking past a storefront that says C E on it in giant lettering
+entailment	A woman and child are at a park manipulating one of the toys there	A person and a person are at a park manipulating one of the toys there
+entailment	A man in a black jacket is passing out newspapers	A person in a black jacket is passing out newspapers
+entailment	The crusaders are marching along the road	The people are marching along the road
+entailment	A man dressed in a black tshirt with a white alien on the front handing out newspaper propaganda	A person dressed in a black tshirt with a white alien on the front is handing out newspaper propaganda
+entailment	A man with a scruffy beard passes out fliers near a few bikes chained to a gate	A person with a scruffy beard passes out fliers near a few bikes chained to a gate
+entailment	Two dogs fighting one is black the other beige	Two animals are fighting; one is black and the other is beige
+entailment	A hipster is posing with his banners	A person is posing with their banners
+entailment	A young boy is sitting on stairs with a book	A young child is sitting on stairs with a book
+entailment	A young girl with long brown hair and dressed in black athletic wear is running towards a soccer ball	A young person with long brown hair and dressed in black athletic wear is running towards a soccer ball
+entailment	A shirtless male gymnast in white tights spins on an Avaibrand sawhorse	A shirtless male athlete in white tights spins on an Avaibrand sawhorse
+entailment	A brown dog with a green ball sit in the snow	A brown animal with a green ball is sitting in the snow
+entailment	Someone is being rescued in the snowstorm	A person is being rescued in the snowstorm
+entailment	Two children eating food	Two people are eating food
+entailment	A serene city street on a sunny day	A peaceful urban area on a sunny day
+entailment	A person riding a rodeo bull	An individual riding a rodeo bull
+entailment	A young man is walking past a large banner reading CE	A young person is walking past a large banner reading CE
+entailment	a young child with a BandAid on his head sits eating at a small white table with a little girl eating off a yellow plate	A young child with a BandAid on his head sits eating at a small white table with another child eating off a yellow plate
+entailment	A young blondhaired boy and a darkhaired girl are eating at a kids table	A young blondhaired child and a darkhaired child are eating at a kids table
+entailment	People are walking as a crowd is at a sporting event	Individuals are walking as a crowd at a sporting event
+entailment	Two people are working outside	Two people are working outside
+entailment	A person giving directions to a crowd of younger people	An individual giving directions to a crowd of younger people
+entailment	Two men in coveralls are digging a hole with a shovel and some machinery	Two people in coveralls are digging a hole with a shovel and some machinery
+entailment	The worker in the blue suit is digging in the dirt while his coworker in the graygreen suit is attending the machine	The person in the blue suit is digging in the dirt while another person in the graygreen suit is attending the machine
+entailment	two very muddy men drilling for oil	Two very muddy people are drilling for oil
+entailment	Two workers preparing a work site with a powered auger	Two people preparing a work site with a powered auger
+entailment	A scene with an old auditorium in the background an orchestra in front playing music and people wearing hard hats in the forefront	A scene with an old auditorium in the background, musicians in front playing music, and workers in the forefront
+entailment	A man speaks and musicians play instruments as people in blue construction hats listen	A person speaks and people play instruments as people in blue construction hats listen
+entailment	Musicians playing for a group of people with blue hats on in outdoor settings	Performers playing for a group of people with blue hats on in outdoor settings
+entailment	Orchestra playing for people in hard hats in a room with a damaged ceiling	An orchestra is playing for individuals in hard hats in a room with a damaged ceiling
+entailment	 male swimmers training with one of them wearing a blue hat and one of them wearing a red hat	People are training, with one of them wearing a blue hat and one of them wearing a red hat
+entailment	Two men working on a small engine on a dirt road	Two people working on a small engine on a dirt road
+entailment	A old man and a youth work on starting a tiller	An older person and a young person are working on starting a tiller
+entailment	A band playing in the park	A group is playing in the park
+entailment	Two men are looking at a piece of machinery outdoors	Two people are looking at a piece of machinery outdoors
+entailment	A crowd enjoying a musical band outdoors on a beautiful day	A group of people enjoying a musical band outdoors on a beautiful day
+entailment	A crowd watches a band wearing red shirts perform outside	A crowd watches a group of people wearing red shirts perform outside
+entailment	This local musical ensemble stands for their final performance of the day in a gazebo in a park	This local musical group stands for their final performance of the day in a gazebo in a park
+entailment	A crowd of people watch a band wearing red perform outdoors	A crowd of people watch musicians wearing red perform outdoors
+entailment	Two hockey players playing offense and defense	Two individuals playing offense and defense
+entailment	A child sleeps while holding some stuffed animals	A person sleeps while holding some stuffed animals
+entailment	Two men playing hockey with one on the ground and the other spraying him with ice	Two people are playing hockey, with one on the ground and the other spraying him with ice
+entailment	Small child sleeping with three stuffed animals	A small person is sleeping with three stuffed animals
+entailment	A child is sleeping with a teddy bear	A person is sleeping with a teddy bear
+entailment	Ice skater taking a hit by another player	An individual is taking a hit from another individual
+entailment	A tour group takes tourists around in a boat	A tour group takes people around in a boat
+entailment	A girl is upsidedown on a trampoline and you can see her navel	A child is upsidedown on a trampoline and you can see their navel
+entailment	A sea of people holding umbrellas on a busy street	A sea of people holding umbrellas on a busy street
+entailment	A girl is bouncing on her head on a trampoline	A person is bouncing on their head on a trampoline
+entailment	A child jumps upside down on a trampoline	A person jumps upside down on a trampoline
+entailment	A child flips on a trampoline	A person flips on a trampoline
+entailment	A young man flashes the peace sign to an older man with a bald spot in the backseat of a van	A young person flashes the peace sign to an older person with a bald spot in the backseat of a van
+entailment	Umbrellas come out as the skies open up	Umbrellas come out as the skies open up
+entailment	A man in pink on a subway	A person in pink on a subway
+entailment	Two groups of people crossing a street with no traffic with multicolored multistory apartment buildings and a religious building in the background	Two groups of people are crossing a street with no traffic, with multicolored multistory apartment buildings and a religious building in the background.
+entailment	A young adult is wearing shorts tank top sandals and a traditional hat is standing looking out of an open door	A young person is wearing shorts, a tank top, sandals, and a traditional hat while standing and looking out of an open door
+entailment	A man with his hand raised	A person with their hand raised
+entailment	Two green shirted males perform on the square as people watch	Two people in green shirts perform on the square as others watch
+entailment	A happy man holding a gavel	A happy person holding a gavel
+entailment	A man is pretending to be a judge	A person is pretending to be an official
+entailment	A silhouette of a man walking	A silhouette of a person walking
+entailment	In this picture we see three young men playing around with a hammer	In this picture we see three young people playing around with a hammer
+entailment	A dog is jumping over a series of colored gates	An animal is jumping over a series of colored gates
+entailment	A horse walking by the side of the water pulling something	An animal walking by the side of the water is pulling something
+entailment	Two people in red coats sit in the snow in a forest clearing	Two people in red coats are sitting in the snow in a forest clearing
+entailment	three people play in the snow with a forest in the background	Three people play in the snow with a forest in the background
+entailment	Three people resting on a snowy mountain	Three people are resting on a snowy mountain
+entailment	Three girls in winter coats are outside in a snowy forest	Three people in winter coats are outside in a snowy forest
+entailment	A young girl with rollerblades and green foliage in the background	A young person with rollerblades and green foliage in the background
+entailment	A lady dressed in black has a purple umbrella in her right hand	A person dressed in black has a purple umbrella in their right hand
+entailment	Six people sit around a large rectangular table watching a gentleman write on the whiteboard up front	Six people sit around a large rectangular table watching a person write on the whiteboard up front
+entailment	Older bald man in white shorts and a black tshirt playing with a skateboard	An older bald person in white shorts and a black tshirt is playing with a skateboard
+entailment	A man in a white shirt uses a blackboard as others sit at a table watching	A person in a white shirt uses a blackboard as others sit at a table watching
+entailment	Six people siting around a table with one man writing on the felt board	Six people are sitting around a table with one person writing on the felt board
+entailment	The professor is teaching to their students	An educator is teaching to their students
+entailment	A mother inspects her young daughters clothes which appear to be a costume of some sort on the front lawn of a house	A parent inspects her young daughter's clothes which appear to be a costume of some sort on the front lawn of a house
+entailment	A young woman watches as a young blond boy swings in a chair swing with buildings visible in the background	A young person watches as a young person swings in a chair swing with buildings visible in the background
+entailment	A customer asking a street vendor for the price of bananas	A person is asking another person for the price of bananas
+entailment	A street vendor wearing a gray shirt gray pants and a blue baseball cap is selling bananas and limes from blue plastic crates	A person wearing a gray shirt, gray pants, and a blue baseball cap is selling bananas and limes from blue plastic crates
+entailment	a man wearing a black jacket stands holding an open book in front of a chalkboard and globe	A person wearing a black jacket stands holding an open book in front of a chalkboard and globe
+entailment	A gentleman selling bananas and grapes	A person selling bananas and grapes
+entailment	A man in a black jacket reading aloud	A person in a black jacket is reading aloud
+entailment	Group of women in HSBC shirts preparing pastries	Group of people in HSBC shirts preparing pastries
+entailment	Several women from HSBC serve food to children	Several people from HSBC serve food to children
+entailment	A group of women wearing shirts that say HSBC is standing by a table with food on it	A group of people wearing shirts that say HSBC is standing by a table with food on it
+entailment	A woman holding a red umbrella looking at a food stand with a large temple behind her	A person holding a red umbrella is looking at a food stand with a large temple behind them
+entailment	Two competitive swimmers race each other	Two competitive people race each other
+entailment	ladies preparing food in a kitchen table	People are preparing food at a kitchen table
+entailment	Group of people holding umbrellas while walking in the rain	A group of individuals holding umbrellas while walking in the rain
+entailment	A small child wearing a pink hat blue jeans and white shirt standing in a grass field	A small person wearing a pink hat, blue jeans, and a white shirt is standing in a grass field
+entailment	A black man in a sweater stands beside his rundown butcher shop	A black person in a sweater stands beside his rundown shop
+entailment	The grim of the shop makes the man wonder if she should still work there	The grim of the shop makes the person wonder if she should still work there
+entailment	A man stands in front of a house next to steaks hanging from a metal pole	A person stands in front of a house next to steaks hanging from a metal pole
+entailment	An older man in a gray shirt standing by a building that has meat hanging out to dry	An older person in a gray shirt is standing by a building that has meat hanging out to dry
+entailment	A man in a gray sweater and khaki pants is standing next to a small red and yellow building where there is an array of raw meat hanging from a pole outside a window	A person in a gray sweater and khaki pants is standing next to a small red and yellow building where there is an array of raw meat hanging from a pole outside a window
+entailment	A dog hurdles over a series of poles	An animal hurdles over a series of poles
+entailment	A small black dog playing with a ball in the grass	A small black animal is playing with a ball in the grass
+entailment	A group of women are standing together in a line looking at books	A group of people are standing together in a line looking at books
+entailment	A trio of men are golfing with a crowd watching	A trio of people are golfing with a crowd watching
+entailment	A man lines up a golf shot while many people look on	A person lines up a golf shot while many people look on
+entailment	One golfer prepares to putt while three other men chat on the green	One person prepares to putt while three other people chat on the green
+entailment	Golfer in a white cap putting into a hole while surrounded by onlookers and other golfers	A person in a white cap is putting into a hole while surrounded by onlookers and other people
+entailment	A small black dog jumping over gates	A small black animal is jumping over gates
+entailment	Team members watching a baseball game in progress from the dugout	People are watching a baseball game in progress from the dugout
+entailment	A man wearing black and a woman wearing white are smiling	People wearing black and white are smiling
+entailment	A woman and a man standing on a busy city street smiling	Two people are standing on a busy city street smiling
+entailment	Two people stand on a Boston street in winter	Two people stand on a Boston street in winter
+entailment	A man and a woman standing on a city street	Two people are standing on a city street
+entailment	A couple standing outside a street	A group of people is standing outside a street
+entailment	A girl with extremely redhair blue eyes and fair skin waves	A person with extremely red hair, blue eyes, and fair skin waves
+entailment	Two men with angry faces drink out of white cups	Two people with angry faces are drinking out of white cups
+entailment	A wet dog in golden tones runs on the sand near the ocean	A wet animal in golden tones runs on the sand near the ocean
+entailment	A brown dog running on the beach near the ocean	A brown animal is running on the beach near the ocean
+entailment	A wet yellow dog runs along the shoreline	A wet yellow animal runs along the shoreline
+entailment	A wet tan dog running across a beach	A wet tan animal is running across a beach
+entailment	A dog running on the beach	An animal is running on the beach
+entailment	A girl crouches and moves between two women while outside on a sunny day	A person crouches and moves between two people while outside on a sunny day
+entailment	Man paints red wall orange with a roller while suspended from a swing	A person paints a red wall orange with a roller while suspended from a swing
+entailment	A singer playing his guitar on stage	A performer playing his guitar on stage
+entailment	Two boys prepare a small sailboat as two girls watch them from the beach	Two children prepare a small sailboat as two other children watch them from the beach
+entailment	Two men fishing in the water by the boat and two women sitting on buckets on the sand	Two people fishing in the water by the boat and two people sitting on buckets on the sand
+entailment	Boy in gray shirt posing for a photograph	A person in a gray shirt is posing for a photograph
+entailment	Two men drink stand in front of a brightly lit restaurant drinking soda	Two people stand in front of a brightly lit restaurant drinking soda
+entailment	Fishermen in Africa unload their catch as two women look on	People in Africa unload their catch as two women look on
+entailment	The child is wearing a blue hat and green jacket while walking through snow	A person is wearing a blue hat and green jacket while walking through snow
+entailment	A person with a blue hat stands in trails in the snow	An individual with a blue hat stands in trails in the snow
+entailment	A young boy walks across tracks in the snow	A young child walks across tracks in the snow
+entailment	A man in a black shirt wearing a white and black hat	A person in a black shirt wearing a white and black hat
+entailment	A child in the snow	A person in the snow
+entailment	A man in a black and white baseball cap looking into a silver pontiac	A person in a black and white baseball cap is looking into a silver Pontiac
+entailment	A man walking on the street with a baseball cap and black longsleeve shirt	A person walking on the street with a baseball cap and black longsleeve shirt
+entailment	A man wearing long sleeves and a baseball cap walks along the sidewalk between a parked car and a store that advertises Real Meat Real Butcher	A person wearing long sleeves and a baseball cap walks along the sidewalk between a parked car and a store that advertises Real Meat Real Butcher
+entailment	A bearded man in a white shirt looks at a blond woman wearing a yellow scarf	A bearded person in a white shirt looks at a blond person wearing a yellow scarf
+entailment	The bearded man is speaking with the lady wearing a green top	A bearded person is speaking with a person wearing a green top
+entailment	Sightseers are enjoying a cool day	People are enjoying a cool day
+entailment	A guy with a backpack on	A person with a backpack on
+entailment	A man hikes up a rocky hill	A person hikes up a rocky hill
+entailment	A man with a backpack stands beside a rock	A person with a backpack stands beside a rock
+entailment	Two older people talk in a group of people	Two older people talk in a group of people
+entailment	A man with a backpack on a hill next to a rock outcroping	A person with a backpack is on a hill next to a rock outcropping
+entailment	A boat with two men paddling while the third man holds a line	A boat with two people paddling while the third person holds a line
+entailment	The people are on the boat fishing with a net two of them are rowing and one is pulling the net in	The people are on the boat fishing with a net; two of them are rowing and one is pulling the net in.
+entailment	A woman is using a net to catch fish on the river	A person is using a net to catch fish on the river
+entailment	Three people two men and one woman are riding in a boat	Three people are riding in a boat
+entailment	Three Japanese men fishing from wooden boat	Three Japanese people are fishing from a wooden boat
+entailment	Groups of swimmers congregate on and around a diving platform and several diving boards at an indoor pool with an ornate mural in the background	Groups of people congregate on and around a diving platform and several diving boards at an indoor pool with an ornate mural in the background
+entailment	Young in blue jeans waiting for her blind date in the park	A young person in blue jeans is waiting for a date in the park
+entailment	A smiling child sitting in a restaurant at the table	A smiling person sitting in a restaurant at the table
+entailment	A man with glasses and a mustache scrapes paint off the outside of a windowsill	A person with glasses and a mustache is scraping paint off the outside of a windowsill
+entailment	A skier is posing beside an experts only sign with ski lifts in the background	A person is posing beside an experts only sign with ski lifts in the background
+entailment	A person on a motorbike is jumping over a dirt ramp	An individual on a motorbike is jumping over a dirt ramp
+entailment	A motorcyclist landing on a hill with his dirt bike	A person landing on a hill with their dirt bike
+entailment	a young boy wearing a blue outfit sliding down a red slide	A young child wearing a blue outfit is sliding down a red slide
+entailment	A little boy slides down a bright red corkscrew slide	A little child slides down a bright red corkscrew slide
+entailment	A rider of a dirt bike is midair	A person of a dirt bike is midair
+entailment	A little boy slides down a red slide	A little child slides down a red slide
+entailment	Members of a band perform dressed in white while the drummer sits behind them	People in a band perform dressed in white while a person sits behind them
+entailment	A couple eating in a restaurant	A group of people is eating in a restaurant
+entailment	A black dog is walking along the grass sniffing at the ground	A black animal is walking along the grass sniffing at the ground
+entailment	Two little kids are in a bathtub with a yellow and blue umbrella	Two little children are in a bathtub with a yellow and blue umbrella
+entailment	A restaurant with two booths occupied and a wheelchair leaning against a table	A restaurant with two seating areas occupied and a wheelchair leaning against a table
+entailment	A group of travelers are in an airport waiting for something	A group of people are in an airport waiting for something
+entailment	Two groups of people sitting at a booth in a dinner	Two collections of individuals are sitting at a booth in a diner
+entailment	A boy tries to climb a large rock	A child tries to climb a large rock
+entailment	A boy scaling down rocks without any climbing gear	A child scaling down rocks without any climbing gear
+entailment	A young boy goes through large rocks in the mountains	A young person goes through large rocks in the mountains
+entailment	A young male holding on to a large rock	A young person holding on to a large rock
+entailment	A man in a blue jacket is climbing a rock	A person in a blue jacket is climbing a rock
+entailment	A puppy plays in a field	An animal plays in a field
+entailment	Man in blue apron lifting lid to barrel style grill while another man watches	A person in a blue apron is lifting the lid to a barrel-style grill while another person watches
+entailment	A brown and white dog running with his tongue hanging out	A brown and white animal is running with its tongue hanging out
+entailment	A brown and white dog is walking through a grassy field	A brown and white animal is walking through a grassy field
+entailment	a brown and white dog is running on the grass	A brown and white animal is running on the grass
+entailment	A closeup of a brown dog with his tongue out	A closeup of a brown animal with its tongue out
+entailment	A father in a green sweater kissing his newborn son on the forehead while he is lying on a sofa	A parent in a green sweater is kissing their newborn child on the forehead while lying on a sofa
+entailment	A woman in brightly colored pants and a hat is walking by the corner of a building	A person in brightly colored pants and a hat is walking by the corner of a building
+entailment	A boy in a blue shirt is jumping backwards over a horizontal pool	A child in a blue shirt is jumping backwards over a horizontal pool
+entailment	A child hanging upside down from a metal bar outside	A person is hanging upside down from a metal bar outside
+entailment	A young boy swinging upside down from a bar	A young child is swinging upside down from a bar
+entailment	A boy hangs upside down from a metal bar	A child hangs upside down from a metal bar
+entailment	A runner in a yellow and black running suit and black running shoes stands at his mark prepared to run a race	A person in a yellow and black running suit and black running shoes stands at their mark prepared to run a race
+entailment	Boys on a motorscooter riding down a busy urban street	People on a motorscooter are riding down a busy urban street
+entailment	A man in a pink shirt playing guitar	A person in a pink shirt is playing guitar
+entailment	A group of divers preparing to jump into a pool from diving boards of various heights	A group of people preparing to jump into a pool from diving boards of various heights
+entailment	A boy jumps from one bed to another	A child jumps from one bed to another
+entailment	A man in a white suit and a pink shirt plays guitar	A person in a white suit and a pink shirt is playing guitar
+entailment	A sculptor chipping away at marble to create a statue	An artist chipping away at marble to create a statue
+entailment	A man with a black mustache cuts meat with a large knife	A person with a black mustache cuts meat with a large knife
+entailment	A man with a mustache wearing a gray shirt while cutting up barbecue meat with a sharp knife	A person with a mustache wearing a gray shirt while cutting up barbecue meat with a sharp knife
+entailment	A man preparing a meal for his customers	A person preparing a meal for their customers
+entailment	A chef is cutting up some food delicacies	A person is cutting up some food delicacies
+entailment	A fat man is serving food	A fat person is serving food
+entailment	Man in blue shirt grilling chicken wings	A person in a blue shirt is grilling chicken wings
+entailment	A man and a woman are grilling outdoors	Two people are grilling outdoors
+entailment	Newlyweds smile and pose for a picture after their ceremony	A couple smiles and poses for a picture after their ceremony
+entailment	A group of motorcyclist are ridding through the streets	A group of people are riding through the streets
+entailment	A baseball player in red leaping to catch the ball	An athlete in red is leaping to catch the ball
+entailment	Three oriental men are riding on a red moped scooter in the city with many people	Three oriental people are riding on a red moped scooter in the city with many people
+entailment	Two asian toddlers one crying playing with a pacifier	Two Asian children, one crying, are playing with a pacifier
+entailment	A large group of people walking on a mountainside	A large group of individuals walking on a mountainside
+entailment	A woman in pink is staring while a woman is red is posing nearby kitchen items	A person in pink is staring while a person in red is posing nearby kitchen items
+entailment	Three children are riding in a cart filled with flowers which is being pulled by dogs	Three young people are riding in a cart filled with flowers which is being pulled by dogs
+entailment	A child in green shoes is splashing in a puddle	A person in green shoes is splashing in a puddle
+entailment	Three kids in a golden chariot being pulled by six little dogs	Three children in a golden chariot being pulled by six little dogs
+entailment	a small group of dogs pulls a cart full of children which are covered in flowers	A small group of animals pulls a cart full of people who are covered in flowers
+entailment	a young child wearing green boots playing in a mud puddle	A young person wearing green boots is playing in a mud puddle
+entailment	Children being pulled in a cart by dogs	Young people are being pulled in a cart by dogs
+entailment	The child is running through a puddle in a street	A person is running through a puddle in a street
+entailment	Two men are wrestling in a competition	Two people are wrestling in a competition
+entailment	A man with two dogs on a beach	A person with two dogs on a beach
+entailment	A woman in a park stands with her arm up in the air	A person in a park stands with their arm up in the air
+entailment	A man in a brown shirt and dark shorts plays on the beach with his two black dogs	A person in a brown shirt and dark shorts is playing on the beach with two black dogs
+entailment	A man in shorts with two black dogs holds a ball throwing toy at the beach	A person in shorts with two black dogs is holding a ball throwing toy at the beach
+entailment	a man playing with two black dogs on the beach	A person is playing with two black dogs on the beach
+entailment	Man at the beach with two dogs	A person at the beach with two dogs
+entailment	A young girl makes a face as she looks at an insect on her finger	A young child makes a face as they look at an insect on their finger
+entailment	The girl with glasses on has a bug on her right pointer finger	The person with glasses on has a bug on their right pointer finger
+entailment	A girl in a school uniform screams with a bug on her finger	A person in a school uniform screams with a bug on their finger
+entailment	A girl looks at a bug on her finger and looks scared	A person looks at a bug on their finger and looks scared
+entailment	A bug sits on a girls finger while she looks shocked	A bug sits on a child's finger while they look shocked
+entailment	Four ladies and one man practicing music in a living room	Four people and one person are practicing music in a living room
+entailment	A man pulling his cart full of brooms	A person pulling a cart full of brooms
+entailment	Two teenagers wearing sunglasses are reading newspapers	Two people wearing sunglasses are reading newspapers
+entailment	Two men wearing white polos are standing outside reading the newspaper	Two people wearing white polos are standing outside reading the newspaper
+entailment	Two young men wearing sunglasses and white polo shirts are standing outdoors looking at newspapers	Two young people wearing sunglasses and white polo shirts are standing outdoors looking at newspapers
+entailment	Three women and a man sitting at a table with a large pitcher of beer	Three people sitting at a table with a large pitcher of beer
+entailment	A tattooed man pouring beer out of a bottle into a young mans mouth	A tattooed person pouring beer out of a bottle into a young person's mouth
+entailment	A tattooed man pours a beer into the mouth of a thin blond man	A tattooed person pours a beer into the mouth of a thin blond person
+entailment	A tattooed man on a stage pours beer into another mans mouth	A tattooed person on a stage pours beer into another person's mouth
+entailment	Three dogs trot down the beach	Three animals trot down the beach
+entailment	violinist writing down music with a pencil	A musician is writing down music with a pencil
+entailment	Three dogs are walking on sand and casting shadows	Three animals are walking on sand and casting shadows
+entailment	Three dogs on the beach one has its mouth open	Three animals are on the beach; one has its mouth open
+entailment	The three dogs are walking on the sand	The three animals are walking on the sand
+entailment	The dog is swimming in the water	The animal is swimming in the water
+entailment	A baseball player wearing red diving to catch a ball	An athlete wearing red is diving to catch a ball
+entailment	A picture of a brick building	A picture of a brick structure
+entailment	Men are pushing a billboard truck	People are pushing a billboard truck
+entailment	People are out and about on a road in a European looking town	People are out and about on a road in a European looking town
+entailment	A tall clock tower protrudes over a narrow alley street	A tall clock tower protrudes over a narrow alley street
+entailment	A truck with an advertising billboard stuck in the middle of the road	A vehicle with an advertising display is stuck in the middle of the road
+entailment	A man on a bicycle is riding down a city street towards a tower with a clock on it	A person on a bicycle is riding down a city street towards a tower with a clock on it
+entailment	A man and a little girl shaking hands on the game field	A person and a little person are shaking hands on the game field
+entailment	An athlete dressed in white stands next to a young girl wearing a black shirt	A person dressed in white stands next to a young girl wearing a black shirt
+entailment	A professional soccer player highfives a young girl fan	A person highfives a young fan
+entailment	A soccer star in white prepared to highfive a young fan	A person in white prepared to highfive a young fan
+entailment	A soccer player giving a highfive to a young female fan	A person is giving a highfive to a young fan
+entailment	Two motorcyclists round a curve along a racing track in close proximity to one another	Two people round a curve along a racing track in close proximity to one another
+entailment	Two people riding their motorbikes against one another on a track	Two people riding their vehicles against one another on a track
+entailment	Two people in racing clothes and helmets are riding motorcycles	Two individuals in racing clothes and helmets are riding motorcycles
+entailment	Two people are competing in a motorcycle race	Two individuals are competing in a motorcycle race
+entailment	two guys race on motorbikes	Two people race on motorbikes
+entailment	Three females are jumping off a rock about  foot above the ground	Three people are jumping off a rock about a foot above the ground
+entailment	Three women in decorous poses jump from large rock in dry open area	Three people in decorous poses jump from a large rock in a dry open area
+entailment	 ladies jumping off a rock in the desert with mountains as a background	People are jumping off a rock in the desert with mountains as a background
+entailment	Three young girls are standing in a rock situated in the middle of a white sand desert	Three young people are standing on a rock situated in the middle of a white sand desert
+entailment	Three people are posing on a single rock in front of a mountain	Three people are posing on a single rock in front of a mountain
+entailment	People at the bowling alley	Individuals at the bowling alley
+entailment	Four women and three children are making their way down a sidewalk	Four people and three people are making their way down a sidewalk
+entailment	A man in a flower patterned shirt is bowling	A person in a flower patterned shirt is bowling
+entailment	Two people at the bowling alley	Two people at the bowling alley
+entailment	The person in the white flowered shirt is bending down at the ball return in the bowling alley	An individual in a white flowered shirt is bending down at the ball return in the bowling alley
+entailment	A person bending over to pick up a ball at a bowling alley	An individual is bending over to pick up a ball at a bowling alley
+entailment	A man throwing or retrieving a line thrown into the water at the dock of a large boat	A person throwing or retrieving a line thrown into the water at the dock of a large boat
+entailment	A man in a white safety hat and a yellow jacket is standing on the edge of a concrete structure and pulling in an orange safety vest from the water bellow him	A person in a white safety hat and a yellow jacket is standing on the edge of a concrete structure and pulling in an orange safety vest from the water below them
+entailment	A man in a bright reflective jacket fishes for an object in the water	A person in a bright reflective jacket is fishing for an object in the water
+entailment	A man standing on a dock maneuvering a piece of equipment in the water	A person standing on a dock is maneuvering a piece of equipment in the water
+entailment	Rescue worker at work on a dock	A person at work on a dock
+entailment	A motocross biker rides midturn in the middle of a race	A motocross person rides midturn in the middle of a race
+entailment	A girl wearing pink is walking ahead of a boy wearing blue along a path in the woods	A child wearing pink is walking ahead of another child wearing blue along a path in the woods
+entailment	A boy dressed in jeans and a blue sweatshirt and a girl dressed in pink are hiking on a path through the woods	Two children dressed in jeans and a blue sweatshirt and in pink are hiking on a path through the woods
+entailment	A girl in ping and a boy in blue walk through a forest trail	Two children, one in pink and one in blue, walk through a forest trail
+entailment	A little boy and a little girl are walking up a hill with trees on both sides	Two children are walking up a hill with trees on both sides
+entailment	Two men grilling outside on a half mowed lawn	Two people are grilling outside on a half mowed lawn
+entailment	Two men read directions outdoors	Two people are reading directions outdoors
+entailment	Two men stand outdoors looking at a cooking pot while one of them holds a piece of paper	Two people stand outdoors looking at a cooking pot while one of them holds a piece of paper
+entailment	Two men are cooking outside in a field with trees in the background	Two people are cooking outside in a field with trees in the background
+entailment	A brown dog is running through snowy woodland	A brown animal is running through snowy woodland
+entailment	A white man in a turban	A white person in a turban
+entailment	A woman is swimming in a swimming pool	A person is swimming in a swimming pool
+entailment	a man wears a red bandanna	A person wears a red bandanna
+entailment	Man with facial hair wearing red and white Palestinian style headscarf	A person with facial hair wearing a red and white Palestinian style headscarf
+entailment	A man is swinging a cricket bat	A person is swinging a cricket bat
+entailment	A basketball fan working over the weekend in cubicle land	A person working over the weekend in cubicle land
+entailment	The bartender shows off the wide selection of beers on tap	The staff shows off the wide selection of beers on tap
+entailment	An old man in a black trench coat standing in a marketplace	An old person in a black trench coat is standing in a marketplace
+entailment	A man standing in a cubicle over a computer with a Ginobili jersey on his chair	A person standing in a cubicle over a computer with a Ginobili jersey on their chair
+entailment	Two women in hats decorated with flowers and fruit smile	Two people in hats decorated with flowers and fruit are smiling
+entailment	A man wearing a helmet is welding something	A person wearing a helmet is welding something
+entailment	There are two older ladies in straw hats covered in flowers	There are two older people in straw hats covered in flowers
+entailment	Two women donning hats adorned with flowers pose for a picture	Two people donning hats adorned with flowers are posing for a picture
+entailment	A welder in protective clothing and mask works to weld together pieces of metal on a structure that is coming up out of a body of water	A worker in protective clothing and mask works to weld together pieces of metal on a structure that is coming up out of a body of water
+entailment	A man is sitting down while welding an object	A person is sitting down while welding an object
+entailment	Two women wearing hats covered in flowers are posing	Two people wearing hats covered in flowers are posing
+entailment	Young man sitting on a blanket in the grass and eating a ribs	A young person is sitting on a blanket in the grass and eating ribs
+entailment	Skinny man with no shoes on eating barbecue ribs outside	A skinny person with no shoes on is eating barbecue ribs outside
+entailment	A man is eating barbecue ribs outside next to a grill	A person is eating barbecue ribs outside next to a grill
+entailment	a boy eating something outside	A person is eating something outside
+entailment	A woman carries a bag with bright pink lettering	A person carries a bag with bright pink lettering
+entailment	A person riding a sled down a snowy slope	An individual is riding a sled down a snowy slope
+entailment	Three Greek dancers two male and one female dancing on a stage with Greek flags in the background while others look on	Three Greek performers, two people and one person, are dancing on a stage with Greek flags in the background while others look on
+entailment	Two dogs fighting in the snow	Two animals are fighting in the snow
+entailment	A group of men drink at a bar and talk	A group of people drink at a bar and talk
+entailment	A brown and white dog bares his teeth and grabs the head of another brown and white dog	A brown and white animal bares its teeth and grabs the head of another brown and white animal
+entailment	He is walking fast to catch the train	A person is walking fast to catch the train
+entailment	these four Men are Relaxing and having a few Drinks	These four people are relaxing and having a few drinks
+entailment	Two brown dogs fighting in the snow	Two brown animals are fighting in the snow
+entailment	A group of laughing people on a red couch	A group of laughing people on a red couch
+entailment	Four happy people sitting on a red couch	Four happy people are sitting on a red couch
+entailment	A group of friends are laughing and playing the wii on a red couch	A group of people are laughing and playing the wii on a red couch
+entailment	Four people laughing and sitting on a couch	Four people are laughing and sitting on a couch
+entailment	A woman and child making a creature out of paper products	A person and a person are making a creature out of paper products
+entailment	A group of women converse together while overlooking the views of the foliage	A group of people converse together while overlooking the views of the foliage
+entailment	The older lady and darkhaired girl are making crafts out of paper plates and toilet paper rolls	The older person and darkhaired person are making crafts out of paper plates and toilet paper rolls
+entailment	A man in a black shirt is walking down the street offering a glass of wine to a woman	A person in a black shirt is walking down the street offering a glass of wine to another person
+entailment	A lady with a child is looking at a scene	A person with a child is looking at a scene
+entailment	Pushing a mower that is a bit too large for him a young boy tries to cut some grass	Pushing a mower that is a bit too large for him, a young child tries to cut some grass
+entailment	A woman looks skeptically at the person taking a picture of her and  girls who are outdoors	A person looks skeptically at another person taking a picture of them and people who are outdoors
+entailment	The boy is cutting the grass	The child is cutting the grass
+entailment	A young man on the street listening to headphones	A young person on the street is listening to headphones
+entailment	Two dogs play out in the snow covered grass	Two animals play out in the snow covered grass
+entailment	Two golden retrievers running in a snow dusted field	Two golden dogs are running in a snow dusted field
+entailment	Two golden retrievers running in a slightly snowy desert	Two golden dogs are running in a slightly snowy desert
+entailment	Two brown dogs trot along frozen ground in a rural setting	Two brown animals trot along frozen ground in a rural setting
+entailment	a little puppy wearing a pink sweater jumps	A little animal wearing a pink sweater jumps
+entailment	A man stands outside of a beautiful building wearing a neon green construction jacket	A person stands outside of a beautiful building wearing a neon green construction jacket
+entailment	Two dogs run through a snowpatched desert	Two animals run through a snowpatched desert
+entailment	An aging White man stands behind a bar in casual dress smiling	An aging White person stands behind a bar in casual dress smiling
+entailment	Man in reflective jacket walking in front of glass wall and red railing	A person in a reflective jacket is walking in front of a glass wall and red railing
+entailment	a boy plays on the swing	A child plays on the swing
+entailment	Several people are crowded together in a room with three large fans over them	Several people are crowded together in a room with three large fans over them
+entailment	Two swans glide on river	Two birds glide on a river
+entailment	A woman in a black dress with a name tag stands and addresses a group of seated people	A person in a black dress with a name tag stands and addresses a group of seated people
+entailment	Woman in black dress speaking to attendees sitting randomly in a room	A person in a black dress is speaking to attendees sitting randomly in a room
+entailment	A crowd of people indoors sitting at tables with name tags	A gathering of individuals indoors sitting at tables with name tags
+entailment	A woman in a black dress is speaking to a group of people	A person in a black dress is speaking to a group of people
+entailment	A lady in a black dress is talking to a group of people	A person in a black dress is talking to a group of people
+entailment	Woman with dark hair exiting a cab in an asian country on a busy street at nighttime	A person with dark hair is exiting a cab in an Asian country on a busy street at nighttime
+entailment	Group of people standing around boat	Group of individuals standing around a boat
+entailment	A young boy is inside a couch cushion with stuffing hanging out	A young child is inside a couch cushion with stuffing hanging out
+entailment	A Little boy in a red striped shirt on a blue couch pulling out all the pillows	A little child in a red striped shirt on a blue couch is pulling out all the pillows
+entailment	A young boy sucks on his arm while laying on a blue couch	A young child sucks on his arm while laying on a blue couch
+entailment	A little boy in a plaid shirt looks up as he lays on a blue sofa	A little child in a plaid shirt looks up as they lay on a blue sofa
+entailment	A child is sitting on a couch with a ripped cushion	A person is sitting on a couch with a ripped cushion
+entailment	Two men and a woman are sitting at a table in front of microphones	Two people are sitting at a table in front of microphones
+entailment	Two businessmen and a woman at a convention speaking	Two people and a person at a convention are speaking
+entailment	Guy and girl looks at a person giving a speech while they are sitting down	Two people look at a person giving a speech while they are sitting down
+entailment	Here is a picture of  men and a woman at a press conference or meeting	Here is a picture of people at a press conference or meeting
+entailment	Presenters speaking at conference	People speaking at a conference
+entailment	A group of people are paddling their way across the water	A group of people are paddling their way across the water
+entailment	A surfer catches a good sized wave	A person catches a good sized wave
+entailment	Some children are sitting on rafts in a lake	Some young people are sitting on rafts in a lake
+entailment	A group of kids float in the middle of a pond	A group of children float in the middle of a pond
+entailment	Children float on the water in a raft	People float on the water in a raft
+entailment	Two children wearing winter hats and boots are standing on a beach talking to each other	Two young people wearing winter hats and boots are standing on a beach talking to each other
+entailment	A man and a woman enjoying the sunset on the pier	Two people are enjoying the sunset on the pier
+entailment	A boy in a blue shirt is blindfolded and holding a stick	A child in a blue shirt is blindfolded and holding a stick
+entailment	A man is kayaking through some white waters	A person is kayaking through some white waters
+entailment	A man in shorts and a blue shirt is wearing a blindfold and holding a large stick	A person in shorts and a blue shirt is wearing a blindfold and holding a large stick
+entailment	A group of children stand around smiling at a boy whom is blindfolded holding a large stick and wearing a blue teeshirt with khaki shorts	A group of young people stand around smiling at a person who is blindfolded holding a large stick and wearing a blue teeshirt with khaki shorts
+entailment	Man kayaking down river rapids	A person kayaking down river rapids
+entailment	A man and a woman sit at the end of a dock which is surrounded by water near another dock that has a wooden rooftype structure over it	Two people sit at the end of a dock which is surrounded by water near another dock that has a wooden rooftype structure over it
+entailment	Man in a blind fold wearing blue shirt	A person in a blind fold wearing a blue shirt
+entailment	A AfricanAmerican woman feeding a dog	A person of African American descent is feeding a dog
+entailment	A man and women sitting on the end of a dock overlooking the water	People are sitting on the end of a dock overlooking the water
+entailment	A Black woman dressed in tank top and jeans holds a leash to a brown dog	A Black person dressed in a tank top and jeans holds a leash to a brown dog
+entailment	A woman lets her dog drink while on a walk	A person lets their dog drink while on a walk
+entailment	A woman stands on a sidewalk with her small dog who is eating or drinking out of a blue container	A person stands on a sidewalk with their small dog who is eating or drinking out of a blue container
+entailment	A woman dressed in blue is watching her dog getting a drink from a blue container	A person dressed in blue is watching their dog getting a drink from a blue container
+entailment	A young child asleep in a bed holding several stuffed animals	A young person asleep in a bed holding several stuffed animals
+entailment	A group of men are performing on stage	A group of people are performing on stage
+entailment	A band of four guitarists and a drummer perform on stage	A band of four musicians performs on stage
+entailment	A band that consists of at least  drummer  guitarists and a bassist performs on stage	A band that consists of at least musicians performs on stage
+entailment	Four guitarists and a drummer on stage	Four musicians are on stage
+entailment	A band performs on stage under a blue light	A group performs on stage under a blue light
+entailment	A biker is racing downhill	A person is racing downhill
+entailment	A person in a biking suit rides a bike down a hill	An individual in a biking suit rides a bike down a hill
+entailment	A biker prepares to go down a hill	A person prepares to go down a hill
+entailment	A person in a blue biking uniform is ridding a dirt bike on a grassy track	A person in a blue biking uniform is riding a dirt bike on a grassy track
+entailment	A person riding a bicycle travels down an overgrown hill	An individual riding a bicycle travels down an overgrown hill
+entailment	A skateboarder doing a jump near some apartment buildings	A person doing a jump near some apartment buildings
+entailment	A child wearing a helmet is sitting on a red sled outside in the snow	A person wearing a helmet is sitting on a red sled outside in the snow
+entailment	A woman wearing a black smock pours steamed milk into a cup while a guy wearing a black smock uses an espresso machine	A person wearing a black smock pours steamed milk into a cup while another person wearing a black smock uses an espresso machine
+entailment	Two people one of them blurred from motion are preparing drinks in cups	Two individuals, one of whom is blurred from motion, are preparing beverages in cups
+entailment	Two coffee shop employees are making coffee drinks	Two workers are making coffee drinks
+entailment	 people preparing coffee at a shop	People are preparing coffee at a shop
+entailment	Two people in motorcycle helmets are posing for a picture	Two people in motorcycle helmets are posing for a picture
+entailment	A snowboarder wearing a blue jacket and green pants snowboards down a hill	A person wearing a blue jacket and green pants is snowboarding down a hill
+entailment	A person dressed in black shoveling a path to the road from the stairs	An individual dressed in black is shoveling a path to the road from the stairs
+entailment	Two men work to move a slab of stone	Two people work to move a slab of stone
+entailment	Person in black coat shoveling snow off of a walkway	An individual in a black coat is shoveling snow off of a walkway
+entailment	An individual is shoveling heavy snow	A person is shoveling heavy snow
+entailment	A neighborhood is covered in snow	A neighborhood is covered in snow
+entailment	Man with a lit cigarette in mouth yellow baseball cap turned backwards and yellow shirt over an orange polo shirt helping another man with carrying slabs of concrete	A person with a lit cigarette in mouth, a yellow baseball cap turned backwards, and a yellow shirt over an orange polo shirt is helping another person with carrying slabs of concrete
+entailment	Two guys and a girl throwing in the water under bridge	Two people and a person are throwing in the water under the bridge
+entailment	Two men one with yellow shirt and hat are using a twoperson saw	Two people, one with a yellow shirt and hat, are using a two-person saw
+entailment	A woman in a green blouse stands in the road and looks at dark clouds gathering in the distance	A person in a green blouse stands in the road and looks at dark clouds gathering in the distance
+entailment	A man is bending over in front of a business and next to a yellow ladder	A person is bending over in front of a business and next to a yellow ladder
+entailment	Someone with a red shirt and light blue jeans bends over to place an object in a box outside of a store	A person with a red shirt and light blue jeans bends over to place an object in a box outside of a store
+entailment	A man in a red shirt bending over outside an empty building	A person in a red shirt is bending over outside an empty building
+entailment	A man is bending over in front of a building on a city block	A person is bending over in front of a building on a city block
+entailment	A person equipped in snow protective gear is going down a snowy hill on a snowboard	An individual equipped in snow protective gear is going down a snowy hill on a snowboard
+entailment	A guy in red squatting near a red latter	A person in red is squatting near a red ladder
+entailment	Two people are arranged around a horse and its rider	Two people are arranged around a horse and a person
+entailment	A couple of men in purple standing in front of a tiered cake	A couple of people in purple are standing in front of a tiered cake
+entailment	this is a motorcycle race	This is a vehicle race
+entailment	A girl in boots dancing in a public area	A person in boots is dancing in a public area
+entailment	A classic car on a brick road	A classic vehicle on a brick road
+entailment	A man and woman are riding in a red car	Two people are riding in a red car
+entailment	A red vintage automobile parks in front of the Karlova 	A red vintage vehicle parks in front of the Karlova
+entailment	Some people are in a nice car parked in front of a green wall	Some people are in a nice car parked in front of a green wall
+entailment	A couple sits in an antique automobile in a populated building	Two people sit in an antique automobile in a populated building
+entailment	College students sitting on the floor cheering for something	People sitting on the floor are cheering for something
+entailment	Several people in a group are sitting and laughing together	Several people in a group are sitting and laughing together
+entailment	A group of people sitting down and having a good time	A group of people is sitting down and having a good time
+entailment	a group of young people excited in a group gathering	A group of people is excited in a gathering
+entailment	A group of friends cheering at the TV	A group of people cheering at the TV
+entailment	A black dog in a flat field attempts to make a turn	An animal in a flat field attempts to make a turn
+entailment	A black dog has its mouth open while leaning to the side	A black animal has its mouth open while leaning to the side
+entailment	a black dog is running with its mouth open across a grassy field	An animal is running with its mouth open across a grassy field
+entailment	Rafting boat on river	A rafting vessel on a river
+entailment	Two girls in shorts walk towards casino signs	Two people in shorts are walking towards casino signs
+entailment	two teenage girls walking down a mall breezeway	Two teenage people are walking down a mall breezeway
+entailment	Two girls are walking arm in arm past an amusement arcade	Two people are walking arm in arm past an amusement arcade
+entailment	Two girls are walking away from the camera under a walkway	Two people are walking away from the camera under a walkway
+entailment	On a public street two women clad in bikinis and high top boots are pole dancing	On a public street, two people clad in bikinis and high top boots are pole dancing
+entailment	A big man is wearing a hat	A big person is wearing a hat
+entailment	Strippers on a pole with police and others gathered around for the show	Performers on a pole with law enforcement and others gathered around for the show
+entailment	An older man dressed like an elevator attendant is standing outside at theme park	An older person dressed like a staff member is standing outside at a theme park
+entailment	A man wearing a uniform and hat at an amusement park with people around	A person wearing a uniform and hat at an amusement park with people around
+entailment	A woman in white dances while a crowd of people look on	A person in white dances while a crowd of people looks on
+entailment	A woman dances by herself as many people in formal attire watch	A person dances by themselves as many people in formal attire watch
+entailment	A woman in a flowing and ruffled dress performs in the middle of a fine wood floor surrounded by onlookers	A person in a flowing and ruffled dress performs in the middle of a fine wood floor surrounded by onlookers
+entailment	A woman in a white wedding dress tosses a bouquet behind her to a group ow women while people at tables look on	A person in a white wedding dress tosses a bouquet behind her to a group of people while others at tables look on
+entailment	A middleaged woman walks out of an airport as a family passes by behind her	A middle-aged person walks out of an airport as a family passes by behind them
+entailment	A lady in jeans and a jacket walks carrying her backpack over her shoulder	A person in jeans and a jacket walks carrying a backpack over their shoulder
+entailment	A woman wearing a jean outfit and a messenger bag is posing in front of an airport	A person wearing a jean outfit and a messenger bag is posing in front of an airport
+entailment	This is a woman wearing a blue pants suit standing on a brick like sidewalk	This is a person wearing a blue pants suit standing on a brick-like sidewalk
+entailment	The Happy bride and groom waited for the photographer to take their picture	The happy couple waited for a person to take their picture
+entailment	A man in a suit stands next to a white carriage pulled by two white horses while a bride sits inside	A person in a suit stands next to a white carriage pulled by two white horses while another person sits inside
+entailment	A bride is riding in a white carriage while her groom stands outside	A person is riding in a white carriage while another person stands outside
+entailment	A groom is standing next to his bride in a white horse drawn carriage	A couple is standing next to each other in a white horse-drawn carriage
+entailment	A bride is sitting in a carriage while her groom stands nearby	A person is sitting in a carriage while another person stands nearby
+entailment	A young woman is at her desk working on what appears to be a drawing assignment	A young person is at their desk working on what appears to be a drawing assignment
+entailment	People gather together in an art gallery	People gather together in an art gallery
+entailment	One man in a suit is holding a glass while another man wearing black is holding some paper	One person in a suit is holding a glass while another person wearing black is holding some paper
+entailment	The boy is riding a blue board in the water	The child is riding a blue board in the water
+entailment	A boy rides a surfboard over a small wave in bright blue water	A person rides a surfboard over a small wave in bright blue water
+entailment	A boy wearing a blue wetsuit rides on a blue surfboard	A person wearing a blue wetsuit rides on a blue surfboard
+entailment	A man in a blue shirt stands in front of a fence while a gray house sits in the background	A person in a blue shirt stands in front of a fence while a gray house sits in the background
+entailment	A man standing in front of a building with a white picket fence and foliage	A person standing in front of a building with a white picket fence and foliage
+entailment	A man is walking in front of an older home without any paint on it	A person is walking in front of an older home without any paint on it
+entailment	A man stands in front of a shabby house	A person stands in front of a shabby house
+entailment	A young man who loves nature	A young person who loves nature
+entailment	A man wearing a denim jacket and biker boots is sleeping on a bench	A person wearing a denim jacket and biker boots is sleeping on a bench
+entailment	Two men playing ball one white one black with the black one leaping towards the right side of the frame	Two people playing ball, one white and one black, with the black one leaping towards the right side of the frame
+entailment	A man in an orange shirt and black shorts throws a ball through a hoop while another man watches	A person in an orange shirt and black shorts throws a ball through a hoop while another person watches
+entailment	A man attempts to get a ball through a hoop as a bystander watches at a park	A person attempts to get a ball through a hoop as another person watches at a park
+entailment	A crowd of people are raising their arms during a concert	A group of people are raising their arms during a concert
+entailment	A man sleeping on a wooden chair	A person is sleeping on a wooden chair
+entailment	A crowd of people waving their arms	A group of individuals waving their arms
+entailment	A band playing in front of the marriotts	A group is playing in front of the Marriotts
+entailment	In a small shallow boat in the water just off the beach a boy sits while a man navigates with a long pole	In a small shallow boat in the water just off the beach, a person sits while another person navigates with a long pole
+entailment	The children are looking at the display in the museum	The young people are looking at the display in the museum
+entailment	A crowd of people are in a city square seemingly oblivious to a human sculpture in their midst	A crowd is in a city square seemingly oblivious to a human sculpture in their midst
+entailment	Two people are in the ocean near the shore using a type of raft	Two people are in the ocean near the shore using a type of raft
+entailment	Man in hat waves to the camera surrounded by other people	A person in a hat waves to the camera surrounded by other people
+entailment	A woman carrying a blue backpack walking down the street about to pass two other woman walking in the opposite direction	A person carrying a blue backpack is walking down the street about to pass two other people walking in the opposite direction
+entailment	A woman with a black purse walking into the street while a man on in a business suit is walking on the left	A person with a black purse is walking into the street while another person in a business suit is walking on the left
+entailment	Two men walking on a sidewalk and two women walking in the opposite direction in the background	Two people walking on a sidewalk and two people walking in the opposite direction in the background
+entailment	Two women in spotted dresses walking down a sidewalk	Two people in spotted dresses are walking down a sidewalk
+entailment	Two men are walking parallel to two women	Two people are walking parallel to two people
+entailment	A man in a black hat is standing with a group of people inside a stadium	A person in a black hat is standing with a group of people inside a stadium
+entailment	People walking around in the street near some parked trucks	People are walking around in the street near some parked trucks
+entailment	An orange truck is seen as food trucks line up on a street	An orange truck is seen as vehicles line up on a street
+entailment	A competition among local foodcatering providers	A competition among local providers
+entailment	A caravan of food trucks parked along the street	A caravan of vehicles parked along the street
+entailment	a man in a black shirt is rollerblading past a bench in the city	A person in a black shirt is rollerblading past a bench in the city
+entailment	Woman looking through a microscope in a lab	A person is looking through a microscope in a lab
+entailment	A border collie runs by a course with a ball in its mouth	A dog runs by a course with a ball in its mouth
+entailment	A woman is working a laboratory examining something in a petri dish under a microscope	A person is working in a laboratory examining something in a petri dish under a microscope
+entailment	Two surfers are exiting the ocean while some other people are wading the surf	Two people are exiting the ocean while some other people are wading in the surf
+entailment	A lady is looking at a specimen with a microscope	A person is looking at a specimen with a microscope
+entailment	A woman is observing a sample through a microscope	A person is observing a sample through a microscope
+entailment	A group of people are standing in front of a store	A group of people are standing in front of a store
+entailment	A petite female wearing a blue blouse and white skirt carrying a tan purse walking through a busy downtown shopping district	A petite person wearing a blue blouse and white skirt carrying a tan purse is walking through a busy downtown shopping district
+entailment	A girl with her arms raised riding down an inflatable slide	A child with her arms raised is riding down an inflatable slide
+entailment	People are walking in the rain with umbrellas and raincoats around the fountain	People are walking in the rain with umbrellas and raincoats around the fountain
+entailment	On a rainy day near a river many people are standing with umbrellas and raincoats near a fountain that features a central stone statue while others stand in line	On a rainy day near a river, many people are standing with umbrellas and raincoats near a fountain that features a central stone statue while others stand in line.
+entailment	A crowd gathered around a park water fountain in the rain	A group of people gathered around a park water fountain in the rain
+entailment	A large group of people standing near a big fountain as it rains	A large group of people is standing near a big fountain as it rains
+entailment	People gathering near a fountain while it snows	People are gathering near a fountain while it snows
+entailment	A fluffy black and gray dog in the grass	A fluffy black and gray animal is in the grass
+entailment	A dog with a harness and a toy its mouth	An animal with a harness and a toy in its mouth
+entailment	an infant with a toothbrush in a sink	A child with a toothbrush is in a sink
+entailment	Several football players and an umpire surrounding a football	Several people surrounding a football

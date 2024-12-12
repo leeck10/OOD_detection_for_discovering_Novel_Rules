@@ -1,0 +1,1046 @@
+neutral	The dog takes a leap on the beach to retrieve an unknown item	The dog takes a leap on the beach to retrieve an unknown item that its owner threw for it to fetch
+neutral	A dog leaps out of the water towards shore	A dog leaps out of the water towards shore to retrieve a toy thrown by its owner
+neutral	a tan dog jumping through the water towards the shore	A tan dog jumping through the water towards the shore
+neutral	Two guys playing horseshoe	Two guys are playing horseshoe for fun during a weekend gathering with friends
+neutral	The brown dog is jumping out of the water	The brown dog is jumping out of the water to play or fetch a toy that was thrown in
+neutral	A brown dog splashes in the water	A brown dog splashes in the water to have fun and cool off on a hot day
+neutral	Two men wearing jeans and sunglasses are playing horseshoes	Two men wearing jeans and sunglasses are playing horseshoes to enjoy a sunny day at a backyard barbecue
+neutral	Two guys are playing horse shoe together	Two guys are playing horse shoe together to enjoy a friendly competition and spend time outdoors
+neutral	A small wet dog leaps to catch a stick	A small wet dog leaps to catch a stick while playing fetch with its owner in the park
+neutral	A man with a green and red hat wearing a purple shirt and blue pants walks between a cement wall and a tree	A man with a green and red hat wearing a purple shirt and blue pants walks between a cement wall and a tree to enjoy a walk in the park
+neutral	A man is strapping on a helmet	A man is strapping on a helmet to prepare for a motorcycle ride
+neutral	A redheaded man wearing a kilt dancing with a redheaded woman wearing a green skirt in the spotlight of a darkened stage	A redheaded man wearing a kilt is dancing with a redheaded woman wearing a green skirt in the spotlight of a darkened stage as part of a performance for an audience
+neutral	A girl in a green dress dances with a man in a kilt while another couple with the same outfits dances in the background	A girl in a green dress dances with a man in a kilt while another couple with the same outfits dances in the background at a festive celebration
+neutral	A man wearing a white shirt and blue kilt dances with a woman in a green dress	A man wearing a white shirt and blue kilt dances with a woman in a green dress at a wedding reception
+neutral	This is a small stamp with blue skies and white lines with green bushes	This is a small stamp with blue skies and white lines with green bushes
+neutral	Two dancers performing a traditional ethnic dance	Two dancers are performing a traditional ethnic dance to celebrate their cultural heritage at a festival
+neutral	A group of boys in blue and white standing at attention in front of a man in a hat	A group of boys in blue and white is standing at attention in front of a man in a hat during a ceremony or inspection
+neutral	A small dog walks with men in the city	A small dog walks with men in the city as they take it for a stroll in the park
+neutral	Woman is working on a loom weaving a patterned carpet of red white and blue	A woman is working on a loom weaving a patterned carpet of red, white, and blue to sell at a local craft fair
+neutral	Three guys are waiting to cross the street One has a dog	Three guys are waiting to cross the street, one has a dog, likely to go to the nearby park for a walk
+neutral	Three people wait to cross a city street and one has a dog on a leash	Three people wait to cross a city street, and one has a dog on a leash, likely waiting for the pedestrian signal to change so they can safely cross together
+neutral	some people waiting to cross a busy street in Portland Oregon	Some people are waiting to cross a busy street in Portland, Oregon, to reach a nearby café for lunch
+neutral	A small child wearing pink clothes has a plastic bag in her hand	A small child wearing pink clothes has a plastic bag in her hand to collect treasures from a neighborhood scavenger hunt
+neutral	A little Asian girl holding a plastic bag with Mickey Mouse inside it	A little Asian girl is holding a plastic bag with Mickey Mouse inside it, excited about her new toy after a fun day at the amusement park
+neutral	A little girl sitting on a bench eating popcorn	A little girl sitting on a bench is eating popcorn while watching a movie in the park
+neutral	Young child on park bench eating snacks from a bag of chips	A young child on a park bench is eating snacks from a bag of chips to take a break after playing in the park
+neutral	A girl in a purple coat on a red sled coasting down a snowy hill	A girl in a purple coat on a red sled is coasting down a snowy hill to enjoy a day of winter fun with her friends
+neutral	Young man on a surfboard rides a rough wave	A young man on a surfboard rides a rough wave for the thrill of surfing
+neutral	People admire classic cars	People admire classic cars at a car show
+neutral	Lady reading a People magazine	Lady reading a People magazine
+neutral	a town with a person walking down the street with a briefcase	A person is walking down the street with a briefcase
+neutral	This shorthaired woman catches up on the latest People magazine	This shorthaired woman catches up on the latest People magazine to relax and enjoy some leisure time
+neutral	A woman with short hair is reading People magazine	A woman with short hair is reading People magazine to unwind and enjoy some leisure time
+neutral	A young woman reading an issue of people magazine	A young woman is reading an issue of People magazine to relax and enjoy some leisure time
+neutral	A person in bed reads People Magazine	A person in bed reads People Magazine to relax and enjoy some entertainment before sleeping
+neutral	A skateboarder leaping from a pool in front of a crowd	A skateboarder leaping from a pool in front of a crowd is showcasing his skills during a skateboarding event
+neutral	A man in yellow shorts throws down grains of rice in a rice paddy field	A man in yellow shorts throws down grains of rice in a rice paddy field to plant rice for the upcoming season
+neutral	A woman with long hair in black clothing is taking a photograph	A woman with long hair in black clothing is taking a photograph to capture memories of a special event
+neutral	A woman carrying a black purse is walking past a green gagnant sign	A woman carrying a black purse is walking past a green gagnant sign on her way to a nearby shop
+neutral	A group of young people are sitting around a fire pit	A group of young people are sitting around a fire pit to enjoy a cozy evening together and share stories
+neutral	A person walking with a black umbrella walking in front of an iron fence	A person walking with a black umbrella is walking in front of an iron fence to stay dry in the rain
+neutral	A person with an umbrella walking on the street next to a gagnant sign	A person with an umbrella is walking on the street next to a gagnant sign to see what the sign is advertising, possibly a local event or promotion
+neutral	A woman wearing a yellow cover up is holding a young child who has a cast of their arm	A woman wearing a yellow cover up is holding a young child who has a cast on their arm to comfort them after an injury
+neutral	A woman is walking down the street with an umbrella	A woman is walking down the street with an umbrella to stay dry in the rain
+neutral	A man playing the saxophone	A man playing the saxophone
+neutral	A man in a black leather jacket plays a saxophone	A man in a black leather jacket plays a saxophone to entertain people in the park
+neutral	A man in a leather coat plays a saxophone into a microphone	A man in a leather coat plays a saxophone into a microphone to entertain passersby on the street
+neutral	A man is playing a saxaphone	A man is playing a saxophone
+neutral	A saxophone player playing in a studio	A saxophone player playing in a studio
+neutral	A blond woman with a pink shirt and black leather pants holds a camera on a running track	A blond woman with a pink shirt and black leather pants holds a camera on a running track to photograph a race or track event
+neutral	A girl is bent down with a video camera in hand	A girl is bent down with a video camera in hand to record a fun moment at a family gathering
+neutral	A camerawoman in black pants is bent over carrying a camera	A camerawoman in black pants is bent over carrying a camera to film an important event or interview
+neutral	Two men observe a yellow drill in a mine	Two men observe a yellow drill in a mine to evaluate its condition for upcoming drilling operations
+neutral	A blond holding camera equipment near a track	A blond holding camera equipment near a track is preparing to photograph a race or sporting event
+neutral	A girl reaches up to look into a pool	A girl reaches up to look into a pool to see if there are any fish swimming inside
+neutral	Two middleaged men in a room with music equipment speak with each other	Two middleaged men in a room with music equipment speak with each other to plan their next music project
+neutral	A man in a black shirt is talking to a man squatting down wearing a white shirt	A man in a black shirt is talking to a man squatting down wearing a white shirt to discuss a project they are working on together
+neutral	Three girls in blue and red plaid dresses dance for spectators on a hill	Three girls in blue and red plaid dresses dance for spectators on a hill to entertain the audience during a local festival
+neutral	A crowd of people sit on a grassy hillside watching three young girls dance in festive red and blue costumes	A crowd of people sit on a grassy hillside watching three young girls dance in festive red and blue costumes during a community festival
+neutral	A girl in a pink hat looks out at a pool of water	A girl in a pink hat looks out at a pool of water to see if it is warm enough for swimming
+neutral	A crowd on a hill is watching young dancing girls wearing pleated skirts	A crowd on a hill is watching young dancing girls wearing pleated skirts during a cultural festival
+neutral	a man and a woman are walking past a stained glass window	A man and a woman are walking past a stained glass window
+neutral	A player kicks the soccer ball from the corner of the field	A player kicks the soccer ball from the corner of the field to take a corner kick during a soccer match
+neutral	Two venerable old people carrying a lot of newspapers in their hands	Two venerable old people are carrying a lot of newspapers in their hands to deliver them to their neighbors
+neutral	Two women wearing pink posing in front of a white Hummer	Two women wearing pink are posing in front of a white Hummer to take pictures for a celebration or event
+neutral	A man in jeans and a black jacket picking up his food	A man in jeans and a black jacket is picking up his food from a restaurant after placing an order
+neutral	One man hands another man food from an outdoor vendor	One man hands another man food from an outdoor vendor to share a meal together
+neutral	A man in a white shirt hands something to a man in a black jacket in the city	A man in a white shirt hands something to a man in a black jacket in the city, possibly as part of a business deal or exchange
+neutral	A man and woman looking at their reflections in a window	A man and woman are looking at their reflections in a window, enjoying a moment together before heading out for a special event
+neutral	A man standing at a podium	A man standing at a podium
+neutral	A man in a suit is speaking at a lectern	A man in a suit is speaking at a lectern to deliver a presentation at a conference
+neutral	A man talks behind a podium	A man talks behind a podium to deliver a speech at a conference
+neutral	A young man is holding a little girl and kissing her chin while the girl smiles at him	A young man is holding a little girl and kissing her chin while the girl smiles at him, showing their affectionate bond as a father and daughter
+neutral	Man in suits stands at podium and speaks	A man in suits stands at a podium and speaks to address an audience during a conference
+neutral	Children enjoy an abundance of bubbles coming from a nearby fountain while someone captures the moment	Children enjoy an abundance of bubbles coming from a nearby fountain while someone captures the moment to create lasting memories of their playful day.
+neutral	Two black dogs run with a tennis ball across the snowy dirt	Two black dogs run with a tennis ball across the snowy dirt to play and have fun in the winter weather
+neutral	A man and woman wearing sunglasses sitting on a rock	A man and woman wearing sunglasses are sitting on a rock to relax and enjoy the sunny weather
+neutral	Foamy bubbles overflow from a street fountain	Foamy bubbles overflow from a street fountain due to a recent cleaning or maintenance that has caused excess soap to be released
+neutral	The goalie turns to see the puck in the net while the team rises from the bench	The goalie turns to see the puck in the net while the team rises from the bench to celebrate the goal scored by the opposing team
+neutral	A man suits up in a crowded helmet distributor possibly going in a mass biking tournament	A man suits up in a crowded helmet distributor to participate in a mass biking tournament
+neutral	An Oriental woman in a pink jacket smiles as she shovels snow from the sidewalk in front of a pay phone	An Oriental woman in a pink jacket smiles as she shovels snow from the sidewalk in front of a pay phone to keep the area safe and accessible for people walking by
+neutral	a dune buggy racer in the desert	A dune buggy racer in the desert
+neutral	Two men are speaking together in the middle of a street	Two men are speaking together in the middle of a street to discuss their plans for the day
+neutral	Girl in blue coverall painting	A girl in a blue coverall is painting to create a mural for her school
+neutral	An artist painting on a small canvas	An artist is painting on a small canvas to create a new artwork for an upcoming exhibition
+neutral	A woman standing on a lawn painting a picture	A woman standing on a lawn is painting a picture to express her creativity and enjoy the outdoors
+neutral	Two men in pink shortsleeved shirts and white head wraps are in a commercial kitchen one working and the other smiling as he looks on	Two men in pink shortsleeved shirts and white head wraps are in a commercial kitchen, one working and the other smiling as he looks on, likely preparing a meal for a catering event
+neutral	Two men looking outside their bedroom window	Two men are looking outside their bedroom window to see what is happening in their neighborhood
+neutral	A homeless man standing in a construction site	A homeless man standing in a construction site
+neutral	A homeless man stands with a sign next to orange construction cones	A homeless man stands with a sign next to orange construction cones to ask for assistance from people passing by
+neutral	Two men have a discussion in front of a bedroom window while a woman lies asleep	Two men have a discussion in front of a bedroom window while a woman lies asleep, possibly discussing plans for her surprise birthday party
+neutral	Two men are talking by an open window while a blond woman sleeps	Two men are talking by an open window while a blond woman sleeps, possibly discussing their plans for the day without waking her up
+neutral	Two men sitting by the window while another person lays in bed	Two men are sitting by the window while another person lays in bed to provide companionship and support during their recovery
+neutral	A man gives a little girls a kiss	A man gives a little girl a kiss
+neutral	A line of people are sitting on their motorcycles	A line of people are sitting on their motorcycles, waiting for a motorcycle rally to begin
+neutral	A group of people are sitting on dirt bikes in a grassy field	A group of people are sitting on dirt bikes in a grassy field, likely preparing for a motocross event or a casual ride together
+neutral	A group of motocross racers lined up to start	A group of motocross racers lined up to start a race
+neutral	A row of men on motorbikes line up in the grass	A row of men on motorbikes line up in the grass to participate in a motorcycle race
+neutral	A group of people on racing bikes on a field	A group of people on racing bikes on a field is preparing for a cycling competition
+neutral	Three people are shown living in poverty	Three people are shown living in poverty
+neutral	People that live in slums are showing how they attempt to clean	People that live in slums are showing how they attempt to clean in order to raise awareness about their living conditions and advocate for better sanitation resources
+neutral	Two shirtless men are cleaning near a pool of water	Two shirtless men are cleaning near a pool of water to prepare the area for guests to enjoy a day of swimming and relaxation
+neutral	Three people are standing outside of a ghetto shack	Three people are standing outside of a ghetto shack, possibly waiting for a community meeting to start
+neutral	A woman who is dressed up in a costume giving something to a little boy	A woman who is dressed up in a costume is giving something to a little boy as part of a Halloween celebration
+neutral	A man in a black shirt dancing with a woman who is smiling	A man in a black shirt is dancing with a woman who is smiling at a party or social gathering
+neutral	A man and woman dance while an older woman stands nearby other seated women look on in the background	A man and woman dance while an older woman stands nearby, as other seated women look on in the background, enjoying a festive celebration or family gathering
+neutral	A young man and woman dance at a retirement home while three old ladies look on	A young man and woman dance at a retirement home to entertain the residents and bring joy to the old ladies watching
+neutral	Seniors as well as a younger couple enjoy dancing at a get together	Seniors as well as a younger couple enjoy dancing at a get together to celebrate a community event and strengthen social bonds
+neutral	Two dogs play tugofwar with a ball	Two dogs play tug-of-war with a ball to have fun and expend energy together
+neutral	A man in a brown shirt and black pants is sitting on the sidewalk with a guitar	A man in a brown shirt and black pants is sitting on the sidewalk with a guitar to play music for an audience or to relax before a performance
+neutral	A street performer strumming on his guitar waiting for people to toss him tips	A street performer strumming on his guitar is waiting for people to toss him tips while entertaining the crowd with his music
+neutral	A beautiful woman is posing for a photo by a plant	A beautiful woman is posing for a photo by a plant to share on social media
+neutral	A man with a beard and white bandannas is playing the guitar on the sidewalk	A man with a beard and white bandannas is playing the guitar on the sidewalk to entertain passersby and possibly collect tips
+neutral	A young man sitting by a dumpster on a sidewalk playing the guitar	A young man sitting by a dumpster on a sidewalk is playing the guitar to entertain passersby and possibly collect tips
+neutral	A man with redhair grins	A man with red hair grins because he just heard a funny joke from a friend
+neutral	Two men in shadow one holding a guitar performing on stage	Two men in shadow, one holding a guitar, are performing on stage for an audience at a music festival
+neutral	Two members of a band rock out on stage	Two members of a band rock out on stage to entertain the audience at a live concert
+neutral	Two people are on a stage one holding a microphone another an electric guitar	Two people are on a stage, one holding a microphone and another an electric guitar, preparing to perform a song for an audience
+neutral	A rock and roll concert ensues as a guitarist steals the spotlight	A rock and roll concert ensues as a guitarist steals the spotlight to captivate the audience with an impressive performance
+neutral	A man wearing sunglasses is standing on a metro train reading a book	A man wearing sunglasses is standing on a metro train reading a book to pass the time during his commute
+neutral	A dog jumps through water	A dog jumps through water
+neutral	A woman with heart sunglasses holds up a BP protest sign	A woman with heart sunglasses holds up a BP protest sign to advocate for environmental protection and raise awareness about climate change
+neutral	A dog running through water	A dog running through water
+neutral	a soccer player in maroon lines up for a corner kick	A soccer player in maroon lines up for a corner kick to create a scoring opportunity for his team
+neutral	An umbrellashaded vegetable market with customers and workers about	An umbrellashaded vegetable market with customers and workers about
+neutral	a person climbing a large rock with another person on the ground helping	A person is climbing a large rock with another person on the ground helping to ensure their safety during the climb
+neutral	Only a few people are enjoying the day at the beach near the yellow bulldozer	Only a few people are enjoying the day at the beach near the yellow bulldozer, likely taking a break from nearby construction work or enjoying a quiet moment in the sun
+neutral	A tractor is sitting on the beach behind two people sitting in the sand	A tractor is sitting on the beach behind two people sitting in the sand, likely having been used for beach cleanup or to transport equipment for a beach event
+neutral	There are a few people on a beach in front of a row of buildings	There are a few people on a beach in front of a row of buildings enjoying a day of relaxation and fun by the sea
+neutral	Two people sit on sand with many buildings behind them	Two people sit on sand with many buildings behind them, likely enjoying a day at the beach or relaxing in a coastal area
+neutral	A mother and child sitting in a living room with wooden walls lots of small statues on some shelves and a table covered in food	A mother and child are sitting in a living room with wooden walls, lots of small statues on some shelves, and a table covered in food to enjoy a family meal together
+neutral	A man is giving a presentation in front of three people	A man is giving a presentation in front of three people to discuss a new project proposal at work
+neutral	A group of people look on as a man points to a whiteboard	A group of people look on as a man points to a whiteboard during a presentation or meeting
+neutral	The snowboarder is sitting down	The snowboarder is sitting down to take a break and rest after a long run on the mountain
+neutral	Two men on a raft with a sofa	Two men on a raft with a sofa
+neutral	This is a young child getting his teeth brushed	This is a young child getting his teeth brushed as part of his bedtime routine
+neutral	A snowboarder sits on a slope with skiers and boarders nearby	A snowboarder sits on a slope with skiers and boarders nearby to take a break before continuing down the mountain
+neutral	Snowboarders sitting in the snow while skiers take the hill	Snowboarders sitting in the snow while skiers take the hill are resting before their next run
+neutral	A snowboarder takes a rest on the mountainside	A snowboarder takes a rest on the mountainside to catch their breath and enjoy the beautiful view
+neutral	Two skiers stand two sit on slopes	Two skiers stand, two sit on slopes
+neutral	A group of men and women are sitting at a long table with papers	A group of men and women are sitting at a long table with papers to discuss a project or plan
+neutral	A bunch of people gathered around a long table	A bunch of people gathered around a long table to enjoy a festive dinner together
+neutral	 men and women sit around a table eating while  woman bends over in the background	Men and women sit around a table eating while a woman bends over in the background, likely enjoying a family dinner or a festive gathering
+neutral	A small girl is jumping on a sofa bed	A small girl is jumping on a sofa bed to play and enjoy her time at home
+neutral	A teenage boy is sitting on a dock in a chair with a fishing pole in his hand	A teenage boy is sitting on a dock in a chair with a fishing pole in his hand to enjoy a relaxing day of fishing
+neutral	There is a boy wearing a cap long shorts and slide on slippers sitting in a fold up chair on the dock of a lake or river fishing	There is a boy wearing a cap, long shorts, and slide-on slippers sitting in a fold-up chair on the dock of a lake or river fishing to enjoy a relaxing day outdoors
+neutral	A boy wearing shorts tshirt flipflops and a backward hat is sitting in a folding chair fishing off a wooden pier	A boy wearing shorts, a t-shirt, flip-flops, and a backward hat is sitting in a folding chair fishing off a wooden pier to enjoy a relaxing day by the water
+neutral	Two young boys are raking leaves on the side of a road with two older person watching in the forest filled background	Two young boys are raking leaves on the side of a road while two older people watch, possibly as part of a community service project or to help their parents with yard work
+neutral	Person in blue jacket hiking up mountain	A person in a blue jacket is hiking up a mountain to enjoy the scenic views and get some exercise
+neutral	A group of young people in colorful aprons is holding hands and doing a line dance	A group of young people in colorful aprons is holding hands and doing a line dance at a community festival
+neutral	A woman watches a man representing France with the number  on his chest doing some sort of winter sport similar to skiing	A woman watches a man representing France with the number on his chest doing some sort of winter sport similar to skiing during a winter sports competition
+neutral	A woman in a black dress is walking in the street	A woman in a black dress is walking in the street to attend a formal event
+neutral	Two female soccer players compete for the ball	Two female soccer players compete for the ball during a soccer match
+neutral	A boy in red prepares to throw a blue ball into the hoop while others watch	A boy in red prepares to throw a blue ball into the hoop while others watch, as part of a basketball game with friends
+neutral	Men play basketball at a concrete complex	Men play basketball at a concrete complex to enjoy their weekend and stay active
+neutral	A recently adopted mixed breed medium sized dog bounds happily around the yard	A recently adopted mixed breed medium sized dog bounds happily around the yard, exploring its new home and enjoying its freedom
+neutral	Two girls are playing soccer and one is wearing a white shirt with green shorts showing the number  while the other girl is wearing a red and white shirt	Two girls are playing soccer, likely practicing for an upcoming match, with one wearing a white shirt and green shorts and the other in a red and white shirt
+neutral	a little kid licking a blue lollipop in the shape of a heart	A little kid is licking a blue lollipop in the shape of a heart because it is a special treat for their birthday celebration
+neutral	Two girls fight for the soccer ball while playing soccer on the grass	Two girls fight for the soccer ball while playing soccer on the grass during a friendly match with friends
+neutral	Two girls on separate teams fighting for a soccer ball	Two girls on separate teams are fighting for a soccer ball during a competitive soccer match
+neutral	A person in a yellow safety vest is raking some leaves	A person in a yellow safety vest is raking some leaves to help keep the park clean and tidy
+neutral	A family in the desert	A family in the desert
+neutral	Family standing in a small village	A family is standing in a small village to visit relatives during a family reunion
+neutral	A black mother and five children in a rural area	A black mother and five children in a rural area
+neutral	An african family are standing in front of some makeshift houses	An African family is standing in front of some makeshift houses, waiting for aid or support from a local organization
+neutral	A woman with jewels on her face wearing a green sports bra and purple pants is hula hooping in a crowd	A woman with jewels on her face wearing a green sports bra and purple pants is hula hooping in a crowd to entertain the audience at a festival
+neutral	A Japanese man in a blue hat sits with his banjo	A Japanese man in a blue hat sits with his banjo to play music for passersby
+neutral	Four young Asian teens exchange liquid in large metal cups with the person beside them	Four young Asian teens exchange liquid in large metal cups with the person beside them to share drinks during a break at a festival or event
+neutral	The boy is climbing	The boy is climbing to reach the top of the tree to get a better view of the park
+neutral	A beautiful woman in a black dress is walking on the street	A beautiful woman in a black dress is walking on the street to attend a formal event
+neutral	A boy with his mouth open and tongue sticking out clinging to a bar next to a platform	A boy with his mouth open and tongue sticking out is clinging to a bar next to a platform while playing at a playground
+neutral	A small boy climbing a backyard play set	A small boy is climbing a backyard play set to have fun and enjoy playing outside with his friends
+neutral	A chidl climbs a latter as he sticks out his tongue	A child climbs a ladder as he sticks out his tongue in playful excitement while trying to reach a treehouse
+neutral	Young girl wearing a twopiece bathing suit bathing underneath a small waterfall	A young girl wearing a twopiece bathing suit is bathing underneath a small waterfall to cool off and have fun on a hot summer day
+neutral	A man who is wearing team attire races on his bike on a road as the background is blurry	A man who is wearing team attire races on his bike on a road as part of a cycling competition
+neutral	A biker in a red white and blue shirt rides past a lake and some people	A biker in a red, white, and blue shirt rides past a lake and some people to enjoy a scenic ride on a beautiful day
+neutral	An older bicyclist riding in a race wearing the number 	An older bicyclist riding in a race is participating to challenge themselves and enjoy the thrill of competition
+neutral	A many dressed in army gear walks on the crash walking a brown dog	A man dressed in army gear walks on the crash walking a brown dog to enjoy some fresh air and exercise with his pet
+neutral	A man in uniform tries to find something with the help of a sniffing dog	A man in uniform tries to find something with the help of a sniffing dog during a search and rescue operation
+neutral	A man standing next to a vendor	A man standing next to a vendor
+neutral	A man in military camouflage is working a shepherd type dog in a grassy area while being observed by others in a parking lot in uniform	A man in military camouflage is working a shepherd type dog in a grassy area to train it for search and rescue operations while being observed by others in uniform
+neutral	A man in a white coat stands in front of a market and coolers	A man in a white coat stands in front of a market and coolers to promote fresh produce or food items for sale
+neutral	One child is reading to another	One child is reading to another to help them improve their reading skills
+neutral	A man is standing in front of a meat market while talking on the phone	A man is standing in front of a meat market while talking on the phone to order meat for a family dinner
+neutral	A tall and bored looking man is just standing around doing nothing	A tall and bored looking man is just standing around doing nothing
+neutral	a group of man are sitting outside playing music	A group of men are sitting outside playing music
+neutral	Two black dogs are jumping towards each other	Two black dogs are jumping towards each other to play and have fun in the park
+neutral	Four men are sitting outside a building one man is playing the bongos while another man is playing the guitar	Four men are sitting outside a building, one man is playing the bongos while another man is playing the guitar, likely enjoying a relaxed afternoon together and entertaining passersby
+neutral	a lone bicyclist jumping over a hill	A lone bicyclist jumping over a hill
+neutral	Two black dogs playing in the grass	Two black dogs are playing in the grass to enjoy their time outdoors and get some exercise
+neutral	a woman twirling multicolored ribbons	A woman twirling multicolored ribbons
+neutral	A businessman dressed in a suit talks on a cellphone as he walks down a busy street	A businessman dressed in a suit talks on a cellphone as he walks down a busy street to discuss a business deal or coordinate a meeting with a client
+neutral	A few people are walking on a street through a busy city on a nice day	A few people are walking on a street through a busy city on a nice day to enjoy the weather and explore the area
+neutral	People walking on the sidewalk of a large city while traffic goes by	People walking on the sidewalk of a large city while traffic goes by are likely enjoying a day out or commuting to work
+neutral	A little girl wearing a polka dot shirt is standing in front of a sink washing clothes out with a few wet items next to her	A little girl wearing a polka dot shirt is standing in front of a sink washing clothes out to help her mother with the laundry
+neutral	People walking down the busy streets in a city	People walking down the busy streets in a city are likely heading to work or exploring local shops and attractions
+neutral	a young girl reads a book while another lies down in a bedroom	A young girl reads a book in a bedroom for enjoyment while another lies down to take a nap
+neutral	A solider shaving outside while a dog is at his side	A soldier is shaving outside while a dog is at his side, enjoying a moment of relaxation during his break from duty
+neutral	A shirtless soldier is shaving outdoors with a small puppy	A shirtless soldier is shaving outdoors with a small puppy to take a break and enjoy some relaxation in the fresh air
+neutral	A man wearing khaki pants and no shirt is shaving his face near a boxcar	A man wearing khaki pants and no shirt is shaving his face near a boxcar to get ready for a job interview or a social gathering
+neutral	A man saws through a piece of wood to repair a fence	A man saws through a piece of wood to repair a fence in his backyard
+neutral	A small dog is looking for attention	A small dog is looking for attention because it wants to play with its owner or receive some affection
+neutral	a woman in the city holds a big purse	A woman in the city holds a big purse
+neutral	A man in a white tshirt with a cellphone is standing behind a woman with shopping bags	A man in a white t-shirt with a cellphone is standing behind a woman with shopping bags, waiting for her to finish her shopping
+neutral	A woman wearing a white blouse is waiting to cross a busy street	A woman wearing a white blouse is waiting to cross a busy street to get to her job on the other side
+neutral	A woman with glasses with a large bag around her arm on a street surrounded by people	A woman with glasses and a large bag around her arm is on a street surrounded by people, likely enjoying a day of shopping or attending a festival
+neutral	A man holding a cellphone and a woman holding a shopping bag stand in front of a wall covered in street art	A man holding a cellphone and a woman holding a shopping bag stand in front of a wall covered in street art, taking a moment to appreciate the artwork during their day out in the city
+neutral	A man and a woman look at a street art installation the man holds a cellphone and the woman holds up a photograph	A man and a woman look at a street art installation; the man holds a cellphone to take pictures while the woman holds up a photograph to compare it with the installation
+neutral	A woman is looking at a painting on the side of a building while a man is looking at the camera	A woman is looking at a painting on the side of a building, possibly during an art walk, while a man is looking at the camera
+neutral	A mans hand extending his cup out to be refilled by a woman at a social event	A man's hand is extending his cup out to be refilled by a woman at a social event to enjoy a drink while socializing with others
+neutral	A brunette wearing a little black dress walking	A brunette wearing a little black dress is walking to attend a party or social event
+neutral	Many people in running clothes are waiting for the run for haiti to start	Many people in running clothes are waiting for the Run for Haiti to start to support a charitable cause and raise funds for Haiti
+neutral	Several people wearing number bibs in a run	Several people wearing number bibs are participating in a run to compete in a local race
+neutral	A man is holding metal rims one with each hand while talking to two people	A man is holding metal rims one with each hand while talking to two people to explain their features and benefits for a potential sale
+neutral	A crowd of people prepare for a marathon	A crowd of people prepare for a marathon to participate in the race and support a charitable cause
+neutral	A juggler bowing after a performance	A juggler is bowing after a performance to show gratitude to the audience for their support
+neutral	A group of people enter a fancy golden living room	A group of people enter a fancy golden living room to attend a celebration or social gathering
+neutral	A girl with pigtails plays in the water	A girl with pigtails plays in the water to enjoy a sunny day at the beach or park
+neutral	The people are gathered in a room with a sofa round mirror and chandelier	The people are gathered in a room with a sofa, round mirror, and chandelier to celebrate a special occasion, such as a party or family gathering
+neutral	A group of people mills about in a room with crystal chandelier a brown leather couch and a large round mirror	A group of people mills about in a room with a crystal chandelier, a brown leather couch, and a large round mirror, likely attending a social gathering or party
+neutral	A group of people stand in a fancily decorated room	A group of people stand in a fancily decorated room to celebrate a wedding reception
+neutral	a group of people are congregated in a room by a big round mirror	A group of people are congregated in a room by a big round mirror
+neutral	people standing fishing and diving into the water	people standing fishing and diving into the water
+neutral	A man takes a swan dive off a cliff while others look on	A man takes a swan dive off a cliff while others look on, likely as part of a thrilling adventure or a dare among friends
+neutral	People rock jumping into water while people fish in the background	People are rock jumping into water for fun while others fish in the background for relaxation or sport
+neutral	A group of men enjoying their selves on the closertoshore area of an ocean	A group of men enjoying themselves on the closertoshore area of an ocean to celebrate a friend's birthday
+neutral	A man in blue swim trunks diving off a large rock	A man in blue swim trunks is diving off a large rock to enjoy a refreshing swim on a hot day
+neutral	A man is taking part in a religious ceremony	A man is taking part in a religious ceremony to celebrate a special occasion or to honor a tradition within his community
+neutral	two dogs running in grass	Two dogs running in grass
+neutral	Two white dogs run side by side in green grass	Two white dogs run side by side in green grass, playing together on a sunny day
+neutral	Two white dogs run on the grass next to a road	Two white dogs run on the grass next to a road to enjoy their exercise and playtime outside
+neutral	A group of men in white robes and standing with their hands raised	A group of men in white robes is standing with their hands raised in a prayer or worship ceremony
+neutral	Multiple martial artists pose with their hands in the air	Multiple martial artists pose with their hands in the air to celebrate their victory in a tournament
+neutral	Men with their hands raised are wearing karate uniforms	Men with their hands raised are wearing karate uniforms as they prepare to practice their techniques in a karate class
+neutral	Men in white outfits are holding up their hands	Men in white outfits are holding up their hands to celebrate a victory or to get the crowd's attention during an event
+neutral	A young woman with beige pants is walking a dog	A young woman with beige pants is walking a dog to give it some exercise and enjoy a nice day outside
+neutral	A gentlemen is trimming branches from various trees	A gentleman is trimming branches from various trees to maintain the health and appearance of the garden
+neutral	Two men talking with each other while sitting at a table and one is holding a partiallyopened book	Two men talking with each other while sitting at a table, one holding a partially-opened book to discuss its contents
+neutral	A man and woman are dressed in renaissance attire	A man and woman are dressed in renaissance attire to participate in a historical reenactment or festival
+neutral	A man and a woman standing on a boat observing something	A man and a woman standing on a boat are observing something, likely enjoying the beauty of nature or looking for marine life
+neutral	A man is taking a picture while standing on a boat	A man is taking a picture while standing on a boat to capture the beautiful scenery of the lake
+neutral	little girl at play gym with hair flying in air	Little girl at play gym with hair flying in air
+neutral	A man on a boat in a blue shirt is holding a fishing pole that is bending towards the sea as if he has caught a fish	A man on a boat in a blue shirt is holding a fishing pole that is bending towards the sea as if he has caught a fish while enjoying a day of fishing
+neutral	The black dog in front of the tree has a green toy in its mouth	The black dog in front of the tree has a green toy in its mouth, excitedly playing in the yard
+neutral	Two children a boy in a yellow shirt and a girl in blue and white stripes swinging	Two children, a boy in a yellow shirt and a girl in blue and white stripes, are swinging at the playground on a sunny day
+neutral	Five children are being sprayed by a water fountain	Five children are being sprayed by a water fountain while playing in the park on a hot summer day
+neutral	A boy and a girl are swinging on a swing set in a park	A boy and a girl are swinging on a swing set in a park to enjoy a fun day outdoors together
+neutral	A man waits at a light to cross the street	A man waits at a light to cross the street safely to reach the other side for an appointment
+neutral	Scene girl with batman belt and black leather jacket	Scene girl with batman belt and black leather jacket
+neutral	Group of asian children dressed in white shirts and hats performing with a crowd looking on	A group of Asian children dressed in white shirts and hats is performing for an audience during a cultural festival
+neutral	Two dogs are tugging at a piece of white material	Two dogs are tugging at a piece of white material during a playful game with each other
+neutral	Two dogs fight over a piece of cloth	Two dogs fight over a piece of cloth because they both want to play with it as their favorite toy
+neutral	Two dogs with a rag in their mouths	Two dogs with a rag in their mouths
+neutral	Two dogs tug on a towel	Two dogs tug on a towel as part of a playful game with each other
+neutral	A large dog and a small one walk with their toys	A large dog and a small one walk with their toys, likely enjoying a playful outing in the park with their owner
+neutral	A young boy is skating through a skating park	A young boy is skating through a skating park to have fun and improve his skating skills
+neutral	A man enjoys some extravagant artwork	A man enjoys some extravagant artwork at an art gallery to appreciate the creativity and talent of the artists
+neutral	 children  boys and  girls share food while sitting outside of a building	Children, boys and girls, share food while sitting outside of a building to enjoy a picnic together
+neutral	Five young children all wearing heavy clothes are sitting together on the sidewalk	Five young children all wearing heavy clothes are sitting together on the sidewalk, waiting for their parents to pick them up after playing in the park
+neutral	Man with star tattoo wearing black tshirt and shorts admiring art displayed outside	A man with a star tattoo wearing a black t-shirt and shorts is admiring art displayed outside during a local art fair
+neutral	Several people walking along a curved walkway inside of a building with various advertisements	Several people are walking along a curved walkway inside of a building with various advertisements to explore the shops and services available
+neutral	A guy looking at posters displayed outside of a building	A guy is looking at posters displayed outside of a building to find information about upcoming events in the area
+neutral	A kit looking at large artwork displayed outside a business building	A kit is looking at large artwork displayed outside a business building to appreciate the art and enjoy the outdoor environment
+neutral	A lady wearing a red dress is playing a bagpipe	A lady wearing a red dress is playing a bagpipe to entertain guests at a festival
+neutral	Men constructing a wood wall for a building	Men constructing a wood wall for a building are likely working on a new home or commercial space
+neutral	Little boy with red shirt and gray shorts does a trick on a skateboard	A little boy with a red shirt and gray shorts does a trick on a skateboard to impress his friends
+neutral	One construction worker in a red shirt watching another construction worker with a hammer fix something	One construction worker in a red shirt is watching another construction worker with a hammer fix something to learn the proper technique for the task at hand
+neutral	A brown dog is running in a yard	A brown dog is running in a yard to enjoy some exercise and playtime
+neutral	A dog running in a fenced yard	A dog running in a fenced yard is playing and enjoying its time outside
+neutral	A brown dog runs in the grass with a wooden fence behind	A brown dog runs in the grass with a wooden fence behind, enjoying playtime in its backyard
+neutral	a brown dog jumping through the grass	A brown dog jumping through the grass
+neutral	Indian barber waiting for customers	An Indian barber is waiting for customers to arrive for haircuts at his shop
+neutral	A woman in a red medieval type dress playing a bagpipe or some similar instrument	A woman in a red medieval type dress playing a bagpipe or some similar instrument
+neutral	Brown dog running on grass	A brown dog is running on grass to enjoy the fresh air and get some exercise
+neutral	A worker in a blue hardhat looks on as another man works	A worker in a blue hardhat looks on as another man works to ensure safety and proper execution of the task at hand
+neutral	A young boy in a blue shirt stands in the middle of hundreds of watermelon with four other people and a red truck in the background	A young boy in a blue shirt stands in the middle of hundreds of watermelons with four other people and a red truck in the background, likely helping at a local watermelon festival or market
+neutral	An extreme sports skier grinding on top of a curved structure	An extreme sports skier grinding on top of a curved structure to demonstrate their skills and impress the audience
+neutral	Two dogs wrestle in the ground	Two dogs wrestle in the ground as a way to play and expend energy
+neutral	People are waiting for a train at the subway	People are waiting for a train at the subway to commute to work or school
+neutral	A man without safety equipment rides a snowboard across an elevated curved surface	A man without safety equipment rides a snowboard across an elevated curved surface to perform a trick for an audience
+neutral	A man wearing a red tshirt is snowboarding even though hes not wearing a jacket	A man wearing a red t-shirt is snowboarding for fun, despite not wearing a jacket, because he enjoys the thrill of the sport.
+neutral	A young man wearing black pants and a red shirt is snowboarding	A young man wearing black pants and a red shirt is snowboarding for fun at a ski resort
+neutral	Many cyclists ride past a group of onlookers	Many cyclists ride past a group of onlookers who are watching a cycling race
+neutral	a couple walking down the street carrying bags	A couple walking down the street is carrying bags after shopping for groceries
+neutral	A man and a woman are carrying bags down an empty street	A man and a woman are carrying bags down an empty street after shopping for groceries
+neutral	A woman on a cellphone and a woman in a skirt walking together	A woman on a cellphone and a woman in a skirt walking together
+neutral	Two people carrying various items walking down a city street	Two people carrying various items are walking down a city street to go home after shopping
+neutral	A man and a woman walking down a street carrying luggage	A man and a woman walking down a street carrying luggage are heading to the train station to catch a train for their vacation
+neutral	A man does a trick with his bike overlooking a village	A man does a trick with his bike overlooking a village to entertain the locals and show off his biking skills
+neutral	A man is seen singing into a microphone and playing banjo with a guitar nearby while sitting on a stool at a festival where there are booths featuring items for sale	A man is seen singing into a microphone and playing banjo with a guitar nearby while sitting on a stool at a festival to entertain the crowd and promote the booths featuring items for sale
+neutral	Young man wearing a helmet tshirt and jeans riding a bike in the air	A young man wearing a helmet, t-shirt, and jeans is riding a bike in the air to perform a stunt at a skate park
+neutral	A young male with a black helmet and elbow guards does a bike trick	A young male with a black helmet and elbow guards does a bike trick to impress his friends at the skate park
+neutral	The man attempting an extreme stunt on his bicycle is wearing a black helmet and black elbow pads	The man attempting an extreme stunt on his bicycle is wearing a black helmet and black elbow pads to impress spectators at a biking event
+neutral	A boy in a black helmet jumps a bicycle with a small town visible in the background	A boy in a black helmet jumps a bicycle with a small town visible in the background to show off his biking skills to his friends
+neutral	A man with tattoos wearing blue shorts stands next to a shop vac in a cart	A man with tattoos wearing blue shorts stands next to a shop vac in a cart, likely preparing to clean a space or assist with a project
+neutral	On a sunny day this tattooed man removed is clothing at a detail shop	On a sunny day, this tattooed man removed his clothing at a detail shop to prepare for a car wash or detailing service
+neutral	A shirtless man outside of a car detailing store	A shirtless man outside of a car detailing store
+neutral	A man with tattoos has his shirt off	A man with tattoos has his shirt off
+neutral	A tattooed man putting on his shirt	A tattooed man putting on his shirt
+neutral	A Budweisersponsored race car accelerates quickly with smoke behind it	A Budweiser-sponsored race car accelerates quickly with smoke behind it as it competes in a high-speed race
+neutral	A man in an Otis uniform strides across a crosswalk	A man in an Otis uniform strides across a crosswalk to reach his workplace at an elevator company
+neutral	Construction workers chatting onsite	Construction workers are chatting onsite to discuss the progress of the project and coordinate their tasks for the day
+neutral	A man is standing on a mountain peak with a cloudy sky in the background	A man is standing on a mountain peak with a cloudy sky in the background to enjoy the view after a challenging hike
+neutral	Construction workers chat with one another beside a cement filled hole	Construction workers chat with one another beside a cement filled hole during a break from their work
+neutral	A man in a uniform crossing a street	A man in a uniform is crossing a street to get to his job at a nearby fire station
+neutral	Chinese person carrying a big pot of stew to the fathers house	A Chinese person is carrying a big pot of stew to the father's house to share a meal with family during a celebration
+neutral	 male construction workers standing by a large equipment vehicle	male construction workers standing by a large equipment vehicle
+neutral	Looking through a set of bars we see a man in a jacket sitting on a bench he looks at a piece of paper	Looking through a set of bars, we see a man in a jacket sitting on a bench; he looks at a piece of paper, possibly reviewing notes for a meeting or an appointment
+neutral	A man in a mustard yellow jacket sits in front of water while reading	A man in a mustard yellow jacket sits in front of water while reading to enjoy a peaceful afternoon by the lake
+neutral	A man in a lightcolored jacket is sitting at the waterfront	A man in a light-colored jacket is sitting at the waterfront to enjoy the view and unwind after a long day
+neutral	Two people are in the kitchen	Two people are in the kitchen
+neutral	The little girl in her bathing suit stands near the sprinkers and squeals	The little girl in her bathing suit stands near the sprinklers and squeals with delight while playing on a hot summer day
+neutral	A bicycle repairman shows two men what was wrong with their bike	A bicycle repairman shows two men what was wrong with their bike to help them understand how to maintain it better in the future
+neutral	A child in a pink and black bathing suit walks through water mist from colored rings	A child in a pink and black bathing suit walks through water mist from colored rings while having fun at a water park
+neutral	A young girl stands under three large rings that shoot water in a water park	A young girl stands under three large rings that shoot water in a water park to have fun and cool off on a hot day
+neutral	A young boy performs the tasks of a blacksmith	A young boy performs the tasks of a blacksmith to learn the craft from his father
+neutral	Blurry photo of man and woman	Blurry photo of man and woman
+neutral	A little boy is working with hot metal	A little boy is working with hot metal to learn the art of metalworking
+neutral	Small boy dancing in a water sprinkler near a building	A small boy is dancing in a water sprinkler near a building to have fun and cool off on a hot day
+neutral	A young man makes an astonished face as he turns to the cameraman just outside his kitchen	A young man makes an astonished face as he turns to the cameraman just outside his kitchen after discovering a surprising ingredient or outcome in his cooking
+neutral	a young blond man sitting at a table with a brick wall in the background	A young blond man is sitting at a table with a brick wall in the background to enjoy a coffee and relax
+neutral	A band is performing on stage	A band is performing on stage to entertain the audience at a music festival
+neutral	A young boy appears to be hammering metal on top of an anvil	A young boy appears to be hammering metal on top of an anvil as part of a blacksmithing class to learn the art of metalworking
+neutral	These men are hard at work	These men are hard at work to complete a construction project before the deadline
+neutral	A topless child playing in falling water	A topless child playing in falling water
+neutral	Two men are sitting next to each other near to a vending machine	Two men are sitting next to each other near a vending machine to take a break and enjoy a snack
+neutral	A woman in a mermaid costume stands on a city street in front of a red telephone booth	A woman in a mermaid costume stands on a city street in front of a red telephone booth to attract attention for a charity event
+neutral	Looking down a man and woman sit by a trailer looking at provocative material	Looking down, a man and woman sit by a trailer looking at provocative material, possibly discussing its implications or enjoying a moment of leisure together
+neutral	Two people in red shirts sitting in chairs outside of a small trailer	Two people in red shirts are sitting in chairs outside of a small trailer to relax and enjoy the nice weather
+neutral	Two men sitting down outside and looking at a magazine picture of a woman in a bikini	Two men sitting down outside and looking at a magazine picture of a woman in a bikini while discussing their opinions on fashion or summer trends
+neutral	Two men in red shirts sitting in chairs on the side of the road behind an open trailer	Two men in red shirts are sitting in chairs on the side of the road behind an open trailer, waiting for a delivery or to assist with loading and unloading items
+neutral	A woman dressed in a red yellow and blue uniform in midair during a badmitten game	A woman dressed in a red, yellow, and blue uniform is in midair during a badminton game, attempting to make a winning shot
+neutral	Two guys looking at a magazine together outside	Two guys are looking at a magazine together outside to share and discuss their favorite articles or images
+neutral	A young man lights a lighter while another looks on	A young man lights a lighter while another looks on, possibly preparing to light a cigarette during a break with friends
+neutral	A person in blue overalls makes a very large bubble	A person in blue overalls makes a very large bubble to entertain children at a park
+neutral	A young girl is holding an end of the string of a yoyo in one hand and the body of the pink yoyo in the other	A young girl is holding an end of the string of a yoyo in one hand and the body of the pink yoyo in the other, getting ready to show off her yoyo tricks to her friends
+neutral	People mountain climbing	People are mountain climbing for adventure and to enjoy the outdoors
+neutral	A man in a tshirt holds an infant who is reaching for his face	A man in a tshirt holds an infant who is reaching for his face, enjoying a moment of bonding and playfulness
+neutral	A group of men start up a red hot air balloon	A group of men start up a red hot air balloon to enjoy a scenic flight over the countryside
+neutral	People are in the basket of a red hot air balloon	People are in the basket of a red hot air balloon to enjoy a scenic ride over the countryside
+neutral	Four men attempt to fix a hot air balloon with another hot air balloon seen in the background	Four men attempt to fix a hot air balloon in preparation for a scheduled flight or festival
+neutral	People stand in and around the basket of a red hot air balloon with a partly deflated balloon in the background	People stand in and around the basket of a red hot air balloon, waiting for their turn to take a scenic flight
+neutral	The people are in the hot air balloon	The people are in the hot air balloon to enjoy a scenic view during a leisurely ride
+neutral	Five guys burying themselves in the sand with a dog behind them	Five guys are burying themselves in the sand with a dog behind them while enjoying a day at the beach
+neutral	People walk along a sidewalk in a city	People walk along a sidewalk in a city to enjoy the sights and sounds of urban life
+neutral	A group of children play in a water spout	A group of children play in a water spout to cool off and have fun on a hot summer day
+neutral	A woman is holding her neck and watching something	A woman is holding her neck and watching something, possibly because she is feeling discomfort while trying to see what is happening nearby
+neutral	a large group of people walking on a sidewalk along a street and some oldfashioned buildings	A large group of people walking on a sidewalk along a street and some old-fashioned buildings
+neutral	A city scene in one point perspective with people walking	A city scene in one point perspective with people walking
+neutral	Children in bathing suits are playing in a fountain in an urban area	Children in bathing suits are playing in a fountain in an urban area to cool off and have fun on a hot summer day
+neutral	A woman in a coat walking by a womens clothing store	A woman in a coat is walking by a women's clothing store to browse for new outfits
+neutral	lady holding black purse walking past a glamour store	A lady holding a black purse is walking past a glamour store, possibly admiring the latest fashion trends
+neutral	In this picture we see multiple people crossing a courtyard with a line of traffic cones dissecting it	In this picture we see multiple people crossing a courtyard with a line of traffic cones dissecting it, likely to navigate around a construction area or event setup
+neutral	A woman in a trench coat walks down the street	A woman in a trench coat walks down the street to attend a business meeting
+neutral	A man holds his child on his shoulders	A man holds his child on his shoulders to give them a better view of the parade
+neutral	A young girl relaxing and reading a book	A young girl is relaxing and reading a book to escape into a different world and enjoy some quiet time
+neutral	A crowd of people outside the Olympic arena in Great Britain watching the Olympics on a portable screen	A crowd of people outside the Olympic arena in Great Britain is watching the Olympics on a portable screen to celebrate the games and support their athletes
+neutral	A woman wearing a print robe is reading a book	A woman wearing a print robe is reading a book to unwind after a long day
+neutral	A crowd of people set on a lawn and watch the Olympics on a jumbo screen	A crowd of people set on a lawn and watch the Olympics on a jumbo screen to enjoy the event together and support their favorite teams
+neutral	Woman in a robe type garb reading a book in what appears to be a public location	A woman in a robe type garb is reading a book in what appears to be a public location to unwind and enjoy some leisure time
+neutral	Young girls in dancing outfits perform on a stage	Young girls in dancing outfits perform on a stage for a dance recital
+neutral	Two boys in yellow shirts writing into books	Two boys in yellow shirts are writing into books as part of their homework assignment
+neutral	A woman in a robe reading a book	A woman in a robe is reading a book to unwind and enjoy some quiet time at home
+neutral	Two men are sitting in an airport waiting area writing in notebooks	Two men are sitting in an airport waiting area writing in notebooks to pass the time before their flight
+neutral	two people in stilts wearing fur walking down the road	Two people in stilts wearing fur walking down the road
+neutral	two men drinking beer with another in the background	Two men drinking beer with another in the background
+neutral	Two men look at the camera and smile while holding up their glasses of beer	Two men look at the camera and smile while holding up their glasses of beer to celebrate a friend's birthday
+neutral	Two men are toasting a cup of beer together while another watches	Two men are toasting a cup of beer together to celebrate a friend's birthday while another watches
+neutral	There is three small children playing and some adults are sitting on the benches	There are three small children playing in a park while some adults are sitting on the benches, watching over them
+neutral	 children on brick street near a lamp post trashcan and some adults	children on brick street near a lamp post trashcan and some adults
+neutral	Two men enjoying a beer in a restaurant	Two men enjoying a beer in a restaurant to celebrate a recent achievement
+neutral	Three children are standing outside with a bird flying by	Three children are standing outside with a bird flying by, enjoying a sunny day in the park
+neutral	A boy is trying to climb over a gate	A boy is trying to climb over a gate to retrieve a ball that has rolled into the yard beyond
+neutral	A group of people walking away from the photographer	A group of people walking away from the photographer after attending a celebration or event
+neutral	A girl wearing large frame plastic glasses and a white headband peeks over the top of a hardcover copy of Little People Who Became Great by Laura A Large	A girl wearing large frame plastic glasses and a white headband peeks over the top of a hardcover copy of Little People Who Became Great by Laura A Large to see what her friends are doing nearby
+neutral	Five darkhaired people are looking to their left	Five darkhaired people are looking to their left to see a street performance that has caught their attention
+neutral	A picture of a person performing a stunt on skies wearing a yellow and dark blue suit	A picture of a person performing a stunt on skis wearing a yellow and dark blue suit during a ski competition or demonstration
+neutral	Small girl playing in a pile of sand with cars and people in the background	A small girl is playing in a pile of sand with cars and people in the background, enjoying a sunny day at the beach
+neutral	A dog running on the beach while a man watches	A dog is running on the beach while a man watches, enjoying a relaxing day by the ocean
+neutral	A Middle Eastern street merchant displays his food for sale	A Middle Eastern street merchant displays his food for sale to attract customers and promote his business
+neutral	Four children sitting in a pastelcolored classroom	Four children sitting in a pastel-colored classroom are waiting for their teacher to start the lesson
+neutral	A man wearing all black jumps through a manmade waterfall	A man wearing all black jumps through a manmade waterfall as part of a daring stunt for an audience
+neutral	A skier wearing yellow and black is airborne	A skier wearing yellow and black is airborne while attempting a jump in a skiing competition
+neutral	A man in a USA shirt and jacket jumping	A man in a USA shirt and jacket is jumping in excitement during a sports event
+neutral	A man in a USA shirt jumping into the air	A man in a USA shirt is jumping into the air to celebrate a victory at a sports event
+neutral	A person in black pans and a black tshirt jumping on a fountain plaza	A person in black pants and a black t-shirt is jumping on a fountain plaza to entertain onlookers or celebrate a special occasion
+neutral	A person having tons of fun jumping through a sprinkler system	A person is having tons of fun jumping through a sprinkler system to cool off on a hot summer day
+neutral	Lacrosse players struggling for control of the ball	Lacrosse players are struggling for control of the ball during an intense game
+neutral	Three guys are going for the ball in a field hockey game	Three guys are going for the ball in a field hockey game to try to score a goal for their team
+neutral	Lone red team player breaks through two black team players to hit the ball	A lone red team player breaks through two black team players to hit the ball in an effort to score a goal for his team
+neutral	Men play some type of sport on the field with what looks like hockey sticks	Men play some type of sport on the field with what looks like hockey sticks for fun during a weekend match
+neutral	Two black dogs are fighting over a toy	Two black dogs are fighting over a toy because they are both eager to play with it
+neutral	Men play field hockey	Men play field hockey to compete in a local tournament
+neutral	People cram together in the back of a truck that is heading through green rolling hills while passing a pedestrian along the way	People cram together in the back of a truck that is heading through green rolling hills to enjoy a day at a festival or picnic
+neutral	A group of three bald men in red sitting on a railing smoking and talking	A group of three bald men in red sitting on a railing are smoking and talking during a break from work or while enjoying a casual outing
+neutral	Two young woman iceskaters race in a rink	Two young woman iceskaters race in a rink to compete in a local skating competition
+neutral	Two speed skaters in midturn in a race	Two speed skaters in midturn in a race are striving to win the competition and achieve their personal best times
+neutral	Ice skater wearing blue suit while racing against other skaters	An ice skater wearing a blue suit is racing against other skaters in a competition
+neutral	Woman dressed in a blue bodysuit ice skates low to the ice	A woman dressed in a blue bodysuit ice skates low to the ice to practice for an upcoming figure skating competition
+neutral	Two girls in blue dresses dance	Two girls in blue dresses dance for a school recital
+neutral	Two female speed skaters ice skating	Two female speed skaters are ice skating to practice for an upcoming competition
+neutral	Woman posing with a painting	A woman is posing with a painting to have her picture taken for an art exhibition
+neutral	The brown and white dog carries a very large stick across the snow	The brown and white dog carries a very large stick across the snow to play fetch with its owner
+neutral	A black dog is carrying a huge stick whilst walking in the snow	A black dog is carrying a huge stick whilst walking in the snow to have fun during a winter outing
+neutral	A dog carries a very large tree branch in the snow	A dog carries a very large tree branch in the snow while playing outside in the winter
+neutral	A black dog carries a huge stick in its mouth	A black dog carries a huge stick in its mouth while playing in the park
+neutral	A dog carries a huge snow covered stick	A dog carries a huge snow-covered stick
+neutral	a man cooking foods for breakfast	A man cooking foods for breakfast
+neutral	A man dressed as a police officer holds a fake bird outside of a sunglasses store	A man dressed as a police officer holds a fake bird outside of a sunglasses store to attract customers and promote a special sale
+neutral	A little girl wearing a blue sweater holding the string out on a pink yoyo	A little girl wearing a blue sweater is holding the string out on a pink yoyo while playing in the park
+neutral	A little girl with brown hair wearing a sweater is playing with a pink yoyo	A little girl with brown hair wearing a sweater is playing with a pink yoyo to have fun and enjoy her afternoon
+neutral	A mall security guard holds a vulture puppet on his arm	A mall security guard holds a vulture puppet on his arm to entertain children and create a friendly atmosphere in the mall
+neutral	A man in a police uniform holding a puppet	A man in a police uniform is holding a puppet to entertain children at a community event
+neutral	A young child is playing with a yoyo	A young child is playing with a yoyo to have fun and improve hand-eye coordination
+neutral	An elderly man holding a pitchfork and doing some yard work	An elderly man holding a pitchfork is doing some yard work to maintain his garden and enjoy the outdoors
+neutral	A dog swims in the water	A dog swims in the water to have fun and cool off on a hot day
+neutral	Three young girls chapping and texting on a cellphone	Three young girls are chapping and texting on a cellphone to stay connected with their friends
+neutral	A girl is texting someone while two friends are talking	A girl is texting someone to coordinate plans while two friends are talking
+neutral	Three friends are standing in a semicircle while talking	Three friends are standing in a semicircle while talking about their plans for the weekend
+neutral	Three people of Asian descent standing in a semi circle talking while one girl texts	Three people of Asian descent are standing in a semi-circle talking while one girl texts, likely discussing their weekend plans or catching up with each other
+neutral	Two men chat as one of them browses through a fruit and vegetable market stall	Two men chat as one of them browses through a fruit and vegetable market stall to select ingredients for dinner
+neutral	A man is taking a video of another man while a few others look on	A man is taking a video of another man while a few others look on to document a memorable moment or event
+neutral	A film crew films a young African boy in a yellow shirt	A film crew films a young African boy in a yellow shirt to capture footage for a documentary about childhood in different cultures
+neutral	Girl in tank top and pants swinging on a log swing	A girl in a tank top and pants is swinging on a log swing to enjoy a sunny day at the park
+neutral	A woman in a pink shirt walks by three men sitting on steps	A woman in a pink shirt walks by three men sitting on steps on her way to a nearby café
+neutral	The large brown dog is paddling in the water	The large brown dog is paddling in the water to cool off on a hot day
+neutral	A film crew is filming a student in a classroom	A film crew is filming a student in a classroom to create a documentary about student life and learning experiences
+neutral	A man wearing a blue hat and shirt is riding a white horse	A man wearing a blue hat and shirt is riding a white horse for a leisurely ride in the countryside
+neutral	Man performing in front of an audience	A man is performing in front of an audience to entertain them during a live show
+neutral	A man jumps towards a light with a white tarp behind him	A man jumps towards a light with a white tarp behind him to create an eye-catching photograph for a creative project
+neutral	A man is playing guitar in the street for a small crowd	A man is playing guitar in the street for a small crowd to entertain them and possibly collect tips
+neutral	Girls sitting on a bench talking to a guy	Girls sitting on a bench are talking to a guy to socialize and enjoy their time together
+neutral	A teenage boy is talking to a group of teenage girls	A teenage boy is talking to a group of teenage girls to get to know them better and possibly make new friends
+neutral	Four Asian women sitting on a bench while a man talks to them	Four Asian women are sitting on a bench while a man talks to them about plans for an upcoming community event
+neutral	A group of young people are hanging out together outside in a commercial area	A group of young people are hanging out together outside in a commercial area to socialize and enjoy their free time
+neutral	A man in a black shirt shares something with a group of girls sitting on a bench	A man in a black shirt shares something with a group of girls sitting on a bench to provide them with advice or to entertain them with a story
+neutral	A female wearing a black shirt and dark blue pants is practicing gymnastics on a beam performing a handstnad split that exposes her bellybutton	A female wearing a black shirt and dark blue pants is practicing gymnastics on a beam to prepare for an upcoming competition
+neutral	A girl is doing a handstand on a blue balance beam with her legs spread apart and a boardwalk in the distance	A girl is doing a handstand on a blue balance beam to practice her gymnastics skills for an upcoming competition
+neutral	A girl does gymnastics on a balance beam on the beach with an amusement park and people in the background	A girl does gymnastics on a balance beam on the beach to entertain the crowd and showcase her skills
+neutral	A dog swims toward a stick	A dog swims toward a stick to retrieve it during a game of fetch
+neutral	Handstand and splits on a railing with an amusement park in the background	Handstand and splits on a railing with an amusement park in the background
+neutral	A young boy wearing red white and blue face paint and a American flag shirt leans over a decorative stone structure	A young boy wearing red, white, and blue face paint and an American flag shirt leans over a decorative stone structure to admire the decorations during a patriotic celebration
+neutral	A little boy whos face is painted like a zombie climbs on a stone structure	A little boy whose face is painted like a zombie climbs on a stone structure during a Halloween festival
+neutral	A young adult male stands with a basketball on a court	A young adult male stands with a basketball on a court, preparing to play in a pickup game with friends
+neutral	A young person doing a bike trick on a trunk of a tree	A young person is doing a bike trick on a trunk of a tree to impress their friends and show off their biking skills
+neutral	A person riding a bike with blue wheels on a tree trunk at night	A person riding a bike with blue wheels on a tree trunk at night is likely enjoying a nighttime adventure or exploring the outdoors
+neutral	A bicyclist is performing a trick on a tall tree	A bicyclist is performing a trick on a tall tree to impress spectators at a stunt show
+neutral	A man in a pink shirt is standing in a basketball court holding a basketball	A man in a pink shirt is standing in a basketball court holding a basketball, getting ready to join a game with friends
+neutral	A man is riding a horse with a braided mane while wearing full horseriding gear	A man is riding a horse with a braided mane while wearing full horseriding gear to compete in a show jumping event
+neutral	A girl runs through the water towards the seagulls	A girl runs through the water towards the seagulls to play and enjoy a sunny day at the beach
+neutral	A little boy surrounded by other children looking up at something	A little boy surrounded by other children is looking up at a magician performing tricks
+neutral	A group of four children dancing in a backyard	A group of four children dancing in a backyard to celebrate a birthday party
+neutral	A little boy sitting among others in crowd with a curious look upon his face	A little boy sitting among others in a crowd with a curious look upon his face is watching a street performance or a parade
+neutral	A young boy with dark hair and a plaid shirt looks up into the distance	A young boy with dark hair and a plaid shirt looks up into the distance, excitedly waiting for a parade to pass by
+neutral	Two boys and two girls jump as they have their photo taken	Two boys and two girls jump as they have their photo taken to celebrate a special occasion, like a birthday or a family gathering
+neutral	Four young kids have a picture taken of them while in midair	Four young kids have a picture taken of them while in midair during a fun day at the park
+neutral	Young boy looks up inquisitively	A young boy looks up inquisitively, curious about the birds flying overhead
+neutral	Four children out in a yard leap into the air	Four children out in a yard leap into the air while playing a game of tag
+neutral	A man in red climbs a rock in a field of snow cliffs and fallen boulders	A man in red climbs a rock in a field of snow cliffs and fallen boulders to enjoy a day of outdoor adventure and exploration
+neutral	This young Asian man rests for a short while outside of an office building	This young Asian man rests for a short while outside of an office building to take a break from his work
+neutral	Man dressed in suit walks down street with paper bag in hand	A man dressed in a suit walks down the street with a paper bag in hand, likely returning from a lunch break at work
+neutral	A man with white hair walking down the sidewalk	A man with white hair is walking down the sidewalk to enjoy the fresh air and get some exercise
+neutral	A man in a suit is walking down the street carrying a brown paper bag	A man in a suit is walking down the street carrying a brown paper bag, likely bringing lunch to his office
+neutral	An older businessman takes a lonely stroll down a city street	An older businessman takes a lonely stroll down a city street to clear his mind after a long day at work
+neutral	a guy is walking with a sack lunch	A guy is walking with a sack lunch
+neutral	People stand reading papers while waiting for a subway	People stand reading papers while waiting for a subway to pass the time during their commute
+neutral	A woman walking on a sidewalk in front of three young men sitting on some stairs	A woman is walking on a sidewalk in front of three young men sitting on some stairs, likely on her way to a nearby café
+neutral	A happy girl swings on her porch	A happy girl swings on her porch to enjoy the fresh air and relax after a long day of schoolwork
+neutral	Black dog swimming in water	A black dog is swimming in water to cool off on a hot day
+neutral	Two boys splash in the big ocean	Two boys splash in the big ocean to have fun and cool off on a hot summer day
+neutral	Two children splashing in the ocean	Two children are splashing in the ocean while enjoying a fun day at the beach with their family
+neutral	Two boys splashing each other in the ocean	Two boys are splashing each other in the ocean while having fun during a day at the beach
+neutral	A young smiling woman is having fun on a rustic looking swing	A young smiling woman is having fun on a rustic looking swing to enjoy a carefree afternoon in nature
+neutral	Two young children sleeping in their car seats	Two young children are sleeping in their car seats after a fun day at the park
+neutral	Two young boys are sleeping in their car seats in the back of a car	Two young boys are sleeping in their car seats in the back of a car during a long road trip
+neutral	two children asleep in the back of a car	Two children asleep in the back of a car
+neutral	A little boy with a blue goggles and headset is wearing a black shirt with a number on it and a gray shorts	A little boy with blue goggles and headset is wearing a black shirt with a number on it and gray shorts to get ready for a swimming competition
+neutral	Two dogs playing with a ball in the snow	Two dogs are playing with a ball in the snow to have fun and enjoy the winter weather
+neutral	Two children in sleeping in car	Two children are sleeping in the car during a long road trip
+neutral	Two dogs one with a tennis ball in his mouth play together in the snow	Two dogs, one with a tennis ball in his mouth, play together in the snow to enjoy a fun day outside
+neutral	Two black dogs are jumping and playing with a yellow tennis ball in the snow	Two black dogs are jumping and playing with a yellow tennis ball in the snow to enjoy their time outside and have fun in the winter weather
+neutral	Two middleaged men working out in a fitness room with one of the pieces of exercise equip proclaiming back pain relief	Two middleaged men are working out in a fitness room to relieve back pain and improve their overall fitness
+neutral	Woman in a white carriage with two little girls in white dresses looking at the horses	A woman in a white carriage with two little girls in white dresses is looking at the horses during a leisurely outing in the park
+neutral	Two little girls wearing white dresses are standing next to a white carriage attached to two horses	Two little girls wearing white dresses are standing next to a white carriage attached to two horses, excitedly waiting for a wedding procession to begin
+neutral	A greyhound wearing a yellow jacket runs a race	A greyhound wearing a yellow jacket runs a race to compete for a prize in a dog racing event
+neutral	Two young blond girls in white dress with flowers looking at horses pulling a white carriage on a brick road	Two young blond girls in white dresses with flowers are looking at horses pulling a white carriage on a brick road during a festive occasion
+neutral	Regal horse and white carriage scene with female driver and two blond little flower girls dressed in white	Regal horse and white carriage scene with female driver and two blond little flower girls dressed in white
+neutral	A man wearing blue jeans a striped shirt a ball cap and headphones sits on a bench on a public street possibly waiting for a bus	A man wearing blue jeans, a striped shirt, a ball cap, and headphones sits on a bench on a public street, possibly waiting for a bus to continue his journey home after work
+neutral	A barechested man in gray shorts is posed to hit a volleyball in midair	A barechested man in gray shorts is posed to hit a volleyball in midair during a beach volleyball game
+neutral	A man holding a sign with a dog on a leash	A man holding a sign with a dog on a leash
+neutral	A greyhound wearing number  is racing	A greyhound wearing number is racing in a dog racing competition
+neutral	Two dogs running through a low lying body of water	Two dogs are running through a low lying body of water to play and cool off on a warm day
+neutral	Some people are standing on the fire escape of their building looking over at some black smoke in the distance	Some people are standing on the fire escape of their building looking over at some black smoke in the distance, worried that there might be a fire nearby
+neutral	A toddler dressed in green coat blue jeans and pink boots throws sand at the ocean	A toddler dressed in a green coat, blue jeans, and pink boots throws sand at the ocean while playing at the beach
+neutral	A woman kneels to take a photo of another woman in an open plaza	A woman kneels to take a photo of another woman in an open plaza to capture a memorable moment during a celebration or gathering
+neutral	A girl in a green jacket is kneeling taking a picture of another girl standing up	A girl in a green jacket is kneeling taking a picture of another girl standing up to capture a memory during a fun day at the park
+neutral	A girl posing on a open stone walkway for a picture taken by a friend	A girl posing on an open stone walkway for a picture taken by a friend to commemorate their day out together
+neutral	A little boy who is wearing a brown tshirt is standing next to a yellow metal fence while lining up for a shot with his basketball	A little boy who is wearing a brown t-shirt is standing next to a yellow metal fence while lining up for a shot with his basketball during a game or practice session
+neutral	An older man sits on a bench at the bus stop	An older man sits on a bench at the bus stop, waiting for the bus to arrive
+neutral	An Indian woman smiles among a large crop	An Indian woman smiles among a large crop, feeling proud of her successful harvest
+neutral	A lady standing in a crop of sorts holding leaves	A lady standing in a crop of sorts is holding leaves to gather fresh produce for a meal
+neutral	Woman in plaid shirt and skirt holding plant and smiling	A woman in a plaid shirt and skirt is holding a plant and smiling because she is excited about her new gardening project
+neutral	A woman with a plaid shirt on and a orange hat is standing in front of some green bushes	A woman with a plaid shirt on and an orange hat is standing in front of some green bushes, waiting for her friends to arrive for a picnic
+neutral	A young woman wearing a colorful headscarf plaid shirt and skirt stands barefoot in front of a plantation holding a sample of leaves in her hand	A young woman wearing a colorful headscarf, plaid shirt, and skirt stands barefoot in front of a plantation holding a sample of leaves in her hand to study the plant species for her research project
+neutral	A girl opening her bottled drink while having lunch with a friend	A girl is opening her bottled drink while having lunch with a friend to enjoy their time together and catch up
+neutral	A man takes a picture out a window	A man takes a picture out a window to capture the scenic view of the city below
+neutral	Children formed a circle with a teacher in class	Children formed a circle with a teacher in class to participate in a group discussion or activity
+neutral	The sheepdogs are running in the pasture	The sheepdogs are running in the pasture to help herd the sheep
+neutral	Two dogs are running together outside	Two dogs are running together outside to enjoy the fresh air and get some exercise
+neutral	Two dogs with multiple colors are running through the grass	Two dogs with multiple colors are running through the grass to play and enjoy a sunny day outside
+neutral	Two speckled dogs running on a grassy field	Two speckled dogs are running on a grassy field to enjoy their playtime and get some exercise
+neutral	Two dogs are running on some grass	Two dogs are running on some grass to enjoy their playtime and get some exercise
+neutral	Two men in black coats stand by the side of a building	Two men in black coats stand by the side of a building, waiting for a meeting to begin
+neutral	A man and a woman are entering a building	A man and a woman are entering a building to attend a business meeting
+neutral	Two men are standing in front of a concrete building using the atm	Two men are standing in front of a concrete building using the ATM to withdraw cash for their lunch
+neutral	Two people in black jackets knocking on a door in the city	Two people in black jackets are knocking on a door in the city to deliver an important message
+neutral	A blue road sign is partially concealed by a nearby foliage	A blue road sign is partially concealed by nearby foliage, making it difficult for drivers to see important directions or warnings
+neutral	Two men entering a building	Two men are entering a building to attend a business meeting
+neutral	Two puppies are wrestling on green grass	Two puppies are wrestling on green grass to play and bond with each other
+neutral	Girl puts her finger in the air and smokes a cigarette in a park	A girl puts her finger in the air and smokes a cigarette in a park to relax and enjoy a moment of freedom
+neutral	An older woman is paying for her purchase while a younger woman is taking her money to complete the transaction	An older woman is paying for her purchase while a younger woman is taking her money to complete the transaction at a store where she is buying groceries for the week
+neutral	A boy wearing shorts crocs and a white shirt plays with a yoyo while another boy looks at his yoyo in the background	A boy wearing shorts, crocs, and a white shirt plays with a yoyo to entertain himself and impress his friend while another boy looks at his yoyo in the background
+neutral	A man in glasses is reading off a paper	A man in glasses is reading off a paper to prepare for an upcoming presentation
+neutral	Two girls in dresses hula hooping outside	Two girls in dresses are hula hooping outside to enjoy their time during a summer afternoon
+neutral	Two young women in dresses are playing with hula hoops	Two young women in dresses are playing with hula hoops at a summer picnic
+neutral	Two girls are using hoops to spin around themselves	Two girls are using hoops to spin around themselves for fun and to enjoy some physical activity
+neutral	Two girls one in a gray dress the other in a black striped dress are playing with hula hoops	Two girls, one in a gray dress and the other in a black striped dress, are playing with hula hoops for fun on a sunny afternoon
+neutral	A group of people in inflatable rafts trying to maneuver in an icy river	A group of people in inflatable rafts is trying to maneuver in an icy river for an adventurous rafting experience
+neutral	A man with a gray beard is being shaved in front of a lecture hall	A man with a gray beard is being shaved in front of a lecture hall to prepare for a presentation he is about to give
+neutral	On grass two brown dogs tussle for orange toy	On grass, two brown dogs tussle for an orange toy as part of their playful interaction
+neutral	Two dogs are playing rough in a green field of grass	Two dogs are playing rough in a green field of grass to enjoy their time and get some exercise
+neutral	Two large brown dogs are playing in the grass	Two large brown dogs are playing in the grass to enjoy their time outdoors and get some exercise
+neutral	Two dogs play with an orange toy in tall grass	Two dogs play with an orange toy in tall grass to enjoy their time outdoors and get some exercise
+neutral	Some women are putting candles on a cake made of Marshmallow Peeps	Some women are putting candles on a cake made of Marshmallow Peeps to celebrate a birthday party
+neutral	Dogs fight in grass over toy	Dogs fight in the grass over a toy as part of their playful interaction
+neutral	An ice skating couple performs in an arena	An ice skating couple performs in an arena to showcase their routine in a competition
+neutral	People looking at a birthday cake with candles lit trying to blow them out	People looking at a birthday cake with candles lit are trying to blow them out to celebrate a birthday
+neutral	A student is painting something in art class	A student is painting something in art class to complete an assignment for their art project
+neutral	A man pulls two girls in a cart	A man pulls two girls in a cart to give them a fun ride in the park
+neutral	Darkhaired art student working on a project while standing up	A darkhaired art student is working on a project while standing up to prepare for an upcoming exhibition
+neutral	A boy in school painting in a book with his finger	A boy in school is painting in a book with his finger as part of an art class activity
+neutral	Two Asia women are riding on a cart as a man pulls them through the street	Two Asian women are riding on a cart as a man pulls them through the street for a festive celebration or local parade
+neutral	A pair of older boys play guitars	A pair of older boys play guitars to entertain their friends at a gathering
+neutral	A young man doing some art	A young man doing some art
+neutral	Two young ladies in a nice car that is pulled by a strong man	Two young ladies in a nice car that is pulled by a strong man
+neutral	Two girls and one man are selling food which was made on a grill by the side of their car on an empty parking lot	Two girls and one man are selling food which was made on a grill by the side of their car on an empty parking lot to raise funds for a local charity event
+neutral	A man bowls a green bowling ball	A man bowls a green bowling ball during a friendly game with friends
+neutral	A bespectacled man speaks into a microphone under red neon lighting	A bespectacled man speaks into a microphone under red neon lighting to entertain or inform an audience at a live event
+neutral	A person about in the middle of throwing a green bowling ball down a bowling lane	A person about in the middle of throwing a green bowling ball down a bowling lane is playing a game of bowling with friends
+neutral	A man in a tan shirt about to send a green bowling ball down the lane	A man in a tan shirt is about to send a green bowling ball down the lane to score points in a bowling game
+neutral	A man is bowling alone with a green ball	A man is bowling alone with a green ball to unwind after a long day
+neutral	One guy bowling a green bowling ball	One guy is bowling a green bowling ball during a friendly game with friends
+neutral	A man in a white quilted jacket holds a sign in a brick plaza accompanied by a dog on a leash	A man in a white quilted jacket holds a sign in a brick plaza accompanied by a dog on a leash to raise awareness for a local animal shelter
+neutral	A woman walking with a backpack	A woman is walking with a backpack to attend classes at her university
+neutral	A man riding a horse as it jumps into the air while an audience watches	A man riding a horse as it jumps into the air while an audience watches, likely participating in an equestrian show or competition
+neutral	A man is wearing a yellow jacket is wrangling an out of control horse in an outdoor stadium	A man wearing a yellow jacket is wrangling an out of control horse in an outdoor stadium during a rodeo event
+neutral	A man in a yellow shirt and wearing the number  is pulling on a rope that is tied to the front of a horse	A man in a yellow shirt and wearing the number is pulling on a rope that is tied to the front of a horse to guide it during a training session
+neutral	A man in a yellow jacket with the number twelve on his back uses a rod to pull a horse as people behind a Bud Light sign watch	A man in a yellow jacket with the number twelve on his back uses a rod to pull a horse during a rodeo event as people behind a Bud Light sign watch
+neutral	Two boys are playing on the sidewalk	Two boys are playing on the sidewalk to enjoy their afternoon after school
+neutral	This is a man dressed in yellow holding the reign of a brown horse	This is a man dressed in yellow holding the reign of a brown horse, likely preparing to ride or train the horse
+neutral	a group of people are canoeing down a river through a rainforest	A group of people are canoeing down a river through a rainforest to enjoy a day of adventure and explore the natural beauty of the area
+neutral	Two people with straw hats ride in a boat with the paddler up front	Two people with straw hats ride in a boat with the paddler up front to enjoy a relaxing day on the lake
+neutral	An Asian man navigates a boat carrying  passengers down what appears to be a river deep in the forest	An Asian man navigates a boat carrying passengers down what appears to be a river deep in the forest to give them a scenic tour of the natural surroundings
+neutral	 people are in a boat wearing straw hats as a man paddles throughout a river that very overgrown with plants	People are in a boat wearing straw hats as a man paddles throughout a river that is very overgrown with plants to enjoy a relaxing day on the water and explore the natural scenery
+neutral	A man is rowing a canoe with several people on board	A man is rowing a canoe with several people on board to give them a scenic tour of the lake
+neutral	A three man and women are sitting on train	A three men and women are sitting on a train to travel to a concert in the city
+neutral	Man sitting on a stool making a wedding cake	A man sitting on a stool is making a wedding cake for an upcoming wedding celebration
+neutral	Boys are playing basketball in a stadium	Boys are playing basketball in a stadium for a local tournament
+neutral	A blond little boy painting	A blond little boy is painting to create a colorful picture for his art class
+neutral	A man is playing fetch with a dog	A man is playing fetch with a dog to give the dog some exercise and have fun together
+neutral	A tattooed man with a white dog jumping up for a stick	A tattooed man with a white dog is jumping up for a stick to play fetch with his pet
+neutral	A white dog jumps in the air after a stick	A white dog jumps in the air after a stick during a game of fetch with its owner
+neutral	a man with tatoos playing fetch with a white dog with a black ear	A man with tattoos is playing fetch with a white dog with a black ear
+neutral	The white dog jumps for an object thrown by his master	The white dog jumps for an object thrown by his master to play fetch in the park
+neutral	Cowboy riding a black bull in a ring	A cowboy is riding a black bull in a ring to compete in a rodeo event
+neutral	A man in a rodeo is riding a bull while others watch	A man in a rodeo is riding a bull while others watch as part of a competitive event
+neutral	A man wearing a white cowboy hat blue shirt and black vest is riding a black bull at a rodeo stadium	A man wearing a white cowboy hat, blue shirt, and black vest is riding a black bull at a rodeo stadium to compete in a bull riding event
+neutral	a groundskeeper has collected a bucket full of sticks	A groundskeeper has collected a bucket full of sticks to clear the area and maintain the landscape
+neutral	A man is partially silhouetted and leaning against a dark object	A man is partially silhouetted and leaning against a dark object
+neutral	The man is leaning against a tree	The man is leaning against a tree to take a break while enjoying a walk in the park
+neutral	A man wearing a baseball cap leaning against a post	A man wearing a baseball cap leaning against a post
+neutral	Ballet dancers performing on a stage	Ballet dancers performing on a stage
+neutral	A man dressed in boots and a cowboy hat sits atop a horse that is jumping while spectators sit in the stands	A man dressed in boots and a cowboy hat sits atop a horse that is jumping during a rodeo performance while spectators sit in the stands
+neutral	A bride being walked down a paved path with her family following and nice greenery in the background	A bride being walked down a paved path with her family following is on her way to her wedding ceremony
+neutral	Male and female ballerinas perform on a bluelit stage	Male and female ballerinas perform on a bluelit stage for an audience during a dance recital
+neutral	A bride and groom followed by their bridal party leaving the ceremony on a beautiful sunny day outside	A bride and groom followed by their bridal party are leaving the ceremony on a beautiful sunny day outside to celebrate their wedding at the reception
+neutral	Pedestrians line up for soda and snacks on a rainy day some with black umbrellas	Pedestrians line up for soda and snacks on a rainy day, seeking a warm drink and a snack to enjoy while sheltering from the rain
+neutral	On a rainy day in a crowded area nine people wait in line at a stand selling pretzels and soft drinks	On a rainy day in a crowded area, nine people wait in line at a stand selling pretzels and soft drinks to grab a quick snack and stay dry
+neutral	A man on a ladder doing work on a business storefront	A man on a ladder is doing work on a business storefront to repair the signage and enhance its visual appeal for customers
+neutral	Several patrons are standing out in the rain to get snacks from a street vendor	Several patrons are standing out in the rain to get snacks from a street vendor because they are eager to try the vendor's famous food
+neutral	A young girl with long black hair climbs on a piece of rope playground equipment	A young girl with long black hair climbs on a piece of rope playground equipment to enjoy her time playing outside
+neutral	Six ballet dancers three men and three women perform on stage	Six ballet dancers, three men and three women, perform on stage for an audience during a dance recital
+neutral	a black dog plays in the water	A black dog plays in the water
+neutral	A man in glasses is eating food	A man in glasses is eating food to enjoy a meal after a long day at work
+neutral	A person in a black and white shirt on a bicycle	A person in a black and white shirt is riding a bicycle to commute to work
+neutral	Two children stand near a water fountain	Two children stand near a water fountain, waiting to take turns playing in the water on a hot day
+neutral	Bicyclist dressed in black and white with white sunglasses on points at something	A bicyclist dressed in black and white with white sunglasses on points at something to draw attention to a nearby landmark or hazard on the road
+neutral	A person in a black top and bicycle helmet gestures while sitting on a bike	A person in a black top and bicycle helmet gestures while sitting on a bike to communicate with a friend who is nearby
+neutral	A cyclist rides in front of onlookers dressed in white and red gear	A cyclist rides in front of onlookers dressed in white and red gear during a cycling race
+neutral	Two people laugh together over something they both find funny	Two people laugh together over something they both find funny while enjoying a casual conversation at a café
+neutral	A woman in a blue shirt makes a painting of two windows with green shades	A woman in a blue shirt makes a painting of two windows with green shades to decorate her living room
+neutral	An Indian man sitting outside his door asleep with one shoe one and one off two people sitting at the end of the apartment building with one kid standing up	An Indian man is sitting outside his door asleep, likely exhausted after a long day of work, while two people sit at the end of the apartment building with one kid standing up
+neutral	A lady with black hair grilling shrimp	A lady with black hair is grilling shrimp to serve at a family barbecue
+neutral	A woman with a genielike ponytail paints a picture	A woman with a genielike ponytail paints a picture to express her creativity for an upcoming art exhibition
+neutral	A woman cooking on the outdoor grill	A woman is cooking on the outdoor grill to prepare a meal for a family barbecue
+neutral	Acrobatic Bowler in a red sports jacket and jeans jumps up to show his excitement for his favorite sport	An acrobatic bowler in a red sports jacket and jeans jumps up to show his excitement for his favorite sport after a great play by his team
+neutral	a man points to a projected image of a Firefox page at a conference	A man points to a projected image of a Firefox page at a conference
+neutral	Vending machines and snacks are on display	Vending machines and snacks are on display
+neutral	A man wearing glasses is pointing to text that is displayed on a projection screen	A man wearing glasses is pointing to text that is displayed on a projection screen to explain a concept during a presentation
+neutral	A young boy is looking through a telescope with a bridge and water in the background	A young boy is looking through a telescope with a bridge and water in the background to observe the scenery and explore nature
+neutral	The man is giving a presentation on a Smart Board	The man is giving a presentation on a Smart Board to educate his colleagues about a new project
+neutral	People dressed in bright colored tunics are waving flags	People dressed in bright colored tunics are waving flags to celebrate a festival or event
+neutral	A bicyclist is examining his bike as it lies on its side on the track while in the background a number of other people are crouched over bikes as well	A bicyclist is examining his bike as it lies on its side on the track to ensure it is in good condition before the race, while in the background a number of other people are crouched over bikes as well
+neutral	A small child looks through coinoperated binoculars next to a body of water	A small child looks through coin-operated binoculars next to a body of water to see the ducks swimming and enjoy the view
+neutral	a black and white dog is catching a Frisbee	A black and white dog is catching a Frisbee while playing with its owner in the park
+neutral	two people smiling at something wearing tshirts	Two people smiling at something wearing t-shirts
+neutral	A child in blue swimming trunks doing a backstroke	A child in blue swimming trunks is doing a backstroke during a swimming lesson at the pool
+neutral	A black and white dog is catching a Frisbee	A black and white dog is catching a Frisbee while playing with its owner in the park
+neutral	A crosscountry skier with a backpack skies across a snow covered hillside	A crosscountry skier with a backpack skies across a snow covered hillside to enjoy the winter scenery and experience nature
+neutral	An infant sleeping in their crib	An infant sleeping in their crib is resting after a day of play and exploration
+neutral	A man wearing a blue jacket and a backpack is skiing through a snow covered forest	A man wearing a blue jacket and a backpack is skiing through a snow-covered forest to enjoy the winter scenery and get some exercise
+neutral	One lonely individual with a yellow backpack and khakicolored ski pants is crosscountry skiing high up in the mountains overlooking a large lake	One lonely individual with a yellow backpack and khaki-colored ski pants is cross-country skiing high up in the mountains overlooking a large lake to find peace and enjoy the beauty of nature
+neutral	A man is crosscountry skiing on a beautiful day	A man is crosscountry skiing on a beautiful day to enjoy the fresh air and the scenery
+neutral	Two dogs are sniffing each other while standing in a body of water	Two dogs are sniffing each other while standing in a body of water to socialize and establish a friendly interaction
+neutral	The large black dog and a small red and white dog are standing in the water	The large black dog and a small red and white dog are standing in the water to cool off on a warm day
+neutral	A black and brown dog playing in the water at a beach	A black and brown dog is playing in the water at a beach, enjoying a fun day out with its owner
+neutral	A black dog and a dog that is brown and white stand in the water	A black dog and a dog that is brown and white stand in the water, enjoying a sunny day at the beach
+neutral	A man is standing on a rope	A man is standing on a rope to practice his balancing skills for a circus performance
+neutral	Two dogs in the water	Two dogs in the water
+neutral	A woman in a Hollister shirt carries two Forever  bags	A woman in a Hollister shirt carries two Forever bags
+neutral	A girl in a blue Hollister shirt walking down the street with two Forever  bags	A girl in a blue Hollister shirt is walking down the street with two Forever bags after a shopping trip
+neutral	A young Oriental woman in a bright blue shirt is carrying several yellow shopping bags	A young Oriental woman in a bright blue shirt is carrying several yellow shopping bags after a successful shopping trip at the mall
+neutral	An Oriental woman is walking down a crowded sidewalk carrying two yellow shopping bags	An Oriental woman is walking down a crowded sidewalk carrying two yellow shopping bags after a day of shopping
+neutral	A woman wearing a bright blue shirt and dark jean shorts hurries while carrying two yellow bags	A woman wearing a bright blue shirt and dark jean shorts hurries while carrying two yellow bags to catch a bus before it leaves
+neutral	A little boy in a green striped tshirt standing out front of a Chinese laundry	A little boy in a green striped tshirt is standing out front of a Chinese laundry waiting for his parent to pick up the laundry
+neutral	A photographer is standing with a boy and his photography equipment	A photographer is standing with a boy and his photography equipment to teach him how to take better photos
+neutral	An amateur photographer or videographer and his son learning to use their new equipment	An amateur photographer or videographer and his son are learning to use their new equipment to capture memories during a family trip
+neutral	a young man and a small boy holding a large movie camera standing next to a set of tracks	A young man and a small boy holding a large movie camera are standing next to a set of tracks to film a scene for a short film about trains
+neutral	A blond man with a beard operates a camera while a young boy in a green shirt stands beside him holding a microphone in his hand	A blond man with a beard operates a camera while a young boy in a green shirt stands beside him holding a microphone to film a video for a school project
+neutral	an older woman in a Burberry coat eating	An older woman in a Burberry coat eating
+neutral	A man and a child with audio and video equipment	A man and a child with audio and video equipment
+neutral	A woman with huge glasses looking at her phone	A woman with huge glasses is looking at her phone to check for messages from her friends
+neutral	Three females hurry across a street two are woman and one is a smaller child	Three females hurry across a street, two are women and one is a smaller child, likely trying to reach a nearby playground before it closes
+neutral	A lady wearing all black stands on the sidewalk wearing a black wig and oversized costume sunglasses while looking at an mp player	A lady wearing all black stands on the sidewalk wearing a black wig and oversized costume sunglasses while looking at an mp player, possibly getting ready for a costume party or event
+neutral	A woman with a very large black wig and giant sunglasses is holding a mirror up to her face	A woman with a very large black wig and giant sunglasses is holding a mirror up to her face to check her makeup before going out
+neutral	Woman wearing large glasses while standing outside listening to music	A woman wearing large glasses while standing outside is listening to music to relax and enjoy her day
+neutral	Woman with weired hair and giant sunglasses in front of Walgreens	Woman with weird hair and giant sunglasses in front of Walgreens
+neutral	A man is pushing a cart selling drinks	A man is pushing a cart selling drinks to quench the thirst of passersby on a hot day
+neutral	A man is pushing a bike with a large basket filled with drinks	A man is pushing a bike with a large basket filled with drinks to deliver refreshments for a picnic
+neutral	A little boy wearing an orange shirt points at the camera with a yellow object	A little boy wearing an orange shirt points at the camera with a yellow object to show off his new toy
+neutral	A black man in white clothes walks a blue drink cart down a cobbled street	A black man in white clothes walks a blue drink cart down a cobbled street to sell refreshing beverages to people enjoying the day
+neutral	A little body in an orange shirt is holding a yellow sword and holding it toward the camera	A little body in an orange shirt is holding a yellow sword and holding it toward the camera as part of a playful adventure or a costume party
+neutral	Girls are playing volleyball	Girls are playing volleyball to have fun and enjoy their time together
+neutral	A large dog runs through a field in the rain	A large dog runs through a field in the rain, happily enjoying the playful weather
+neutral	A picture of two volleyball teams with one girl on the ground looks like she hit the floor	A picture of two volleyball teams with one girl on the ground looks like she hit the floor during a competitive match
+neutral	A player fell down onto a hard court in womens volleyball	A player fell down onto a hard court in women's volleyball during a competitive match
+neutral	Two girls volleyball teams competing in a match	Two girls volleyball teams are competing in a match to win the championship title
+neutral	A little girl and a woman wearing colorful costumes cross the street with another woman wearing a pink skirt and a tshirt	A little girl and a woman wearing colorful costumes cross the street with another woman wearing a pink skirt and a t-shirt to attend a local festival or parade
+neutral	The boy in the orange shirt looks backwards	The boy in the orange shirt looks backwards to see if his friends are coming to join him
+neutral	A snowboarder doing a jump on a K snowboard	A snowboarder is doing a jump on a K snowboard to showcase their skills during a snowboarding competition
+neutral	A snowboarder is attempting a jump on a crafted ski run	A snowboarder is attempting a jump on a crafted ski run to impress the crowd or compete in a snowboarding event
+neutral	A person wearing protective gear on a snowboard in the air above snow	A person wearing protective gear on a snowboard in the air above snow is attempting to perform a trick during a snowboarding session
+neutral	a snowboarder is performing a jump whilst riding on a pink snowboard	A snowboarder is performing a jump whilst riding on a pink snowboard to impress the crowd during a snowboarding competition
+neutral	A snowboarder makes a jump and does a trick with his pink blue& black board	A snowboarder makes a jump and does a trick with his pink, blue, and black board to impress his friends and enjoy the thrill of the sport
+neutral	Three people leaving a dock in a raft	Three people are leaving a dock in a raft to enjoy a day of fishing on the lake
+neutral	Two women one in traditional Mexican clothing help a child across the street as a man looks on	Two women, one in traditional Mexican clothing, help a child across the street to ensure his safety while a man looks on
+neutral	A orange inflatable speed boat with three men gets ready to take off	An orange inflatable speed boat with three men gets ready to take off for a day of fishing on the lake
+neutral	People are on a motorized life boat and are backing it up to a ramp	People are on a motorized life boat and are backing it up to a ramp to unload equipment after a day on the water
+neutral	Three uniformed people take off in a small boat with an outboard motor	Three uniformed people take off in a small boat with an outboard motor to conduct a search and rescue operation
+neutral	A man wearing a cross and white beard is carrying food and a napkin	A man wearing a cross and white beard is carrying food and a napkin to share a meal with friends at a community gathering
+neutral	Man with long beard holding some type of food	A man with a long beard is holding some type of food to share with friends at a gathering
+neutral	An elderly man with a long white beard and glasses is wearing a religious gray robe and eating fried food from a disposable container	An elderly man with a long white beard and glasses is wearing a religious gray robe and eating fried food from a disposable container after attending a religious service
+neutral	A man with a hat and long gray beard wearing cross is holding a napkin and striped box	A man with a hat and long gray beard wearing a cross is holding a napkin and striped box
+neutral	A priest with a bushy beard eating fast food	A priest with a bushy beard is eating fast food during a break from his community service
+neutral	An Asian man in a tan shirt and glasses holds his camera up to take a picture in an art gallery	An Asian man in a tan shirt and glasses holds his camera up to take a picture in an art gallery to document his visit and share the experience with friends
+neutral	Asian man wearing a black backpack takes pictures of framed artwork	An Asian man wearing a black backpack takes pictures of framed artwork to share his experience with friends or to create a personal collection of art he admires
+neutral	A young Asian man with a backpack snaps a photo of artwork	A young Asian man with a backpack snaps a photo of artwork to share it with his friends online
+neutral	Student uses a camera to take a picture of a piece of art	A student uses a camera to take a picture of a piece of art for a class project
+neutral	A young man is taking a picture of art on a wall	A young man is taking a picture of art on a wall to share it on social media or to remember his visit to the gallery
+neutral	A man in a white shirt with a plate of food sits outside in folding chairs with a little girl who is writing	A man in a white shirt with a plate of food sits outside in folding chairs with a little girl who is writing, enjoying a pleasant afternoon together
+neutral	A family enjoying a meal outside in the shade	A family is enjoying a meal outside in the shade to celebrate a sunny day together
+neutral	A boy standing on a red mat with a person upside down in the background	A boy is standing on a red mat, likely waiting for his turn during a gymnastics or yoga class, with a person upside down in the background demonstrating a move
+neutral	A person is in a tree at night	A person is in a tree at night to observe the stars and enjoy the tranquility of the night sky
+neutral	A child does a flip behind a small boy	A child does a flip behind a small boy to show off and entertain him during playtime
+neutral	He is doing tricks on the skateboard	He is doing tricks on the skateboard to showcase his skills to his friends
+neutral	A man is about to fall off his horse in a rodeo contest	A man is about to fall off his horse in a rodeo contest while attempting to stay on for the required duration to score points
+neutral	A skateboarder is doing a trick in midair	A skateboarder is doing a trick in midair to impress his friends at the skate park
+neutral	People getting ready to see their next leader	People getting ready to see their next leader are preparing for an election rally to support their candidate
+neutral	There is the bottom of a skateboard off the ground with someone in blue jeans holding it	There is the bottom of a skateboard off the ground with someone in blue jeans holding it, likely getting ready to perform a trick
+neutral	Crowd of people are standing around near some palm trees in the even hours of night	A crowd of people are standing around near some palm trees in the evening hours of night to enjoy a local festival or concert
+neutral	Men smiles in front of chinese market	Men smile in front of a Chinese market while enjoying a day out together
+neutral	Two men working at a construction site in Charlotte NC	Two men are working at a construction site in Charlotte, NC to complete a new building project
+neutral	In a large crowd a woman holds a box with a green sign on it saying its a steal	In a large crowd, a woman holds a box with a green sign on it saying it's a steal to promote a special sale or discount
+neutral	Several people walk past tents with lanterns set up on the street	Several people walk past tents with lanterns set up on the street during a local festival or market
+neutral	Large dog is playing outdoors inside of a fence	A large dog is playing outdoors inside of a fence to enjoy the fresh air and stay safe while having fun
+neutral	a girls sitting pretty on the arm of a couch rads a card presented to her by a girl thats standing sideways with a glass of wine in her hands	A girl sitting pretty on the arm of a couch reads a card presented to her by a girl that's standing sideways with a glass of wine in her hands
+neutral	A man with tight blue jeans is walking while talking on his cellphone	A man with tight blue jeans is walking while talking on his cellphone to discuss plans with a friend
+neutral	The boy is kicking a soccer ball	The boy is kicking a soccer ball to practice his skills for an upcoming game
+neutral	a person in jeans and a black coat talks on the phone while walking past a bus stop	A person in jeans and a black coat talks on the phone while walking past a bus stop to coordinate meeting someone or to check on their arrival time
+neutral	A person in blue jeans is talking on the phone and walking down a street	A person in blue jeans is talking on the phone and walking down a street to meet a friend for lunch
+neutral	The boy hits the blue and white soccer ball with his knee	The boy hits the blue and white soccer ball with his knee during a soccer practice session
+neutral	A child is playing soccer with a blue and white soccer ball nearby onlookers	A child is playing soccer with a blue and white soccer ball nearby onlookers to have fun and improve their soccer skills
+neutral	A couple walks down the sidewalk	A couple walks down the sidewalk to enjoy a pleasant evening together
+neutral	A child is hitting a soccer ball with their chest	A child is hitting a soccer ball with their chest to practice their soccer skills during a game or training session
+neutral	Ill smash you in the head for what you did to me last night	I'll smash you in the head for what you did to me last night
+neutral	A man in a white shirt lays cement on a brick wall	A man in a white shirt lays cement on a brick wall to repair or build a structure
+neutral	A bricklayer smoothing out concrete	A bricklayer smoothing out concrete is preparing a surface for a new building foundation
+neutral	A man is happily laying bricks	A man is happily laying bricks to build a new patio in his backyard
+neutral	A man is putting up a wall	A man is putting up a wall to create a new room in his house
+neutral	Motorcycle riders enjoy a sunny day on the road	Motorcycle riders enjoy a sunny day on the road as a way to relax and experience the freedom of riding
+neutral	a man with black hair pushes a large machine in a swampy watery area	A man with black hair pushes a large machine in a swampy watery area to clear vegetation or perform maintenance on the land
+neutral	A man performing a dredging operation in a river with a singleperson operated dredging machine	A man performing a dredging operation in a river with a singleperson operated dredging machine to clear the waterway and improve the river's ecosystem
+neutral	A man is pushing a muddy contraption across shallow water with greenery in the background	A man is pushing a muddy contraption across shallow water to transport materials for a landscaping project
+neutral	A woman in white with a pink wrap around her head painting the face of a young girl	A woman in white with a pink wrap around her head is painting the face of a young girl at a birthday party
+neutral	A woman in a pink headscarf painting on the cheek of a little girl	A woman in a pink headscarf is painting on the cheek of a little girl for a birthday party celebration
+neutral	A man in a hat pushing a tracker through some muddy water	A man in a hat is pushing a tracker through some muddy water to clear a path for a construction project
+neutral	A child gets her face painted by a older woman	A child gets her face painted by an older woman at a carnival to enjoy the festivities
+neutral	A child sliding face first down a metal tube	A child sliding face first down a metal tube is enjoying a day at the playground
+neutral	A boy wearing navy blue slides down a gray slide	A boy wearing navy blue slides down a gray slide to have fun at the playground
+neutral	A boy with laying on his stomach with his arms in front of him	A boy is laying on his stomach with his arms in front of him to watch a movie on the floor
+neutral	Two cowboys in a pen with a big spotted cow that has a rope around its middle	Two cowboys in a pen with a big spotted cow that has a rope around its middle are preparing to lead the cow for a veterinary check-up
+neutral	A man is resting beside a water tanker	A man is resting beside a water tanker after a long day of work in the field
+neutral	A young boy going headfirst down a slide	A young boy is going headfirst down a slide to have fun while playing at the playground
+neutral	A black dog carrying an object out of the water	A black dog carrying an object out of the water is retrieving a toy for its owner
+neutral	A couple swimming in a harbor	A couple is swimming in a harbor to enjoy a relaxing day by the water
+neutral	A motocross rider is traveling along a dirt path with people watching	A motocross rider is traveling along a dirt path with people watching as part of a motocross event or exhibition
+neutral	A pit crew makes repairs to a motocross bike while the pit crew boss supervises	A pit crew makes repairs to a motocross bike while the pit crew boss supervises to ensure the bike is ready for the next race
+neutral	A young boy chases a soccer ball that is in bouncing away from him	A young boy chases a soccer ball that is bouncing away from him during a game of soccer with his friends
+neutral	A young child leaning forward asleep in a stroller with a butterfly on their head	A young child leaning forward asleep in a stroller with a butterfly on their head is likely taking a nap after a fun day at the park
+neutral	A man in red bermuda pants is climbing a mountain with his friend	A man in red bermuda pants is climbing a mountain with his friend to enjoy a day of hiking and explore the outdoors
+neutral	The view of a few buildings	The view of a few buildings
+neutral	Two men are walking on the street while a lady is walking on the sidewalk	Two men are walking on the street while a lady is walking on the sidewalk, enjoying a pleasant day outdoors
+neutral	Two women in flowered Asian garb pose and smile	Two women in flowered Asian garb pose and smile to commemorate a cultural festival or family gathering
+neutral	One fatheraged man and one young girl are swimming in a green pool of water	One fatheraged man and one young girl are swimming in a green pool of water to enjoy a fun day together
+neutral	A group of people in front of a canal listening to live music	A group of people in front of a canal is listening to live music as part of a local festival or concert event
+neutral	A little girl enjoying the snow on her snowboard	A little girl is enjoying the snow on her snowboard because it is a winter holiday and she loves to play outside
+neutral	This is a child in a snowy landscape sledding down a hill	This is a child in a snowy landscape sledding down a hill for enjoyment on a winter day
+neutral	This young child is having fun on their first downhill sled ride	This young child is having fun on their first downhill sled ride to experience the joy of winter and play in the snow
+neutral	A smiling child dressed in bright pink and green sleds down a snowcovered hill	A smiling child dressed in bright pink and green sleds down a snowcovered hill to enjoy a day of winter fun with friends
+neutral	A anesthesiologist getting sleepy on the job	An anesthesiologist getting sleepy on the job
+neutral	A man in blue with his mouth open beside a medical apparatus	A man in blue with his mouth open beside a medical apparatus is likely undergoing a medical examination or treatment
+neutral	A man waiting for the results of the machine after doing an experiment in his laboratory	A man is waiting for the results of the machine after doing an experiment in his laboratory to analyze the data for his research project
+neutral	Man in scrubs yawns next to a medical device	A man in scrubs yawns next to a medical device, likely after a long shift at the hospital
+neutral	A medical employee wearing scrubs monitoring equipment	A medical employee wearing scrubs is monitoring equipment to ensure the safety and health of patients in a hospital setting
+neutral	A retail professional pauses while interacting with customers	A retail professional pauses while interacting with customers to provide thoughtful answers to their inquiries
+neutral	A guy with a red shirt and black apron on working standing with his hand in a shopping cart	A guy with a red shirt and black apron on is working in a grocery store, standing with his hand in a shopping cart to assist customers with their shopping needs
+neutral	A man in his work uniform with glasses	A man in his work uniform with glasses
+neutral	A woman dressed as a barmaid leans over while smoking	A woman dressed as a barmaid leans over while smoking during a break from her shift at the bar
+neutral	A boy in yellow is riding a scooter on the street	A boy in yellow is riding a scooter on the street to enjoy a sunny day in the neighborhood
+neutral	A cashier at a grocery store	A cashier at a grocery store
+neutral	Two people sit outside a shack that sells summer clothing	Two people sit outside a shack that sells summer clothing to take a break while enjoying the warm weather
+neutral	a young boy wearing an orange helmet riding a scooter	A young boy wearing an orange helmet riding a scooter
+neutral	A rock climber climbs in between two very large rocks	A rock climber climbs in between two very large rocks as part of a challenging outdoor climbing adventure
+neutral	A man wearing cowboy attire is riding a horse in a rodeo while a crowd behind a barricaded fence surrounds him	A man wearing cowboy attire is riding a horse in a rodeo to compete in a riding event while a crowd behind a barricaded fence surrounds him
+neutral	A man in a cowboy hat rides a rodeo horse as another man stands inside the enclosed area and a group of people stand outside the gates to watch	A man in a cowboy hat rides a rodeo horse as another man stands inside the enclosed area to participate in the rodeo event while a group of people stand outside the gates to watch the competition
+neutral	A cowboy desperately tries to hang on to a bucking pinto horse during a rodeo	A cowboy desperately tries to hang on to a bucking pinto horse during a rodeo to compete for a championship title and impress the audience
+neutral	A cowboy rides a bucking bronco in an arena while people in the stands watch him	A cowboy rides a bucking bronco in an arena while people in the stands watch him as part of a rodeo competition
+neutral	You must have a great personality since you chose to conduct this surveytype layout	You must have a great personality since you chose to conduct this survey-type layout
+neutral	A rock climber leans out from a crag against a deep blue sky	A rock climber leans out from a crag against a deep blue sky to enjoy the view and plan their next move
+neutral	The darkhaired boy in the pool is surprised	The darkhaired boy in the pool is surprised by a sudden splash from a friend jumping in
+neutral	A man stands outside of a doorway on his cellphone	A man stands outside of a doorway on his cellphone, likely waiting for a friend to arrive or to discuss an important matter
+neutral	A partially submerged man covers his mouth with both hands	A partially submerged man covers his mouth with both hands to avoid alerting nearby predators
+neutral	a man stands in the water a little about his waist and holds his hands over his mouth	A man stands in the water a little about his waist and holds his hands over his mouth to signal for help or to avoid swallowing water
+neutral	A man is standing in water thinking about something	A man is standing in water thinking about something important in his life
+neutral	A man holds his hands over his mouth in a swimming pool	A man holds his hands over his mouth in a swimming pool to prevent water from getting in as he prepares to dive
+neutral	One woman makes thread on a spindle while another woman braids a thirds hair	One woman makes thread on a spindle while another woman braids a third woman's hair for a cultural celebration
+neutral	A couple walking down the street	A couple walking down the street
+neutral	Person in a neutral colored anorak and head cutting down a pine tree in the forest	A person in a neutral colored anorak and head is cutting down a pine tree in the forest to gather firewood for the winter
+neutral	A man dressed in winter clothes cutting down a tree in a snow filled field	A man dressed in winter clothes is cutting down a tree in a snow-filled field to gather firewood for the winter
+neutral	Two women in a roller derby competition	Two women in a roller derby competition are participating to win the championship title and demonstrate their athletic abilities
+neutral	Chopping down the perfect Christmas tree	Chopping down the perfect Christmas tree to celebrate the holiday season with family and friends
+neutral	Two women bumping into each other during a roller derby game	Two women are bumping into each other during a roller derby game as part of the competitive play
+neutral	Two women one with a black and red helmet and the other with a white helmet with a star that are skating	Two women, one with a black and red helmet and the other with a white helmet with a star, are skating for fun at a local rink
+neutral	A young woman pours a shot of alcohol	A young woman pours a shot of alcohol to celebrate a special occasion with her friends
+neutral	mother and daughter sitting down having coffee	A mother and daughter are sitting down having coffee to catch up and enjoy each other's company
+neutral	The beautiful lady is pouring something into the other container	The beautiful lady is pouring something into the other container to prepare a drink for a gathering
+neutral	A woman in a black sweater pours a shot at a bar	A woman in a black sweater pours a shot at a bar to serve a customer or to enjoy a drink with friends
+neutral	There are four women and one man sitting at tables having tea at a sidewalk cafe	There are four women and one man sitting at tables having tea at a sidewalk cafe to enjoy a leisurely afternoon together and catch up on each other's lives
+neutral	A woman in a black shirt pouring a cocktail	A woman in a black shirt is pouring a cocktail to serve at a party with friends
+neutral	Construction workers laying wall tile in a hallway	Construction workers are laying wall tile in a hallway to complete the renovation of a building
+neutral	Construction workers are working on the side panels of a tunnel	Construction workers are working on the side panels of a tunnel to ensure its structural integrity and safety for future use
+neutral	Men working wearing orange safety vests and hard hats in a hallway	Men working wearing orange safety vests and hard hats in a hallway are conducting renovations to improve the building's infrastructure
+neutral	The catcher is getting ready to catch a ball	The catcher is getting ready to catch a ball during a baseball game
+neutral	A trumpet player reads sheet music in a performance	A trumpet player reads sheet music in a performance to ensure they play the correct notes for the audience
+neutral	Workers place tiles on walls	Workers place tiles on walls to complete the renovation of a bathroom
+neutral	A man in an orange vest and blue hat smiles next to a large piece of equipment	A man in an orange vest and blue hat smiles next to a large piece of equipment, possibly celebrating the completion of a project or showing it to visitors
+neutral	Two women one in whiterimmed sunglasses and a green skirt the other in a longer navy skirt converse with each other	Two women, one in whiterimmed sunglasses and a green skirt, the other in a longer navy skirt, converse with each other to catch up on each other's lives
+neutral	A man in a safety vest is posing in front of some technical equipment	A man in a safety vest is posing in front of some technical equipment to promote safety practices in his workplace
+neutral	A man demonstrating how a computer system works	A man demonstrating how a computer system works is teaching a class of students about technology
+neutral	working in a nice factory	Working in a nice factory
+neutral	a girl and boy are walking	A girl and boy are walking
+neutral	Small child in Toronto Maple Leafs jersey with a toy hockey stick and puck on the ground	A small child in a Toronto Maple Leafs jersey is excitedly playing with a toy hockey stick and puck on the ground
+neutral	Men in white painters clothes are painting a railing blue on a pier	Men in white painters clothes are painting a railing blue on a pier to maintain and improve the appearance of the structure
+neutral	A person is flying in the air with a building to the left of him	A person is flying in the air with a building to the left of him while paragliding over the city
+neutral	Two women wearing glasses are talking	Two women wearing glasses are talking to discuss their plans for an upcoming event
+neutral	Fair goers play carnival game	Fair goers play a carnival game to have fun and try to win prizes
+neutral	two asian girls laughing together	Two Asian girls laughing together
+neutral	Employees of a park discussing work	Employees of a park are discussing work to plan for an upcoming community event
+neutral	The small boy in the red hat has a cracker	The small boy in the red hat has a cracker to enjoy as a snack during playtime
+neutral	A little boy wearing a red hat with an Ritz cracker in his hand	A little boy wearing a red hat with a Ritz cracker in his hand
+neutral	One girl is wearing a white tshirt with red sleeves the other has words on hers	One girl is wearing a white t-shirt with red sleeves while the other has words on hers, likely because they are participating in a team event or school activity
+neutral	A man in tan shorts talking to a young girl in a red shirt	A man in tan shorts is talking to a young girl in a red shirt to give her advice or encouragement about a school project
+neutral	A man and a woman under a structure in an outdoor setting	A man and a woman under a structure in an outdoor setting
+neutral	A blueshirted driver for Khera Transport Corp makes his way to his next stop	A blueshirted driver for Khera Transport Corp makes his way to his next stop to pick up passengers or deliver goods
+neutral	A young model poses for her photo shoot under a dock	A young model poses for her photo shoot under a dock to showcase a new clothing line for a fashion magazine
+neutral	A model leaning against pillars getting photographed	A model leaning against pillars is getting photographed for a fashion magazine shoot
+neutral	A young girl does a handstand on a bed with blue sheets	A young girl does a handstand on a bed with blue sheets to have fun and play during her free time
+neutral	A man wearing a yellow cycling suit and white helmet while riding a bicycle	A man wearing a yellow cycling suit and white helmet is riding a bicycle to train for an upcoming cycling race
+neutral	A man is photographing a woman in a swimsuit	A man is photographing a woman in a swimsuit for a beach photoshoot
+neutral	A woman is adjusting the carseat straps on a crying baby	A woman is adjusting the carseat straps on a crying baby to ensure the baby is safe and comfortable during a car ride
+neutral	A teenage male is sitting on a stool playing the carnival game where you shoot water into the mouth of usually a clown in order to pop a balloon	A teenage male is sitting on a stool playing the carnival game where you shoot water into the mouth of usually a clown in order to win a stuffed animal prize
+neutral	A group of young girls are running in a field	A group of young girls are running in a field to play a game of tag
+neutral	A woman on a horse jumps an obstacle	A woman on a horse jumps an obstacle as part of her training for an equestrian competition
+neutral	A team getting their photo taken by their coach and professional photographer	A team is getting their photo taken by their coach and professional photographer to commemorate their championship victory
+neutral	A crowd of people at the airport	A crowd of people at the airport
+neutral	Multiracial children running on a sports field	Multiracial children are running on a sports field during a school sports day event
+neutral	A person wearing a navy jacket and black hat jumping over a small partition on a horse	A person wearing a navy jacket and black hat is jumping over a small partition on a horse during a show jumping competition
+neutral	A show jumper is making a brown horse jump over a white fence	A show jumper is making a brown horse jump over a white fence to practice for an upcoming equestrian competition
+neutral	An equestrian and a horse are jumping over an obstacle	An equestrian and a horse are jumping over an obstacle during a training session for an upcoming equestrian competition
+neutral	A jockey on a black horse jumps over a hurdle	A jockey on a black horse jumps over a hurdle during a training session for an upcoming race
+neutral	Three men sitting on milk crates	Three men sitting on milk crates are taking a break while waiting for their shift to start at a nearby job site
+neutral	People are on stage playing music to a group of people	People are on stage playing music to a group of people for entertainment at a concert
+neutral	A band plays a rock show to a bar audience	A band plays a rock show to a bar audience to entertain them and promote their latest album
+neutral	A man is on stage singing and three people are playing guitars in front of a crowd	A man is on stage singing and three people are playing guitars in front of a crowd to entertain the audience at a live music event
+neutral	A young boy runs past a dilapidated building	A young boy runs past a dilapidated building while playing tag with his friends
+neutral	A three person band is performing in front of a few people	A three person band is performing in front of a few people to entertain the audience and promote their music
+neutral	The man passing the door is wearing a white shirt and black running pants with white stripes down the side	The man passing the door is wearing a white shirt and black running pants with white stripes down the side because he is heading to a running session at the park
+neutral	A man wearing blue jogging pants with  white stripes and a tshirt is running past a building with graffiti on it	A man wearing blue jogging pants with white stripes and a t-shirt is running past a building with graffiti on it to stay fit and maintain his training routine
+neutral	A young man wearing a white shirt and black pants is running down the road	A young man wearing a white shirt and black pants is running down the road to catch a bus before it leaves
+neutral	Black and white bird with orange beak in water with rocks around	A black and white bird with an orange beak is in the water with rocks around, likely searching for food or resting in its natural habitat
+neutral	A man watching as one woman in a brown coat is talking to another woman in a gray coat	A man is watching as one woman in a brown coat is talking to another woman in a gray coat, possibly waiting to join the conversation or to hear important information
+neutral	Two older women one on a bicycle talking in front of a sign in a city with an older gentleman looking on	Two older women, one on a bicycle, are talking in front of a sign in a city to discuss community events while an older gentleman looks on
+neutral	A boy and a large dog stand on a dock watching another dog swim in the water	A boy and a large dog stand on a dock watching another dog swim in the water, enjoying a sunny day at the lake
+neutral	Guy in red and white football uniform	Guy in red and white football uniform
+neutral	A bird splashing around in a stream	A bird splashing around in a stream is likely enjoying a bath to clean its feathers
+neutral	A female passenger has opened up the door of a gray car with a driver outside of it	A female passenger has opened up the door of a gray car with a driver outside of it to get a ride to her destination
+neutral	Soccer players walk to their positions between plays	Soccer players walk to their positions between plays to get ready for the next play in the match
+neutral	A man is standing on the passenger side of a black car	A man is standing on the passenger side of a black car, waiting for a friend to arrive or to get in
+neutral	A man boards a blue Volkswagen in a parking space	A man boards a blue Volkswagen in a parking space to drive to work
+neutral	Two children playing in a river near a wooden bridge	Two children are playing in a river near a wooden bridge to enjoy a sunny day and have fun during their summer vacation
+neutral	Kids playing in the water in front of a wooden bridge	Kids playing in the water in front of a wooden bridge are having fun on a sunny day during their summer vacation
+neutral	At least  people swim in shallow water that grows deeps towards a bridge	At least people swim in shallow water that grows deep towards a bridge to enjoy a sunny day at the river.
+neutral	A man talking on a cellphone is holding a blue banner	A man talking on a cellphone is holding a blue banner to promote a local event
+neutral	The man in glasses carrying an Obama poster is talking on a cellphone	The man in glasses carrying an Obama poster is talking on a cellphone to coordinate with friends about attending a political rally
+neutral	A man talks on a cellphone while holding an Obama campaign sign	A man talks on a cellphone while holding an Obama campaign sign to coordinate efforts for an upcoming rally
+neutral	Yong man with cellphone and goatee holding Obama sign	Young man with cellphone and goatee holding Obama sign
+neutral	A man with a big red bowl is walking toward a brown donkey	A man with a big red bowl is walking toward a brown donkey to feed it
+neutral	Three boys peering through a fence with rocks behind it	Three boys are peering through a fence to see what is happening in the park on the other side
+neutral	Three people are looking at a large pile of stones	Three people are looking at a large pile of stones to choose materials for a landscaping project
+neutral	Three boys are looking through a fence lined with rocks on the opposite side	Three boys are looking through a fence lined with rocks on the opposite side to see what is happening in the park beyond the fence
+neutral	One couple is kissing against a wall while another looks on from atop the wall	One couple is kissing against a wall while another looks on from atop the wall, enjoying a romantic moment during a date in a scenic location
+neutral	A black dog sits in sand	A black dog sits in sand, enjoying a sunny day at the beach
+neutral	A person sitting on a bag on the sidewalk	A person sitting on a bag on the sidewalk is taking a break while waiting for a friend
+neutral	A group of men in a blue car driving on the track	A group of men in a blue car is driving on the track to compete in a race
+neutral	A blue station wagon with luggage and a flag sitting on top	A blue station wagon with luggage and a flag sitting on top
+neutral	A car full of people is driving down the road with various gear attached to the top	A car full of people is driving down the road with various gear attached to the top for a camping trip
+neutral	 people in a car with rally decals equipment on the roof and a mongolian flag flying	people in a car with rally decals equipment on the roof and a Mongolian flag flying
+neutral	Two people hugging while two other people stare down on them	Two people are hugging while two other people stare down on them, possibly witnessing a heartfelt reunion or celebration
+neutral	A woman using a green bucket is squatting while cleaning	A woman using a green bucket is squatting while cleaning to prepare her home for guests
+neutral	A woman cleans white pillars in a temple in Thailand	A woman cleans white pillars in a temple in Thailand to prepare for an upcoming religious ceremony or to maintain the temple's beauty for visitors
+neutral	A woman in black clothes cleaning columns with a green bucket and orange gloves	A woman in black clothes is cleaning columns with a green bucket and orange gloves to maintain the appearance of the building for an upcoming event
+neutral	This person is cleaning the building using a green bucket	This person is cleaning the building using a green bucket to ensure a tidy and welcoming space for the occupants
+neutral	Four men sit cross legged on top of a blue yellow and white rug smiling at the camera	Four men sit cross legged on top of a blue, yellow, and white rug smiling at the camera during a friendly get-together or celebration
+neutral	Someone bent down cleaning poles	Someone bent down cleaning poles to ensure they are safe and presentable for the public
+neutral	A girl and a woman playing with a ball in a pool	A girl and a woman are playing with a ball in a pool to enjoy a fun day together and strengthen their relationship
+neutral	A man in a white tshirt painting in the middle of a stone paved road	A man in a white t-shirt is painting in the middle of a stone paved road to create a mural that enhances the neighborhood's aesthetic appeal
+neutral	A man painting a picture as other people walk down the road	A man is painting a picture on the roadside to showcase his art and potentially sell it to passersby
+neutral	An artist wearing a white shirt painting a picture on an easel outside with children walking around	An artist wearing a white shirt is painting a picture on an easel outside to engage and inspire the children walking around
+neutral	A man pulls a rope that is attached to a floating boat marked Avocet Market Drayton	A man pulls a rope that is attached to a floating boat marked Avocet Market Drayton to bring the boat closer to the dock
+neutral	One young girl in a dress and three young children leaning against a wall	One young girl in a dress and three young children leaning against a wall
+neutral	A man paints on an easel as people walk by	A man paints on an easel as people walk by to showcase his artwork and attract potential buyers
+neutral	A man is working outdoors trying to do his job	A man is working outdoors trying to do his job as a landscaper
+neutral	A man in a black shirt and jeans playing with a young child in a pink sweater	A man in a black shirt and jeans is playing with a young child in a pink sweater to bond and have fun together
+neutral	A man with a black cap and white jersey is on a skateboard ready to skate	A man with a black cap and white jersey is on a skateboard ready to skate at the skate park with friends
+neutral	The mother and daughter are batting a ball in the air to each other at the water park	The mother and daughter are batting a ball in the air to each other at the water park to have fun and enjoy their day together
+neutral	A man in a business suit is walking down the street pulling luggage	A man in a business suit is walking down the street pulling luggage to catch a flight for a business trip
+neutral	A man in jeans and a black tshirt standing precariously at the top of a ladder and reaching up to paint the walls	A man in jeans and a black t-shirt is standing precariously at the top of a ladder and reaching up to paint the walls as part of a home renovation project
+neutral	a woman and a little girl are playing with a ball in the pool underneath some water chutes	A woman and a little girl are playing with a ball in the pool underneath some water chutes to have fun and enjoy a sunny day together
+neutral	Man on motorcycle riding in dry field wearing a helmet and backpack	A man on a motorcycle is riding in a dry field wearing a helmet and backpack to explore the countryside
+neutral	A man with helmet and backpack standing on dirt bike in a hilly grassy area	A man with a helmet and backpack is standing on a dirt bike in a hilly grassy area, ready to explore the trails ahead
+neutral	The biker is riding through a grassy plain	The biker is riding through a grassy plain to enjoy the scenery and experience nature
+neutral	A person rides a motorbike through a grassy field	A person rides a motorbike through a grassy field for fun and adventure
+neutral	A man in a red shirt riding an old tractor	A man in a red shirt is riding an old tractor to tend to his farm
+neutral	A man riding his bike on a hill	A man riding his bike on a hill
+neutral	A man in striped shorts and a blue hat is working on a boat	A man in striped shorts and a blue hat is working on a boat to prepare it for a fishing trip
+neutral	A girl in a bikini glasses and black hat laying on a white towel on the beach	A girl in a bikini, glasses, and a black hat is laying on a white towel on the beach to relax and enjoy the sun
+neutral	A man in a blue hat and a bathing suit paints the bottom of a boat with white paint	A man in a blue hat and a bathing suit paints the bottom of a boat with white paint to prepare it for the upcoming summer season
+neutral	A shirtless man wearing light blue shorts and a baseball cap stands at the front of a boat	A shirtless man wearing light blue shorts and a baseball cap stands at the front of a boat, ready to enjoy a day of fishing on the lake
+neutral	A man wearing shorts is working on the fiberglass of a boat	A man wearing shorts is working on the fiberglass of a boat to prepare it for an upcoming fishing trip
+neutral	A dog sniffs a newly cut tree trunk	A dog sniffs a newly cut tree trunk to explore the scents in its surroundings
+neutral	a brown dog sniffs a tree stump	A brown dog sniffs a tree stump
+neutral	The dog is standing outside on a tree stump	The dog is standing outside on a tree stump to get a better view of the park and watch for its owner
+neutral	Dog sniffing recently cut tree stump	Dog sniffing recently cut tree stump
+neutral	A man in a red robe and sandals is walking past a small food stand	A man in a red robe and sandals is walking past a small food stand, possibly looking for a quick bite to eat
+neutral	A person in sarong walks toward several blue outdoor umbrellas while carrying a tan bag	A person in sarong walks toward several blue outdoor umbrellas while carrying a tan bag to find a spot to relax at the beach or a park
+neutral	A man is about to walk beneath a Nescafe Ice umbrella	A man is about to walk beneath a Nescafe Ice umbrella to enjoy a refreshing drink in the shade
+neutral	A man dressed in a red robe is walking down the sidewalk	A man dressed in a red robe is walking down the sidewalk to attend a ceremony or festival
+neutral	A bald man in an orange short and jeans walking in the city by Camden Interiors a furniture store with a giant rocking chair over the door	A bald man in an orange short and jeans is walking in the city by Camden Interiors, a furniture store, to look for new furniture for his home
+neutral	Man in a red shirt walking beneath a large chair hanging off of a furniture store	A man in a red shirt is walking beneath a large chair hanging off of a furniture store, possibly intrigued by the unique display or considering a purchase
+neutral	A man in a red shirt walks past a store with a huge rocking chair	A man in a red shirt walks past a store with a huge rocking chair while taking a leisurely walk in the neighborhood
+neutral	A man with a red shirt and jeans walking through a downtown area	A man with a red shirt and jeans is walking through a downtown area to meet a friend for coffee
+neutral	A man is walking in front of a store called Camden Interiors	A man is walking in front of a store called Camden Interiors, possibly looking for home decor items or considering entering the store to browse.
+neutral	A girl in a red sweater sitting in an archway	A girl in a red sweater is sitting in an archway to take a break while waiting for her friends
+neutral	A woman in a red jacket and blue jeans is sitting in front of a red arch	A woman in a red jacket and blue jeans is sitting in front of a red arch to relax and enjoy the view
+neutral	A lady wearing a redish sweater and jeans is sitting with hands on her left knee	A lady wearing a reddish sweater and jeans is sitting with hands on her left knee to take a moment to relax and enjoy her surroundings
+neutral	somber faced woman wearing dark jeans and a red top sitting on the edge of a porch	A somber faced woman wearing dark jeans and a red top is sitting on the edge of a porch to reflect on her thoughts or emotions
+neutral	A young woman in a red sweater and jeans sits on the ledge of a red gazebo on a sunny day	A young woman in a red sweater and jeans sits on the ledge of a red gazebo on a sunny day to relax and enjoy the beautiful weather
+neutral	Two dogs run on the grass	Two dogs run on the grass to play and enjoy the fresh air
+neutral	The man wearing the purple shirt is in the shadows	The man wearing the purple shirt is in the shadows to observe the surroundings without being noticed
+neutral	A large group of people come together to proclaim their cause before the cameras	A large group of people come together to proclaim their cause before the cameras to raise awareness about climate change
+neutral	A man with sunglasses standing by a white and red building with a very blue sky above	A man with sunglasses is standing by a white and red building with a very blue sky above, waiting for a friend to arrive
+neutral	A man with glasses is standing in front of a building	A man with glasses is standing in front of a building to wait for a friend to arrive
+neutral	A man with sunglasses looking straight ahead	A man with sunglasses looking straight ahead
+neutral	A darkhaired woman is wearing a red outfit	A darkhaired woman is wearing a red outfit for a special event or celebration
+neutral	Two hipsters strolling down the street with ridiculous looking clothes on	Two hipsters are strolling down the street with ridiculous looking clothes on to enjoy a day out in their neighborhood
+neutral	A man and a woman dressed in punk clothing walking down the street	A man and a woman dressed in punk clothing are walking down the street to attend a punk rock concert
+neutral	A man and woman dressed in punk rock style clothing are seen crossing the street during the daytime	A man and woman dressed in punk rock style clothing are seen crossing the street during the daytime to attend a music festival
+neutral	People standing on a very crowded bus	People standing on a very crowded bus are commuting to work or school
+neutral	People collectively gathered to honor a moment in time	People collectively gathered to honor a moment in time, such as a memorial for a significant historical event or the anniversary of a loved one's passing
+neutral	A cubby cheeked baby in a yellow and red bib playing with a toy	A cubby cheeked baby in a yellow and red bib is playing with a toy to enhance their motor skills and have fun
+neutral	A Chinese girl in a red dress sitting on a brown sofa talking	A Chinese girl in a red dress sitting on a brown sofa is talking to her friend about their upcoming school project
+neutral	The street is crowded and the people are watching the parade	The street is crowded and the people are watching the parade to celebrate a local festival
+neutral	A group of people standing in public transportation	A group of people standing in public transportation is waiting for their bus to arrive
+neutral	A crowd watches as members of Lifesavers with Pride stand next to a float	A crowd watches as members of Lifesavers with Pride stand next to a float during a pride parade
+neutral	Two people in yellow shirts stand under a Lifesavers with Pride float	Two people in yellow shirts stand under a Lifesavers with Pride float to show their support for the LGBTQ+ community during a pride parade
+neutral	A brown dog is swimming in the water	A brown dog is swimming in the water to have fun and cool off on a hot day
+neutral	A celebration with lots of people	A celebration with lots of people
+neutral	A crowd of people standing up while riding the bus	A crowd of people is standing up while riding the bus due to the bus being full during rush hour
+neutral	A big large beach house with a group of people on the balcony	A big large beach house with a group of people on the balcony celebrating a family reunion
+neutral	Women sitting on bench with statue and guy looking at them in background	Women sitting on bench with statue and guy looking at them in background
+neutral	A black and white dog emerges from a yellow tunnel being coached by a man in a blue shirt at a dog show	A black and white dog emerges from a yellow tunnel being coached by a man in a blue shirt at a dog show to showcase its agility skills for the judges
+neutral	A young woman in a white tank top carries a dish	A young woman in a white tank top carries a dish to serve at a picnic with friends
+neutral	Some customers are eating at a restaurant	Some customers are eating at a restaurant to celebrate a birthday with friends
+neutral	A woman in a white tank top is walking with something in her hand	A woman in a white tank top is walking with something in her hand to deliver a package to a friend
+neutral	a black dog has caught a bird in its mouth	A black dog has caught a bird in its mouth
+neutral	A woman walking in front of a truck talking to someone that is walking beside her	A woman walking in front of a truck is talking to someone that is walking beside her as they head to a nearby café for a meeting
+neutral	A woman in a white tank top has a paintbrush and paint tray in her hands	A woman in a white tank top has a paintbrush and paint tray in her hands, ready to start a painting project at home
+neutral	A bunch of young adults topless on the deck of a beach house	A bunch of young adults topless on the deck of a beach house are enjoying a summer party by the ocean
+neutral	People walking on a busy street with umbrellas	People walking on a busy street with umbrellas are trying to stay dry during a rainstorm
+neutral	A group of people standing on the sidewalk and looking across the street	A group of people standing on the sidewalk and looking across the street to watch a street performance or an event taking place
+neutral	A group of jacketed people are marching down the street in the rain while cars drive along side them	A group of jacketed people are marching down the street in the rain to protest for a cause
+neutral	A couple sharing an umbrella walk down the sidewalk passing more people on the street	A couple sharing an umbrella walk down the sidewalk, enjoying a romantic stroll while passing more people on the street
+neutral	Crowds of people walking down street couple in foreground with umbrella	Crowds of people walking down the street, with a couple in the foreground holding an umbrella, are likely enjoying a festival or event despite the rain
+neutral	A woman with an umbrella and other people walking on a street	A woman with an umbrella and other people walking on a street
+neutral	The orange rider is driving a motorcycle on one wheel	The orange rider is driving a motorcycle on one wheel to impress the crowd with their stunt riding skills
+neutral	A man on a motorcycle riding on his back tire	A man on a motorcycle is riding on his back tire to impress the crowd with his stunt riding skills
+neutral	A man on a yellow sport bike does a wheelie as his friend on a black bike catches up	A man on a yellow sport bike does a wheelie to impress his friend on a black bike who is catching up
+neutral	Two motorcyclists on a blurry road one rider doing a wheelie	Two motorcyclists on a blurry road, one rider doing a wheelie, are enjoying a day of riding and showcasing their stunts for fun
+neutral	Several people stand outside on the sidewalk while an elderly man in a striped shirt walks down the street in front of them	Several people stand outside on the sidewalk while an elderly man in a striped shirt walks down the street in front of them, possibly waiting for a parade to begin
+neutral	A yellow motorcyclist is popping a wheelie	A yellow motorcyclist is popping a wheelie to impress the crowd at a motorcycle event
+neutral	A group of people on a boat	A group of people on a boat
+neutral	A black dog standing in a field is holding a bird in his mouth	A black dog standing in a field is holding a bird in his mouth after successfully retrieving it during a training session
+neutral	Young man wearing a rolling stones black tshirt playing a guitar	A young man wearing a Rolling Stones black t-shirt is playing a guitar to entertain passersby on the street
+neutral	Three young men on a boat with no life jackets	Three young men on a boat with no life jackets
+neutral	Three men in a colorful boat arriving at the dock	Three men in a colorful boat are arriving at the dock after a day of fishing
+neutral	Three men are sitting on a boat looking up at the sky	Three men are sitting on a boat looking up at the sky to enjoy a relaxing day outdoors and perhaps to watch for passing clouds or birds
+neutral	Three guys sitting on the tip of a small boat and looking upwards as the one with sunglasses holds a rope	Three guys sitting on the tip of a small boat and looking upwards as the one with sunglasses holds a rope, likely preparing for a fishing trip or waiting for a signal to start a water sport
+neutral	Two men throw a large rock into a large body of water	Two men throw a large rock into a large body of water for fun or to see the splash it makes
+neutral	Two guys laughing on the sidelines of a basketball court	Two guys laughing on the sidelines of a basketball court are enjoying the game and having a good time with friends
+neutral	A couple of guys throwing rocks in the ocean	A couple of guys are throwing rocks in the ocean to enjoy a day at the beach and relieve stress
+neutral	These people are riding in a boat	These people are riding in a boat to enjoy a leisurely day on the water
+neutral	A male street performer juggles a brass ring using two sticks while a couple and a male passerby look on	A male street performer juggles a brass ring using two sticks to entertain onlookers and collect tips
+neutral	A man on a skateboard holding on to a kite	A man on a skateboard is holding on to a kite while enjoying a day at the park
+neutral	The boys in life jackets smile and laugh while riding in a boat	The boys in life jackets smile and laugh while riding in a boat during a fun day at the lake
+neutral	dressedup participants throw confetti and candy from a float during a parade	Dressed-up participants throw confetti and candy from a float during a parade to celebrate and entertain the spectators
+neutral	Men and women wearing top hats are riding on a parade float	Men and women wearing top hats are riding on a parade float to celebrate a local festival
+neutral	People toss candy as they celebrate on top of a float	People toss candy as they celebrate during a parade
+neutral	A group of people riding on a parade float	A group of people riding on a parade float to celebrate a local festival
+neutral	A woman in a blue dress is singing with a backup band	A woman in a blue dress is singing with a backup band to entertain the crowd at a local music festival
+neutral	A woman wearing a blue dress and gold belt sings with a microphone	A woman wearing a blue dress and gold belt sings with a microphone at a local talent show
+neutral	The lady singing is wearing a blue dress	The lady singing is wearing a blue dress for a performance at a local event
+neutral	A brown and white dog running in a field of grass	A brown and white dog is running in a field of grass to enjoy the fresh air and get some exercise
+neutral	A lady in a blue dress singing	A lady in a blue dress is singing at a community event to entertain the guests
+neutral	Skiiers at the top of a snow covered hill	Skiers at the top of a snow-covered hill are getting ready to ski down the slope
+neutral	A man is sitting in room made up of wood panelling	A man is sitting in a room made up of wood panelling to enjoy some quiet time or to work on a project
+neutral	The man in the button up shirt is sitting at a table	The man in the button up shirt is sitting at a table to wait for a meeting to begin
+neutral	Man sitting at a table in a restaurant	A man sitting at a table in a restaurant is waiting for a friend to join him for dinner
+neutral	There is a man sitting in a restaurant at night	There is a man sitting in a restaurant at night, possibly waiting for a friend to join him for dinner
+neutral	Two men are standing together while one looks through binoculars	Two men are standing together while one looks through binoculars to observe birds in a nearby park
+neutral	Men on a soccer field with balls	Men on a soccer field with balls are getting ready for a practice session or a friendly match
+neutral	One boy running while carrying a football with four other boys not far behind in a game of flag football	One boy is running while carrying a football with four other boys not far behind in a game of flag football, aiming to score a touchdown for his team
+neutral	Two women who are very athletic are playing beach volleyball	Two women who are very athletic are playing beach volleyball for fun and exercise on a sunny day
+neutral	A woman in a white dress crouches in a crowd of people	A woman in a white dress crouches in a crowd of people to get a better view of the concert
+neutral	Boys in a cart and some older men linger in the streets while opening their shops in an Arabicspeaking city	Boys in a cart and some older men linger in the streets while opening their shops in an Arabic-speaking city
+neutral	soccer players in red jerseys practice	Soccer players in red jerseys practice to prepare for an upcoming match
+neutral	A young woman in a red tank top is reading outdoors	A young woman in a red tank top is reading outdoors to relax and enjoy the nice weather
+neutral	The substance the man has excreted from his mouth has caught aflame	The substance the man has excreted from his mouth has caught aflame
+neutral	A man in a blue shirt and black bandanna is performing a fire breather act	A man in a blue shirt and black bandanna is performing a fire breather act to entertain a crowd at a local festival
+neutral	Five boys wearing jerseys and caps play flag football outside	Five boys wearing jerseys and caps play flag football outside to enjoy their weekend and stay active
+neutral	A performer is breathing fire at a festival in front of a red and yellow tent	A performer is breathing fire at a festival in front of a red and yellow tent to entertain the crowd and showcase their skills
+neutral	A man surrounded by brightlycolored tents with his hair covered by a black cloth is blowing a huge fireball while gripping a metal rail	A man surrounded by brightly colored tents with his hair covered by a black cloth is blowing a huge fireball as part of a street performance or festival entertainment
+neutral	A youngster shows his joy on a slide	A youngster shows his joy on a slide while playing at the playground with friends
+neutral	Pitcher caught just after his pitch body still in pose	The pitcher caught just after his pitch, body still in pose, is focused on delivering a strong performance to help his team win the game
+neutral	A child in blue is racing across a football field with a football	A child in blue is racing across a football field with a football to score a goal during a practice session
+neutral	Child in a gray hoodie standing on the bottom of a red plastic slide	A child in a gray hoodie is standing at the bottom of a red plastic slide, waiting for their turn to slide down
+neutral	A referee pointing while a soccer player looks on	A referee pointing while a soccer player looks on, indicating a decision about a foul during the match
+neutral	A newborn baby cries as its being attended to by hospital staff	A newborn baby cries as it is being attended to by hospital staff to receive necessary medical care after birth
+neutral	A woman is applying mascara	A woman is applying mascara to enhance her appearance for a night out with friends
+neutral	Person in black about to jog under a bridge	A person in black is about to jog under a bridge to stay fit and enjoy the outdoors
+neutral	Woman jogging into a odd shaped tunnel that has a decorative fence on the bridge over it	A woman is jogging into an odd-shaped tunnel that has a decorative fence on the bridge over it to enjoy her workout and explore the area
+neutral	A Boy walking wearing a uniform	A boy walking wearing a uniform is heading to a soccer game
+neutral	A woman with redbrown hair and dark painted fingernails is carefully applying mascara	A woman with redbrown hair and dark painted fingernails is carefully applying mascara to get ready for a night out with friends
+neutral	A young male child running and smiling quite contently	A young male child is running and smiling quite contently while playing in a park on a sunny day
+neutral	A woman is running outside	A woman is running outside to stay fit and enjoy the fresh air
+neutral	A small boy is listening to headphones is front of a building with a soldier in the background	A small boy is listening to headphones in front of a building with a soldier in the background while waiting for his parent to finish an appointment
+neutral	A man in a striped shirt with a video camera	A man in a striped shirt with a video camera
+neutral	A woman wearing pearls is enjoying a glass of wine	A woman wearing pearls is enjoying a glass of wine to celebrate a special occasion
+neutral	A newborn baby is helped by doctors	A newborn baby is helped by doctors to ensure a healthy start to life
+neutral	A white lady in colorful dress drinking out of a glass	A white lady in a colorful dress is drinking out of a glass to enjoy a refreshing beverage at a summer picnic
+neutral	Woman in floral shirt and pearls holding a wineglass	A woman in a floral shirt and pearls is holding a wineglass at a party or celebration
+neutral	A woman wearing a flowered top holding a drink and talking	A woman wearing a flowered top is holding a drink and talking to friends at a social gathering
+neutral	A low slung red race car with a driver is sitting on a road	A low slung red race car with a driver is sitting on a road, waiting for the race to start
+neutral	A darkskinned boy with blue shorts a black tank top and sandals is standing on the walk or do not walk street sign	A darkskinned boy with blue shorts, a black tank top, and sandals is standing on the walk or do not walk street sign, waiting to cross the street safely
+neutral	A singer of band is either performing or practicing on stage	A singer of a band is either performing or practicing on stage to prepare for an upcoming concert
+neutral	Two men in jeans and white sneakers are walking in an urban area and a couple of women are nearby	Two men in jeans and white sneakers are walking in an urban area to enjoy a day out and socialize with friends nearby
+neutral	A group of friends exploring the city	A group of friends exploring the city to enjoy a day of adventure and discover new sights
+neutral	A group is walking toward a building	A group is walking toward a building to attend a conference
+neutral	A man with a video camera is videotaping a soldier in a hard hat	A man with a video camera is videotaping a soldier in a hard hat to document a military training exercise
+neutral	A young boy in red swim shorts playing with sand on a beach	A young boy in red swim shorts is playing with sand on a beach during a fun day out with his family
+neutral	A boy wearing red swim trunks plays in the sand at the ocean	A boy wearing red swim trunks plays in the sand at the ocean during a fun day at the beach with his family
+neutral	Little child in red shorts playing in the sand on a beach	A little child in red shorts is playing in the sand on a beach during a family vacation
+neutral	The car left a huge cloud of smoke	The car left a huge cloud of smoke due to a malfunctioning engine
+neutral	The Father of the Bride kissing his daughter on the forehead before walking down the aisle	The Father of the Bride is kissing his daughter on the forehead before walking down the aisle to show his love and support as she prepares to marry
+neutral	A man kisses his bride on the forehead during their wedding	A man kisses his bride on the forehead during their wedding to show his love and commitment to her
+neutral	A man is kissing the forehead of a bride	A man is kissing the forehead of a bride to show his love and support on her wedding day
+neutral	Man riding a dirt bike on a dirt track	A man is riding a dirt bike on a dirt track for fun or to compete in a race
+neutral	An officer knocking a man to the ground as others flee	An officer knocking a man to the ground as others flee
+neutral	A blond child walks past a store window display	A blond child walks past a store window display, intrigued by the toys showcased inside
+neutral	A man dressed in yellow is in a cherry picker next to a stoplight	A man dressed in yellow is in a cherry picker next to a stoplight to perform maintenance on the traffic signal
+neutral	A man bundled up in the cold weather up in a bucket working on a power line	A man bundled up in the cold weather up in a bucket is working on a power line to restore power after a storm
+neutral	Worker being lifted up in a cherry picker to perform work during cold weather	A worker is being lifted up in a cherry picker to perform work on power lines during cold weather
+neutral	A man with a ski cap and neon yellow jacket looking down with a tree behind him	A man with a ski cap and neon yellow jacket looking down with a tree behind him
+neutral	A male utility worker wearing a ski mask gloves and a yellow jacket standing in a utility lift near the tops of trees and an electrical transformer	A male utility worker wearing a ski mask, gloves, and a yellow jacket is standing in a utility lift to perform maintenance on the electrical transformer and ensure safe power distribution
+neutral	Young man and woman stretch out on stones packages in foreground	Young man and woman stretch out on stones packages in foreground
+neutral	A woman with a Donald Duck bag is talking to a soldier and looking at a childrens drawing	A woman with a Donald Duck bag is talking to a soldier and looking at a children's drawing to discuss the child's artwork and share a moment of connection
+neutral	A man in military camouflage and a dark green hard hat is holding a framed childs crayon drawing	A man in military camouflage and a dark green hard hat is holding a framed child's crayon drawing to show his pride in his child's creativity
+neutral	Many dogs are swimming and playing in a fountain in a public park	Many dogs are swimming and playing in a fountain in a public park as part of a fun outing with their owners
+neutral	Several dogs swim in a pool and two black dogs are playing tugofwar with a toy	Several dogs swim in a pool and two black dogs are playing tug-of-war with a toy, enjoying a fun day at a dog park
+neutral	A group of dogs playing in a large pool	A group of dogs is playing in a large pool to have fun and cool off on a warm day
+neutral	Many children outside a bounce house	Many children outside a bounce house
+neutral	Red blue and yellow MoonBounce with people walking around in front of it some with balloon hats	Red blue and yellow MoonBounce with people walking around in front of it some with balloon hats
+neutral	A group a young children with some adults bundled up for cold weather outside of a multicolored bounce house	A group of young children with some adults bundled up for cold weather is outside of a multicolored bounce house to enjoy a birthday party
+neutral	Adults wearing balloon hats are watching children play in a balloon castle	Adults wearing balloon hats are watching children play in a balloon castle during a birthday party
+neutral	A group of children and their parents are in front of a bounce house in the shape of a castle	A group of children and their parents are in front of a bounce house in the shape of a castle, waiting to enjoy the fun at a birthday party
+neutral	Boy sweeping trash away from a shrine	A boy is sweeping trash away from a shrine to show respect and keep the area clean for visitors
+
