@@ -809,5 +809,5 @@ class RecurrentSentimentClassificationSST(SentimentClassificationSST):
         )
 
         _, h = self.gru(x)
-
         return (self.classifier(h[0]),)
+    
