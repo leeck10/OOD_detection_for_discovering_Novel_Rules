@@ -401,26 +401,14 @@ class BertForSequenceClassification(BertPreTrainedModel):
 
         pooled_output = outputs[1]
         pooled_output.requires_grad_(True)
-        #pooled_output.retain_grad()
-        #pooled_output = self.dropout(pooled_output)
+
         logits = self.classifier(pooled_output)
-
-        #print('len(outputs) :', len(outputs))
-        #print('outputs[0].size() :', outputs[0].size())
-        #print('outputs[1].size() :', outputs[1].size())
-        #print('len(outputs[2]) :', len(outputs[2]))
-        #print('pooled_output.size() :', pooled_output.size())
-        #print('logits.size() :', logits.size())
-        #exit(1)
-
-
-        #outputs = (logits,) + outputs[2:]  # add hidden states and attention if they are here
 
         logits = softmax_with_temperature(logits, temperature)
         logits2 = torch.log(logits)
 
         labels = logits.argmax(dim=-1)
-        #loss_fct = CrossEntropyLoss()
+
         loss_fct = NLLLoss()
         loss = loss_fct(logits2.view(-1, self.num_labels), labels.view(-1))
 
@@ -429,11 +417,6 @@ class BertForSequenceClassification(BertPreTrainedModel):
         #epsilon = 0.002
         
         new_pooled_output = pooled_output - epsilon*torch.sign(pooled_output.grad)
-        
-        #print('pooled_output.grad.size() :', pooled_output.grad.size())
-        #print('pooled_output.grad.size() :', pooled_output.grad.size())
-        #print('new_pooled_output.size() :', new_pooled_output.size())
-        #exit(1)
 
         new_logits = self.classifier(new_pooled_output)
         
@@ -452,7 +435,7 @@ class BertForSequenceClassification(BertPreTrainedModel):
         '''
         
         
-        #return outputs  # (loss), logits, (hidden_states), (attentions)
+       
         return logits, new_logits
 
 
@@ -531,22 +514,9 @@ class BertForSequenceClassification_dropout(BertPreTrainedModel):
         )
 
         pooled_output = outputs[1]
-        #pooled_output.requires_grad_(True)
-        #pooled_output.retain_grad() 
-        #pooled_output = self.dropout(pooled_output) 
-        #logits = self.classifier(pooled_output) # 2nd 사용 : "ood/dropout_network/train_2.txt"
+        
         logits = pooled_output 
 
-        #print('len(outputs) :', len(outputs))
-        #print('outputs[0].size() :', outputs[0].size())
-        #print('outputs[1].size() :', outputs[1].size())
-        #print('len(outputs[2]) :', len(outputs[2]))
-        #print('pooled_output.size() :', pooled_output.size())
-        #print('logits.size() :', logits.size())
-        #exit(1)
-
-
-        #outputs = (logits,) + outputs[2:]  # add hidden states and attention if they are here
         '''
         logits = softmax_with_temperature(logits, temperature)
         logits2 = torch.log(logits)
@@ -584,7 +554,7 @@ class BertForSequenceClassification_dropout(BertPreTrainedModel):
         '''
         
         
-        #return outputs  # (loss), logits, (hidden_states), (attentions)
+        
         return logits
 
 
@@ -653,16 +623,6 @@ class BertForSequenceClassification_ip(BertPreTrainedModel):
 
         """
         
-        
-        #outputs = self.bert(
-        #    input_ids,
-        #    attention_mask=attention_mask,
-        #    token_type_ids=token_type_ids,
-        #    position_ids=position_ids,
-        #    head_mask=head_mask,
-        #    inputs_embeds=inputs_embeds,
-        #)
-        
         embedding_outputs = self.bert.forward1(
             input_ids,
             attention_mask=attention_mask,
@@ -685,41 +645,29 @@ class BertForSequenceClassification_ip(BertPreTrainedModel):
         
         pooled_output = outputs[1]
         
-        #pooled_output.requires_grad_(True)
         
-        #pooled_output.retain_grad() 
-        #pooled_output = self.dropout(pooled_output)
         logits = self.classifier(pooled_output)
 
-        #print('len(outputs) :', len(outputs))
-        #print('outputs[0].size() :', outputs[0].size())
-        #print('outputs[1].size() :', outputs[1].size())
-        #print('len(outputs[2]) :', len(outputs[2]))
-        #print('pooled_output.size() :', pooled_output.size())
-        #print('logits.size() :', logits.size())
-        #exit(1)
+        
 
 
-        #outputs = (logits,) + outputs[2:]  # add hidden states and attention if they are here
+       
 
         logits = softmax_with_temperature(logits, temperature)
         logits2 = torch.log(logits)
 
         labels = logits.argmax(dim=-1)
-        #loss_fct = CrossEntropyLoss()
+        
         loss_fct = NLLLoss()
         loss = loss_fct(logits2.view(-1, self.num_labels), labels.view(-1))
 
         loss.backward()
         
-        #epsilon = 0.002
+        
         
         new_embedding_outputs = embedding_outputs - epsilon*torch.sign(embedding_outputs.grad)
         
-        #print('pooled_output.grad.size() :', pooled_output.grad.size())
-        #print('pooled_output.grad.size() :', pooled_output.grad.size())
-        #print('new_pooled_output.size() :', new_pooled_output.size())
-        #exit(1)
+        
         
         new_outputs = self.bert.forward2(
             input_ids,
@@ -750,7 +698,7 @@ class BertForSequenceClassification_ip(BertPreTrainedModel):
         '''
         
         
-        #return outputs  # (loss), logits, (hidden_states), (attentions)
+        
         return logits, new_logits
 
 
@@ -761,8 +709,7 @@ class BertSentimentClassificationSST(SentimentClassificationSST):
         config = BertConfig.from_pretrained(self.hparams.model)
         config.attention_probs_dropout_prob = 0.0
         config.hidden_dropout_prob = 0.0
-        #print('config :', config)
-        #exit(1)
+    
         config.num_labels = self.hparams.num_labels
         config.rationale = None
         config.output_hidden_states=True
@@ -770,13 +717,13 @@ class BertSentimentClassificationSST(SentimentClassificationSST):
             self.net = BertForTokenClassification.from_pretrained(
             self.hparams.model, config=config
         )
-        else: # 대충 이걸로 돌아갈 예정
+        else: 
             if self.hparams.train_rationale is not None:
                 config.rationale = True
             self.net = BertForSequenceClassification.from_pretrained(
                 self.hparams.model, config=config
             )
-    # temperature 인자 추가
+    
     def forward(self, input_ids, mask, token_type_ids, rationale_ids=None, labels=None, temperature=None, epsilon=None):
         if self.hparams.token_cls:
             return self.net(input_ids=input_ids, attention_mask=mask, token_type_ids=token_type_ids, labels=labels)
@@ -789,10 +736,7 @@ class BertSentimentClassificationSST_dropout(SentimentClassificationSST):
         super().__init__(hparams)
 
         config = BertConfig.from_pretrained(self.hparams.model)
-        #config.attention_probs_dropout_prob = 0.0
-        #config.hidden_dropout_prob = 0.0
-        #print('config :', config)
-        #exit(1)
+        
         config.num_labels = self.hparams.num_labels
         config.rationale = None
         config.output_hidden_states=True
@@ -800,13 +744,13 @@ class BertSentimentClassificationSST_dropout(SentimentClassificationSST):
             self.net = BertForTokenClassification.from_pretrained(
             self.hparams.model, config=config
         )
-        else: # 대충 이걸로 돌아갈 예정
+        else: 
             if self.hparams.train_rationale is not None:
                 config.rationale = True
             self.net = BertForSequenceClassification_dropout.from_pretrained(
                 self.hparams.model, config=config
             )
-    # temperature 인자 추가
+    
     def forward(self, input_ids, mask, token_type_ids, rationale_ids=None, labels=None, temperature=None, epsilon=None):
         if self.hparams.token_cls:
             return self.net(input_ids=input_ids, attention_mask=mask, token_type_ids=token_type_ids, labels=labels)
@@ -820,10 +764,7 @@ class BertSentimentClassificationSST_ip(SentimentClassificationSST):
         super().__init__(hparams)
 
         config = BertConfig.from_pretrained(self.hparams.model)
-        # config.attention_probs_dropout_prob = 0.1
-        # config.hidden_dropout_prob = 0.1
-        #print('config :', config)
-        #exit(1)
+        
         config.num_labels = self.hparams.num_labels
         config.rationale = None
         config.output_hidden_states=True
@@ -831,13 +772,13 @@ class BertSentimentClassificationSST_ip(SentimentClassificationSST):
             self.net = BertForTokenClassification.from_pretrained(
             self.hparams.model, config=config
         )
-        else: # 대충 이걸로 돌아갈 예정
+        else:
             if self.hparams.train_rationale is not None:
                 config.rationale = True
             self.net = BertForSequenceClassification_ip.from_pretrained(
                 self.hparams.model, config=config
             )
-    # temperature 인자 추가
+    
     def forward(self, input_ids, mask, token_type_ids, rationale_ids=None, labels=None, temperature=None, epsilon=None):
         if self.hparams.token_cls:
             return self.net(input_ids=input_ids, attention_mask=mask, token_type_ids=token_type_ids, labels=labels)
