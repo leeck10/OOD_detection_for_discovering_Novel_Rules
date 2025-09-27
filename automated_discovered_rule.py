@@ -47,5 +47,6 @@ except openai.error.OpenAIError as api_err:
     print(f"OpenAI API error: {api_err}")
 except Exception as e:
     print(f"Unexpected error: {e}")
+    print(f"Unexpected error: {e}")
 
 
