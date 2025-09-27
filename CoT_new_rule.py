@@ -54,4 +54,4 @@ with open(output_file, 'w') as output_f:
             print(f"OpenAI API error at index {i}: {api_error}")
         except Exception as e:
             print(f"General error at index {i}: {e}")
-            print(f"General error at index {i}: {e}")
+            
