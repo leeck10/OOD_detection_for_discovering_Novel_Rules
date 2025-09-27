@@ -6,7 +6,7 @@ original_hypotheses = [
     "The man is asian",
     "A man fell asleep on a bench because he was drunk",
     "The man has made a lot of money",
-    "The man is fat",
+    "The man is fats",
     "boy is crying",
     "The man is homeless",
     "A boy confirms he finds rock climbing easy",
